@@ -1,3 +1,17 @@
-site_name: My Docs
+site_name: Movimientos Animales
+site_description: Compilación de movimientos animales con detalles de cada ejercicio, rutinas, etc.
+site_author: Pere Vilás (https://github.com/pvilas)
+copyright: Pere Vilás
+extra:
+    version: 1.0
 theme:
     name: material
+    language: es
+pages:
+- Home : 'index.md'
+- Plantillas:
+    - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'
+- Varios:    
+    - 'Notas': 'varios/notas.md'
+    - 'Recopilación inicial': 'varios/recopilacion.md'
+    - 'Mkdocs': 'varios/mkdocs.md'
