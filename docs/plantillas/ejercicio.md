@@ -1,15 +1,15 @@
 
 Esta es la plantilla base ("ficha") para documentar los ejercicios.
-Usar h2 para cada una de las secciones
+Usar h2 para cada una de las secciones. Las secciones pueden o no aparecer.
 
 * Título
 * Foto
-* Otros nombres
+* Otras denominaciones
+* Calentamiento
 * Prerequisitos
-* Fases
+* Pasos
 * Notas
-* Video
-* GIF
+* Video (640x360)
 * Fotos
 * Fuentes
 

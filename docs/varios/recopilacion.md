@@ -7,6 +7,8 @@ Los nombres son totalmente inventados ya que no he encontrado ninguna denominaci
 
 - Burpees
 - Comba
+- Rotaciones de brazos
+
 
 
 ## Abdominales
@@ -21,6 +23,8 @@ Básicamente, los drills de jujutsu.
 - Soldado de espalda
 - Soldado de frente
 - 180 grados sobre antebrazo
+- Levantada técnica
+
 
 ## Espalda
 
@@ -126,7 +130,7 @@ Debe notarse en la cabeza del húmero
 
 - araña de lado (pierna y mano contrária)
 - Gusano (inchworm)
-- Flexión india
+- Flexión Ashtanga
     * Perro hacia abajo
     * pies posición pilates
     * flexión como saludo al Sol

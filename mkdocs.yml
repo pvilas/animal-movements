@@ -7,11 +7,27 @@ extra:
 theme:
     name: material
     language: es
-pages:
+    custom_dir: overrides
+    logo: img/logo.png
+plugins:
+  - macros    
+video:
+    width: 640
+    height: 360
+copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
+extra:
+  unit:
+    price: 12.50
+nav:
 - Home : 'index.md'
+- Ejercicios:
+    - 'El chimpancé': 'ejercicios/chimpance.md'
+
 - Plantillas:
     - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'
 - Varios:    
     - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
     - 'Mkdocs': 'varios/mkdocs.md'
+    - 'Fuentes': 'varios/fuentes.md'
+    - 'Entorno': 'varios/variables.md'
