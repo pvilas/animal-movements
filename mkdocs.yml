@@ -1,6 +1,6 @@
 site_name: Movimiento Animal
 #site_url: https://pvilas.github.io/animal-movements/
-site_url: http://www.movimiento-animal.com
+site_url: http://movimiento-animal.com/
 site_description: Compilación de movimientos animales con detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
@@ -42,9 +42,15 @@ nav:
     - 'Pushup combo': 'ejercicios/pushup-combo.md'    
     - 'Flexión hindú' : 'ejercicios/flexion-hindu.md'
     - 'La pica' : 'ejercicios/la-pica.md'
-    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'
+    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
+- Enfriar:
+    - 'El enfriamiento' : 'enfriar/index.md'
+    - 'El pino' : 'enfriar/pino.md'
+    - 'Psoas' : 'enfriar/psoas.md'
+    - 'Sarvangasana' : 'enfriar/sarvangasana.md'    
+    - 'Sirsasana' : 'enfriar/sirsasana.md'
 - Plantillas:
-    - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'
+    - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'    
 - Varios:    
     - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
