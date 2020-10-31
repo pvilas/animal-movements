@@ -29,10 +29,22 @@ No hay.
 ## Videos
 
 <video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="/video/chimpance.mp4" type="video/mp4">  
+  <source src="{{config.site_url}}video/chimpance.mp4" type="video/mp4">  
   Your browser does not support the video tag.
 </video>
 
+## Variaciones
+
+Lift Yourself hace unas variaciones orientadas a hacer el pino, incidiendo en llevar el peso hacia los brazos y, eventualmente, quedarse sobre ellos, bien totalmente estirados, bien en flexión.
+
+<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
+  <source src="{{config.site_url}}video/chimpance-2.mp4" type="video/mp4">  
+  Your browser does not support the video tag.
+</video>
+
+<small>Nota: Notar que no gira la pierna de atrás, yo prefiero hacerlo para proteger el ligamento interno de la rodilla.</small>
+
+
 ## Fuentes
 
-[Ath](/varios/fuentes/#ath)
+[Ath](/varios/fuentes/#ath),  [Lift](/varios/fuentes/#lift)

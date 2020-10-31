@@ -19,3 +19,20 @@
 
 - [Lerne einen neuen ANIMAL MOVEMENT FLOW - Dragon Squat, Ape und Rotation to L-Sit](https://www.youtube.com/watch?v=5HZwPCmbmoU)
 - [Lerne deinen ersten ANIMAL MOVEMENT FLOW! Movement für Beginner](https://www.youtube.com/watch?v=IYFrpMztoxs)
+- [Shoulder PUSH UPS bis zu ONE ARM PUSH UP! Lerne effektive Push-Übungen aus dem Movement Bereich](https://www.youtube.com/watch?v=BsePrz1ObBw&t=491s)
+
+### Lift yourself[](#lift)
+
+[Canal de youtube Lift Yourself](https://www.youtube.com/channel/UC3-9Q-J0igEnSTyle1tVgFw)
+
+### Yoga Trends[](#ytrends)
+
+[Canal de youtube Yoga Trends](https://www.youtube.com/channel/UCSwl_DXvoxkYzssJhUznoDA)
+
+### Fisio Online[](#fso)
+
+[Canal de youtube FisioOnline](https://www.youtube.com/channel/UC6iRiXWScChTr6uNLXjJYFQ)
+
+### Vidyut Jammwal[](#jamm)
+
+[Canal de youtube de Vidyut Jammwal, actor de acción de Bollywood](https://www.youtube.com/c/VidyutJammwalKalari)

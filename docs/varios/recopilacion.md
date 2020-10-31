@@ -5,11 +5,10 @@ Los nombres son totalmente inventados ya que no he encontrado ninguna denominaci
 
 ## Calentar
 
+- Articulaciones (aikido)
 - Burpees
 - Comba
 - Rotaciones de brazos
-
-
 
 ## Abdominales
 
@@ -124,7 +123,7 @@ Debe notarse en la cabeza del húmero
 - de 0 a 90 don pierna extendida
 - estirada hacia atrás, golpecitos glúteo
 - subir por la pierna y estirar (ballet)
-
+- rotaciones nyct vol 2. 33:14
 
 ## Brazos
 

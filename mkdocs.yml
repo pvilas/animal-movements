@@ -1,9 +1,13 @@
-site_name: Movimientos Animales
+site_name: Movimiento Animal
+#site_url: https://pvilas.github.io/animal-movements/
+site_url: http://www.movimiento-animal.com
 site_description: Compilación de movimientos animales con detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
     version: 1.0
+    unit:
+        price: 12.50
 theme:
     name: material
     language: es
@@ -15,14 +19,30 @@ video:
     width: 640
     height: 360
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
-extra:
-  unit:
-    price: 12.50
 nav:
 - Home : 'index.md'
+- Calentar:
+    - 'El calentamiento' : 'calentar/index.md'
+    - 'Pies y tobillos' : 'calentar/pies.md'
+    - 'Rodillas' : 'calentar/rodillas.md'
+    - 'Caderas' : 'calentar/caderas.md'
+    - 'Brazos' : 'calentar/brazos.md'
+    - 'Cuello' : 'calentar/cuello.md'
+    # - 'Espina' : 'calentar/espina.md'
 - Ejercicios:
     - 'El chimpancé': 'ejercicios/chimpance.md'
-
+    - 'Push Up': 'ejercicios/pushup.md'
+    - 'El arquero': 'ejercicios/arquero.md'
+    - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
+    - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
+    - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
+    - 'High lizard' : 'ejercicios/high_lizard.md'
+    - 'Lizard' : 'ejercicios/lizard.md'
+    - 'Pushup un brazo': 'ejercicios/pushup-un-brazo.md'
+    - 'Pushup combo': 'ejercicios/pushup-combo.md'    
+    - 'Flexión hindú' : 'ejercicios/flexion-hindu.md'
+    - 'La pica' : 'ejercicios/la-pica.md'
+    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'
 - Plantillas:
     - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'
 - Varios:    
