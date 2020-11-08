@@ -22,22 +22,15 @@ El bebé, rotaciones de brazos.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/pica1.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'pica1')}}
 
 ## Variaciones
 
 Elevando piernas
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/pica2.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
-
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'pica2')}}
 
 ## Fuentes
 

@@ -19,13 +19,8 @@ Postura sobre la cabeza.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/sirsasana-prod.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
-
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'sirsasana-prod')}}
 
 ## Fuentes
 

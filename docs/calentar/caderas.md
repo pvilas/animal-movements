@@ -13,14 +13,10 @@
 7. Estando arriba, rotaciones sobre eje.
 8. Finalizar con un *developé* cutre ;-)
 
-
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/calentar_cadera.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'calentar_cadera')}}
 
 ## Fuentes
 

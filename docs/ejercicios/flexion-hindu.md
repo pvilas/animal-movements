@@ -30,12 +30,8 @@ El bebé, rotaciones de brazos, pushups, la pica.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/flexion_hindu.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'flexion_hindu')}}
 
 ## Fuentes
 

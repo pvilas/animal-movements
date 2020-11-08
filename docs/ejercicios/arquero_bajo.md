@@ -21,10 +21,8 @@ Llegar progresivamente hasta las 10.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/arquero_bajo.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'arquero_bajo')}}
 
 ## Variaciones
 

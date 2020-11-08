@@ -1,6 +1,6 @@
 site_name: Movimiento Animal
 #site_url: https://pvilas.github.io/animal-movements/
-site_url: http://movimiento-animal.com/
+site_url: http://movimiento-animal.es/
 site_description: Compilación de movimientos animales con detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
@@ -18,6 +18,7 @@ plugins:
 video:
     width: 640
     height: 360
+    muted: 'muted'
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
 nav:
 - Home : 'index.md'
@@ -30,19 +31,36 @@ nav:
     - 'Cuello' : 'calentar/cuello.md'
     # - 'Espina' : 'calentar/espina.md'
 - Ejercicios:
-    - 'El chimpancé': 'ejercicios/chimpance.md'
     - 'Push Up': 'ejercicios/pushup.md'
     - 'El arquero': 'ejercicios/arquero.md'
     - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
     - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
     - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
-    - 'High lizard' : 'ejercicios/high_lizard.md'
-    - 'Lizard' : 'ejercicios/lizard.md'
     - 'Pushup un brazo': 'ejercicios/pushup-un-brazo.md'
     - 'Pushup combo': 'ejercicios/pushup-combo.md'    
     - 'Flexión hindú' : 'ejercicios/flexion-hindu.md'
     - 'La pica' : 'ejercicios/la-pica.md'
     - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
+- Animales:
+    - 'Los animales': 'animales/index.md'
+    - 'El gatito': 'animales/gatito.md'
+    - 'Araña frontal': 'animales/aranya-frontal.md'
+    - 'Araña lateral': 'animales/aranya-lateral.md'
+    - 'Soldado': 'animales/soldado.md'
+    - 'El chimpancé': 'animales/chimpance.md'
+    - 'Lagartija alta' : 'animales/high_lizard.md'
+    - 'La lagartija' : 'animales/lizard.md'
+    - Gambas:
+        - 'Las gambas': 'animales/gambas/index.md'
+        - 'Gamba hacia atrás': 'animales/gambas/gamba-atras.md'
+        - 'Gamba hacia adelante': 'animales/gambas/gamba-adelante.md'
+        - 'Gamba lateral': 'animales/gambas/gamba-de-lado.md'
+        - 'Omote Sankaku': 'animales/gambas/gamba-triangulo.md'
+        - 'Gamba saltarina': 'animales/gambas/balancin.md'
+    - Cambios de base:            
+        - 'Los cambios de base': 'animales/base/index.md'
+        - 'Estirar hombros': 'animales/base/hombros.md'
+        - 'Rotar': 'animales/base/rotar.md'
 - Enfriar:
     - 'El enfriamiento' : 'enfriar/index.md'
     - 'El pino' : 'enfriar/pino.md'

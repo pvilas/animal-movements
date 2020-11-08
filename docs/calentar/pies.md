@@ -21,11 +21,8 @@ Partimos sentados en el suelo con una pierna estirada y la otra plegada por enci
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/calentar_peus.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'calentar_peus')}}
 
 ## Fuentes
 

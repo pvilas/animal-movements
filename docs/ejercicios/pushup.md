@@ -31,22 +31,15 @@ El bebé, rotaciones de brazos.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/pushup.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'pushup')}}
 
 ## Variaciones
 
 Ejecución por Lift Yourself, poner audio.
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/pushup_lift.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
-
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'pushup_lift')}}
 
 ## Fuentes
 

@@ -1,0 +1,22 @@
+## Descripción
+
+Nos desplazamos frontal y lateralmente con la pelvis; Para ello, formamos un trípode con los pies y un hombro, y movemos las cadenras de forma lateral-frontal. La diferencia con la gamba hacia atrás es que en esta ocasión estiramos la pierna rotada.
+
+
+## Pasos
+
+1. Con las piernas plegadas, rotamos un pie hacia afuera y, extendiendo la pierna, apoyamos la almohadilla de los dedos.
+2. Levantamos la pelvis y el resto del cuerpo, quedando apoyados sólo sobre los pies y el mismo hombro que el pie. Ninguna zona más toca el suelo.
+3. Lanzamos la pelvis hacia adelante de forma vigorosa, plegando las piernas.
+
+
+Opcionalmente, a la vez que nos desplazamos con las caderas podemos empujar hacia atrás con los brazos a un contrincante figurado.
+
+## Videos
+
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'gamba-hacia-adelante')}}
+
+## Fuentes
+
+[Producción propia]({{config.site_url}})

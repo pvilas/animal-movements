@@ -11,11 +11,8 @@ No hacer los movimientos rápidos.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/calentar_rodillas.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'calentar_rodillas')}}
 
 ## Fuentes
 
