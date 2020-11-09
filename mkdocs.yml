@@ -70,8 +70,8 @@ nav:
 - Plantillas:
     - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'    
 - Varios:    
-    - 'Notas': 'varios/notas.md'
+    # - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
-    - 'Mkdocs': 'varios/mkdocs.md'
+    # - 'Mkdocs': 'varios/mkdocs.md'
     - 'Fuentes': 'varios/fuentes.md'
     - 'Entorno': 'varios/variables.md'
