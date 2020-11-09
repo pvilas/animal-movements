@@ -4,7 +4,7 @@ Hacemos un *triángulo* con las piernas desde una posición invertida sobre los 
 
 Ejecutarlo lentamente hasta que le cojamos la práctica. No apoyarse sobre el cuello.
 
-*Omote* significa frontal en japonés i *sankaku* significa triángulo.
+*Omote* significa frontal en japonés y *sankaku* significa triángulo.
 
 ## Otras denominaciones
 
@@ -12,9 +12,9 @@ El triángulo.
 
 ## Pasos
 
-1. Nos balanceamos hacia atrás, apoyándonos sobre los hombros.
+1. Nos balanceamos hacia atrás, apoyándonos sobre las escápulas.
 2. Hacemos un lazo (o una forma de cuatro) con las piernas, teniendo en cuenta que la pierna de fuera siempre es la que queda plegada sobre la otra.
-3. Nos reincorporamos, sentamos sobre el trasero. Avanzamos plegando las piernas.
+3. Nos incorporamos sentados sobre el trasero. Avanzamos plegando las piernas.
 4. Repetimos por el otro lado. Recordar que la pierna que se pliega es la de fuera.
 
 ## Videos

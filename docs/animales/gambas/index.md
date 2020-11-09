@@ -2,10 +2,10 @@
 
 Son un conjunto de ejercicios que se realizan en jujutsu y judo y que sirven para evitar que el contrincante ejerza control sobre nuestra posición. También son llamados *fugas*.
 
-Al principio, puede resultar extraño desplazarse por el suelo ya que no estamos acostumbrados pero termina siendo sorprendente la cantidad de movimientos que podemos realizar aún estado limitados.
+Al principio puede resultar extraño desplazarse por el suelo, pareciera un entorno que no nos es familiar ya que estamos acostumbrados a desenvolvernos de pie o sentados, pero con los brazos libres. Sin embargo, termina siendo sorprendente la cantidad de movimientos que podemos realizar aún estado limitados en ese plano horizontal.
 
-En jujutsu (o jiu-jitsu) el suelo se considera un arma que siempre tenemos a disposición si tenemos que reducir a un oponente por que se practican mucho los movimientos sobre él.
+En jujutsu (o jiu-jitsu) el suelo se considera un arma o recurso que siempre tenemos disponible si tenemos que reducir a un oponente.
 
-No son ejercicios sencillos. Practicarlos y poco a poco resultarán más fáciles.
+No son ejercicios sencillos. Practicarlos, y poco a poco resultarán más fáciles.
 
-Las gambas resultan ideales para movilizar todo el cuerpo y retar la coordinación. Usarlas como calentamiento.
+Las gambas resultan ideales para movilizar todo el cuerpo y retar la coordinación. Pueden usarse como calentamiento.

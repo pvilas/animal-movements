@@ -76,7 +76,7 @@ A mi me gusta ponerme música de estilo [*músicas de mundo*](https://soundcloud
 
 ## Acerca de mi
 
-Mi nombre es [Pere Vilás](http://pvilas.com). He practicado varias disciplinas tales como las artes marciales tradicional chinas, chi-kung, aikido, [jujutsu](https://www.ibizafightcenter.com/), yoga, gyrokinesis y [pilates](https://www.ibizapilatesandco.com/).
+Mi nombre es [Pere Vilás](http://pvilas.com). He practicado varias disciplinas, entre otras, las artes marciales tradicional chinas, chi-kung, [aikido](https://www.facebook.com/aikido.asaiibiza) con el Prof. Miguel Ruiz, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/) con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA) con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/) con la Prof. Florencia de Gaetano.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates). Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 

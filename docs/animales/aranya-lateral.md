@@ -1,6 +1,7 @@
 ## Descripción
+En esta araña, nos deplazaremos lateralmente. 
 
-Falta explicar
+La única complicación que tiene este ejercicio es que debemos coordinar el paso del brazo y su pierna contraria. Para ello, empezaremos con las piernas abiertas y las dos manos bajo el mismo hombro. Desde aquí, es sencillo coordinar el movimiento.
 
 Mantenemos los brazos rectos y evitamos que la zona escapular colapse.
 
@@ -8,10 +9,22 @@ Vigilar la zona pélvica, qeu no se curve. Meter bien el abdomen adentro y arrib
 
 Los pies perpendiculares al suelo, que no se roten hacia afuera o hacia dentro.
 
+Intentar no ir en diagonal, el cuerpo debe estar siempre perpedicular a la dirección de avance.
+
+No desequilibra pelvis u hombros, mantener el cuerpo paralelo al suelo.
+
+Este ejercicio tonifica el transverso abdominal.
+
+## Prerequisitos
+
+Calentar muñecas y hombros. Saber mantenerse en posición de flexión. Practicar la araña frontal.
+
+
 ## Pasos
 
-1. En posición de flexión.
-2. Avanzamos con un brazo bien recto mientras damos un pequeño paso con el otro.
+1. En posición de flexión, brazo estirados, piernas abiertas.
+2. Ponemos ambas manos debajo delmismo hombro. 
+3. Movemos lateral y simultáneamente el brazo y la pierna.
 3. Repetimos al otro lado.
 
 ## Videos

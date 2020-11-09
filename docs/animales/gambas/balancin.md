@@ -13,7 +13,7 @@ El balancín.
 1. Decúbito lateral, nos estiramos extendiendo brazos y piernas.
 2. De un golpe, recogemos las extremidades y avanzamos la pelvis, avanzando unos centímetros.
 3. En equilibrio sobre el trasero, pasamos por el centro y nos estiramos al otro lado.
-4. Repetimos por el otro lado.
+4. Repetimos.
 
 ## Videos
 

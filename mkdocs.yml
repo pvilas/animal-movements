@@ -46,7 +46,7 @@ nav:
     - 'El gatito': 'animales/gatito.md'
     - 'Araña frontal': 'animales/aranya-frontal.md'
     - 'Araña lateral': 'animales/aranya-lateral.md'
-    - 'Soldado': 'animales/soldado.md'
+    - 'El caimán': 'animales/soldado.md'
     - 'El chimpancé': 'animales/chimpance.md'
     - 'Lagartija alta' : 'animales/high_lizard.md'
     - 'La lagartija' : 'animales/lizard.md'
@@ -59,8 +59,8 @@ nav:
         - 'Gamba saltarina': 'animales/gambas/balancin.md'
     - Cambios de base:            
         - 'Los cambios de base': 'animales/base/index.md'
-        - 'Estirar hombros': 'animales/base/hombros.md'
-        - 'Rotar': 'animales/base/rotar.md'
+    #    - 'Estirar hombros': 'animales/base/hombros.md'
+    #    - 'Rotar': 'animales/base/rotar.md'
 - Enfriar:
     - 'El enfriamiento' : 'enfriar/index.md'
     - 'El pino' : 'enfriar/pino.md'
