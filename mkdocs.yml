@@ -15,6 +15,7 @@ theme:
     logo: img/logo.png
 plugins:
   - macros    
+google_analytics: ['G-PNMJ7GN8FX', 'animal']
 video:
     width: 640
     height: 360
