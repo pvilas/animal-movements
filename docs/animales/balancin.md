@@ -1,12 +1,13 @@
 ## Descripción
 
-Este ejercicio (*drill* en inglés) es una versión en solitario de otro que se suele realizar con un compañero. La persona que está en suelo usa los pies de otra que está de pie para sujetarse con una mano y tomar impulso. En esta versión, tomaremos impulso plegando el cuerpo.
+Este ejercicio es una versión en solitario de otro que se realiza con un compañero. La persona que está en suelo usa los pies de otra que está de pie para sujetarse con una mano y tomar impulso. En esta versión, tomaremos impulso plegando y estirando el cuerpo; Como si fuera un gusano, pero de lado.
 
 Es un ejercicio intenso para la zona abdominal que resultada muy tonificada.
 
+
 ## Otras denominaciones
 
-El balancín.
+El gusano lateral.
 
 ## Pasos
 

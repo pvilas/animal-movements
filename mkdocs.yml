@@ -15,7 +15,6 @@ theme:
     logo: img/logo.png
 plugins:
   - macros    
-google_analytics: ['G-PNMJ7GN8FX', 'animal']
 video:
     width: 640
     height: 360
@@ -27,7 +26,7 @@ nav:
     - 'El calentamiento' : 'calentar/index.md'
     - 'Pies y tobillos' : 'calentar/pies.md'
     - 'Rodillas' : 'calentar/rodillas.md'
-    - 'Caderas' : 'calentar/caderas.md'
+    - 'Caderas' : 'calentar/caderas.md' # falten rotacions de peus
     - 'Brazos' : 'calentar/brazos.md'
     - 'Cuello' : 'calentar/cuello.md'
     # - 'Espina' : 'calentar/espina.md'
@@ -47,27 +46,41 @@ nav:
     - 'El gatito': 'animales/gatito.md'
     - 'Araña frontal': 'animales/aranya-frontal.md'
     - 'Araña lateral': 'animales/aranya-lateral.md'
+    # - El oso
     - 'El caimán': 'animales/soldado.md'
     - 'El chimpancé': 'animales/chimpance.md'
     - 'Lagartija alta' : 'animales/high_lizard.md'
     - 'La lagartija' : 'animales/lizard.md'
+    - 'El triángulo': 'animales/triangulo.md'
+    # - gusano frontal
+    - 'El balancín': 'animales/balancin.md'
+    # rana (adelante, atras)
+    # escorpión
+    # - avanzar de culo - el grillo
+    # cangrejo (boca amunt sobre quatre pates)
+    # puente
     - Gambas:
         - 'Las gambas': 'animales/gambas/index.md'
         - 'Gamba hacia atrás': 'animales/gambas/gamba-atras.md'
         - 'Gamba hacia adelante': 'animales/gambas/gamba-adelante.md'
         - 'Gamba lateral': 'animales/gambas/gamba-de-lado.md'
-        - 'Omote Sankaku': 'animales/gambas/gamba-triangulo.md'
-        - 'Gamba saltarina': 'animales/gambas/balancin.md'
+    # - Ranas:
     - Cambios de base:            
         - 'Los cambios de base': 'animales/base/index.md'
     #    - 'Estirar hombros': 'animales/base/hombros.md'
     #    - 'Rotar': 'animales/base/rotar.md'
-- Enfriar:
+# - Caminar:  conscient (avant, darrera), de costat (Tai Chi Chuan), samba, dragón, ninja, pas de chat, tsudan tsuki, shomen-uchi, yokomen-uchi
+# shikko (aikido), kaiten-shikko
+# Rodar
+# https://www.youtube.com/watch?v=8xsrIua53L8
+- Enfriar:    
     - 'El enfriamiento' : 'enfriar/index.md'
+    # - la foca
     - 'El pino' : 'enfriar/pino.md'
     - 'Psoas' : 'enfriar/psoas.md'
     - 'Sarvangasana' : 'enfriar/sarvangasana.md'    
     - 'Sirsasana' : 'enfriar/sirsasana.md'
+    # meditar
 - Plantillas:
     - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'    
 - Varios:    

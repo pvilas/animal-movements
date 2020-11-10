@@ -1,6 +1,6 @@
 ## Descripción
 
-
+Es importe calentar esta zona *de conexión* entre tronco y extremidades.
 
 ## Pasos
 
@@ -8,7 +8,7 @@
 2. El ocho (no es fácil!)
 3. Abrir y cerrar pierna
 4. Rotaciones hacia dentro y hacia fuera
-5. Adelante y agtrás
+5. Adelante y atrás
 6. Arriba y abajo con pierna estirada. 
 7. Estando arriba, rotaciones sobre eje.
 8. Finalizar con un *developé* cutre ;-)

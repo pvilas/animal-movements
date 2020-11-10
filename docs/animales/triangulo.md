@@ -4,11 +4,11 @@ Hacemos un *triángulo* con las piernas desde una posición invertida sobre los 
 
 Ejecutarlo lentamente hasta que le cojamos la práctica. No apoyarse sobre el cuello.
 
-*Omote* significa frontal en japonés y *sankaku* significa triángulo.
+En japonés, esta técnica de jujutsu se denomina *Omote sankaku* (triángulo frontal). 
 
 ## Otras denominaciones
 
-El triángulo.
+La mantis. "El cuatro" (por la forma en que quedan las piernas).
 
 ## Pasos
 
