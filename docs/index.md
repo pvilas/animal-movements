@@ -111,6 +111,16 @@ Para reducir cualquier video a 640x360
 ffmpeg -i origen.mp4 -s 640x360 destino.mp4
 ```
 
+## Cookies
+
+Este sitio web usa las siguientes cookies de terceros:
+
+* Google Fonts
+* Google Analytics
+* Disqus
+
+Si sigues navegando, aceptas estas cookies.
+
 ## Responsabilidad
 
 Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**.

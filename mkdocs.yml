@@ -8,6 +8,14 @@ extra:
     version: 1.0
     unit:
         price: 12.50
+    disqus: movimiento-animal
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/pvilas
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/in/pvilas/
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/perevilas
 theme:
     name: material
     language: es
@@ -86,6 +94,7 @@ nav:
 - Varios:    
     # - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
+    - 'Mis videos de Pilates': 'varios/pilates.md'
     # - 'Mkdocs': 'varios/mkdocs.md'
     - 'Fuentes': 'varios/fuentes.md'
     - 'Entorno': 'varios/variables.md'
