@@ -1,5 +1,7 @@
 # Bienvenido a {{ config.site_name }}
 
+<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito">
+
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal walking*, *Locomotion* o incluso *Free movement*. 
 
 La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. El nombre de los movimientos suele estar basado en la forma de andar de algún animal aunque cada autor los denomina como buenamente quiere así que al final el nombre sirve más como recordario que otra cosa.
@@ -12,14 +14,13 @@ Los beneficios de estos movimientos son varios:
 * Mejoran la propiocepción
 * Preserva la movilidad
 
-El objetivo es **el control del movimiento** a través de la mente. Como ejercicios calisténicos, deben ejecutarse lentamente, buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
+El objetivo es **el control del movimiento** a través de la mente. Como **ejercicios calisténicos**, deben ejecutarse lentamente, buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
 
 El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas, pero todos los ejercicios están basados en unos pocos principios.
 
-El *movimiento animal* no está reconocido (aún, que yo sepa) como método **formal** de entrenamiento, si no que más bien son un conjunto de ejercicios que cada entrenador recoge y usa a su parecer.
+El *movimiento animal* no está reconocido (aún, que yo sepa) como método formal de entrenamiento, si no que más bien son un conjunto de ejercicios que cada entrenador recoge y usa a su parecer.
 
 Muchos movimientos son combinaciones de técnicas *estáticas* (sin desplazamiento), que se unen dinámicamente en otras con desplazamiento. Muchas tienen su origen en los drills del Jujutsu, otras en el vinyasa del Yoga Asthanya, otras en el ballet, etc.
-
 
 Esta es mi recopilación personal de ejercicios obtenidos de varias fuentes así como otros de "invención propia". La idea es tener un repositorio donde ir documentando de forma fácil los movimientos para su consulta posterior.
 
@@ -76,10 +77,9 @@ A mi me gusta ponerme música de estilo [*músicas de mundo*](https://soundcloud
 
 ## Acerca de mi
 
-Mi nombre es [Pere Vilás](http://pvilas.com). He practicado varias disciplinas, entre otras, las artes marciales tradicional chinas, chi-kung, [aikido](https://www.facebook.com/aikido.asaiibiza) con el Prof. Miguel Ruiz, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/) con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA) con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/) con la Prof. Florencia de Gaetano.
+Mi nombre es [Pere Vilás](http://pvilas.com). He practicado varias disciplinas, entre otras, las artes marciales tradicional chinas, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/) con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA) con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/) con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza) con el Prof. Miguel Ruiz.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates). Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
-
 
 ## Acerca de este sitio
 
