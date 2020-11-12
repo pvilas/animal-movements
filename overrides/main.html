@@ -22,3 +22,32 @@
 <link rel="preload" href="/stylesheets/regular.css"  as="style">
 <link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
 {% endblock %}
+
+<!-- Theme-related stylesheets -->
+{% block styles %}
+  <link rel="prefetch" href="{{ '/stylesheets/main.css' | url }}" as="style"/>
+  <link rel="stylesheet" href="{{ '/stylesheets/main.css' | url }}"/>
+
+  <!-- Extra color palette -->
+  {% if config.theme.palette %}
+    {% set palette = config.theme.palette %}
+    <link
+      rel="prefetch"
+      href="{{ '/stylesheets/palette.css' | url }}"
+      as="style"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/stylesheets/palette.css' | url }}"      
+    />
+
+    <!-- Theme-color meta tag for Android -->
+    {% if palette.primary %}
+      {% import "partials/palette.html" as map %}
+      {% set primary = map.primary(
+        palette.primary | replace(" ", "-") | lower
+      ) %}
+      <meta name="theme-color" content="{{ primary }}" />
+    {% endif %}
+  {% endif %}
+{% endblock %}
