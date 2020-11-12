@@ -16,8 +16,8 @@ extra:
           link: https://www.linkedin.com/in/pvilas/
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/perevilas
-extra_css:
-  - stylesheets/fonts.css          
+#extra_css:
+#  - stylesheets/fonts.css          
 theme:
     name: material
     language: es
