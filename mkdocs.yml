@@ -47,16 +47,16 @@ nav:
     - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
     - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
     - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
-    - 'Pushup un brazo': 'ejercicios/pushup-un-brazo.md'
-    - 'Pushup combo': 'ejercicios/pushup-combo.md'    
-    - 'Flexión hindú' : 'ejercicios/flexion-hindu.md'
-    - 'La pica' : 'ejercicios/la-pica.md'
+    - 'Pushup un brazo': 'ejercicios/pushup_un_brazo.md'
+    - 'Pushup combo': 'ejercicios/pushup_combo.md'    
+    - 'Flexión hindú' : 'ejercicios/flexion_hindu.md'
+    - 'La pica' : 'ejercicios/pica.md'
     - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
 - Animales:
     - 'Los animales': 'animales/index.md'
     - 'El gatito': 'animales/gatito.md'
-    - 'Araña frontal': 'animales/aranya-frontal.md'
-    - 'Araña lateral': 'animales/aranya-lateral.md'
+    - 'Araña frontal': 'animales/aranya_frontal.md'
+    - 'Araña lateral': 'animales/aranya_lateral.md'
     # - El oso
     - 'El caimán': 'animales/soldado.md'
     - 'El chimpancé': 'animales/chimpance.md'
@@ -72,9 +72,9 @@ nav:
     # puente
     - Gambas:
         - 'Las gambas': 'animales/gambas/index.md'
-        - 'Gamba hacia atrás': 'animales/gambas/gamba-atras.md'
-        - 'Gamba hacia adelante': 'animales/gambas/gamba-adelante.md'
-        - 'Gamba lateral': 'animales/gambas/gamba-de-lado.md'
+        - 'Gamba hacia atrás': 'animales/gambas/gamba_atras.md'
+        - 'Gamba hacia adelante': 'animales/gambas/gamba_adelante.md'
+        - 'Gamba lateral': 'animales/gambas/gamba_de_lado.md'
     # - Ranas:
     - Cambios de base:            
         - 'Los cambios de base': 'animales/base/index.md'

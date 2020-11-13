@@ -1,10 +1,14 @@
 ## Ejercicios en preparación
 
-* Llevar error a aranya lateral
 * Burpees
+* Rotaciones (de pie, sentado kundalini)
 * Oso (¡con respiración de fuego!)
 * Cangrejo (ad., at.)
 * Grillo (caminar cul enterra)
+* Rana (normal, con flexión)
+* Rana variación hacia atrás
+* El gusano
+* El perro dormilón
 * Cambios de base
     - Estirar hombros y rotar
     - Lateral
@@ -31,7 +35,7 @@
     - Caminar amb caderes de Tai Chi (marcant bé cadera)
     - Dragón
     - El ninja
-    - Directe de Choy Li Fat des de atrasada    
+    - Directe de Choy Li Fat des de atrasada
     - zancada
     - saltos de rana (sobre puntas de pies)
 * Escalfar 

@@ -20,7 +20,7 @@ Postura sobre la cabeza.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'sirsasana-prod')}}
+{{render_video(config.site_url, 'sirsasana')}}
 
 ## Fuentes
 

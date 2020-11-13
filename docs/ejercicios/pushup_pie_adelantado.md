@@ -20,10 +20,8 @@ Llegar progresivamente hasta las 10.
 
 ## Videos
 
-<video width="{{config.video.width}}" height="{{config.video.height}}" muted preload="auto" controls>
-  <source src="{{config.site_url}}video/pushup_pie_adelantado.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
+{% from 'macros.jinja' import render_video %}
+{{render_video(config.site_url, 'pushup_pie_adelantado')}}
 
 ## Variaciones
 
@@ -37,7 +35,7 @@ En esta variación hindú, proviniente del arte marcial Kalaripayattu, adelantam
 En esta otra variación, ejecutada por Jammwal, incidimos en el estiramiento de los flexores de la cadera de la pierna estirada y los extensores de la adelantada.
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup-jawal')}}
+{{render_video(config.site_url, 'pushup_jawal')}}
 
 ## Fuentes
 

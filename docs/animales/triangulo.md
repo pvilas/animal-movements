@@ -20,7 +20,7 @@ La mantis. "El cuatro" (por la forma en que quedan las piernas).
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'gamba-triangulo')}}
+{{render_video(config.site_url, 'gamba_triangulo')}}
 
 ## Fuentes
 

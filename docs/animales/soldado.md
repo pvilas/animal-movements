@@ -2,12 +2,11 @@
 
 Fantástico ejercicio para movilizar la espina dorsal.
 
-En la versión prona, avanzamos con el codo y la rodilla en contralateral. Observar cómo pasan los pies de un lado al otro rotando la pelvis. Es el movimiento que realizan los soldados para ir por el suelo.
+En la versión prona, avanzamos con el codo y la rodilla en contralateral. reptamos observando cómo pasan los pies de un lado al otro rotando la pelvis. Es el movimiento que realizan los soldados para ir por el suelo.
 
 Para ir de espalda avanzamos con los hombros a la vez que ondulamos la espina.
 
 Observar que la versión boca abajo la coordinación es contralateral y la boca arriba es lateral.
-
 
 ## Otras denominaciones
 

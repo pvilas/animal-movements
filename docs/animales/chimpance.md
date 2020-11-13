@@ -36,7 +36,7 @@ No hay.
 Lift Yourself hace unas variaciones orientadas a hacer el pino, incidiendo en llevar el peso hacia los brazos y, eventualmente, quedarse sobre ellos, bien totalmente estirados, bien en flexión.
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'chimpance-2')}}
+{{render_video(config.site_url, 'chimpance_2')}}
 
 <small>Nota: Notar que no gira la pierna de atrás, yo prefiero hacerlo para proteger el ligamento interno de la rodilla.</small>
 
