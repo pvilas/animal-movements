@@ -32,6 +32,9 @@ Recuerda:
 
 > Practice and all is coming. [Sri K. Pattabhi Jois](https://en.wikipedia.org/wiki/K._Pattabhi_Jois). (Fundador del Ashtanga Yoga Research Institute)
 
+## Navegación del sitio
+
+Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba a la izquierda o con los enlaces que hay en el pie de cada página.
 
 ## Fuentes
 
@@ -83,7 +86,7 @@ Mi inspiración principal en educación física es [Joseph Hubertus Pilates](htt
 
 ## Acerca de este sitio
 
-Este sitio está creado con [mkdocs](https://www.mkdocs.org) y hosteado en github pages.
+Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) y hosteado en github pages.
 
 Para bajar videos de youtube uso [youtube-dl](https://youtube-dl.org/). Por ejemplo,
 
