@@ -34,7 +34,7 @@ Recuerda:
 
 ## Navegación del sitio
 
-Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba a la izquierda o con los enlaces que hay en el pie de cada página.
+Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
 ## Fuentes
 

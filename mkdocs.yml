@@ -100,4 +100,5 @@ nav:
     - 'Mis videos de Pilates': 'varios/pilates.md'
     # - 'Mkdocs': 'varios/mkdocs.md'
     - 'Fuentes': 'varios/fuentes.md'
+    - 'Próximamente': 'varios/proximamente.md'
     - 'Entorno': 'varios/variables.md'

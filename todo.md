@@ -1,7 +1,8 @@
 
+
+
+
 Fer sèrie d'escalfament de canells i espatles.
-
-
 
 
 Mirar i documentar video Amazing Indian pushups
