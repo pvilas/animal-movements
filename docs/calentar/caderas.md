@@ -1,23 +1,15 @@
-## Descripción
-
-Es importe calentar esta zona *de conexión* entre tronco y extremidades.
-
-## Pasos
-
-1. Rotaciones
-2. El ocho (no es fácil!)
-3. Abrir y cerrar pierna
-4. Rotaciones hacia dentro y hacia fuera
-5. Adelante y atrás
-6. Arriba y abajo con pierna estirada. 
-7. Estando arriba, rotaciones sobre eje.
-8. Finalizar con un *developé* cutre ;-)
-
-## Videos
-
-{% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'calentar_cadera')}}
-
-## Fuentes
-
-[Producción propia]({{config.site_url}})
+---
+descripcion: "Es importe calentar esta zona *de conexión* entre tronco y extremidades."
+pasos:
+    - "Rotaciones"
+    - "El ocho (no es fácil!)"
+    - "Abrir y cerrar pierna"
+    - "Rotaciones hacia dentro y hacia fuera"
+    - "Adelante y atrás"
+    - "Arriba y abajo con pierna estirada."
+    - "Estando arriba, rotaciones sobre eje."
+    - "Finalizar con un *developé* cutre ;-)"
+fuentes:
+    - "propia"
+---
+{% extends "pagina.jinja" %}

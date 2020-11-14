@@ -6,8 +6,7 @@ site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
     version: 1.0
-    unit:
-        price: 12.50
+    posters: '/img/posters/'
     disqus: movimiento-animal
     social:
         - icon: fontawesome/brands/github
@@ -31,10 +30,12 @@ video:
     height: 360
     muted: 'muted'
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
+markdown_extensions:
+  - meta
 nav:
 - Home : 'index.md'
 - Calentar:
-    - 'El calentamiento' : 'calentar/index.md'
+    - 'El calentamiento' : 'calentar/index.md'        
     - 'Pies y tobillos' : 'calentar/pies.md'
     - 'Rodillas' : 'calentar/rodillas.md'
     - 'Caderas' : 'calentar/caderas.md' # falten rotacions de peus

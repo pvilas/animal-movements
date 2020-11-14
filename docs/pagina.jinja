@@ -1,0 +1,78 @@
+{% from 'macros.jinja' import render_video, render_cards %}
+
+{# nombre de la pagina (mismo que nombre que video, poster, etc.) #}
+{% set name = page.abs_url.split('/')[-2] %}
+
+{% block descripcion %}
+{% if page.meta.descripcion %}
+## Descripción
+{{page.meta.descripcion}}
+{% endif %}
+{% endblock %}
+
+{% block denominaciones %}
+{% if page.meta.denominaciones %}
+## Otras denominaciones
+{{page.meta.denominaciones}}
+{% endif %}
+{% endblock %}
+
+{% block calentamiento %}
+{% if page.meta.calentamiento %}
+## Calentamiento
+{{page.meta.calentamiento}}
+{% endif %}
+{% endblock %}
+
+{% block prerequisitos %}
+{% if page.meta.prerequisitos %}
+## Prerequisitos
+{{page.meta.prerequisitos}}
+{% endif %}
+{% endblock %}
+
+{% block pasos %}
+{% if page.meta.pasos %}
+## Pasos
+<ol>
+{% for p in page.meta.pasos %}
+    <li>{{p|safe}}</li>
+{% endfor %}
+</ol>
+{% endif %}
+{% endblock %}
+
+{% block videos %}
+{% if not page.meta.is_index %}
+## Videos
+<video width="100%" height="auto" max-width="100%"" muted preload="auto" controls allowfullscreen
+    poster="/img/posters/{{name}}.png">
+    <source src="/video/{{name}}.mp4" type="video/mp4">  
+    Tu navegador no soporta la etiqueta video.
+</video>
+{% endif %}
+{% endblock %}
+
+{% block fuentes %}
+{% if page.meta.fuentes %}
+## Fuentes
+<p>
+    {% for f in page.meta.fuentes%}
+        {% if f=="propia"%}
+            <a href="{{config.site_url}}">Producción propia</a>.
+        {%else%}
+            <a href="/varios/fuentes/#{{f}}">{{f}}</a>{% if not loop.last%}, {%else%}.{% endif %}
+        {%endif%}
+    {%endfor%}
+</p>
+{% endif %}
+{% endblock %}
+
+{% block indice %}
+{% if page.meta.is_index %}
+<link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+{{render_cards(page.parent.children, page.url)}}
+{% endif %}
+{% endblock %}
+
