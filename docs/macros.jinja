@@ -10,6 +10,7 @@
 {% endmacro %}
 
 
+
 {% macro render_cards(children, page_url )%}
 
 <div class="mdc-layout-grid">
@@ -19,7 +20,7 @@
         {% if p.url!=page_url %}
           {% set nom_pag = p.abs_url.split('/')[-2] %}
 
-          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-3" onclick="window.location.href ='{{p.abs_url}}'">
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{p.abs_url}}'">
               <div class="mdc-card">         
                   <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
                       <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: url(&quot;/img/posters/{{nom_pag}}.png&quot;);"></div>
@@ -32,8 +33,33 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
   </div>
 </div>
-
+<div>
+{% for p in children %}
+  {% if p.is_section %}
+    <h3>{{p.title}}</h3>
+    <div class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        {% for r in p.children %}
+          {% set nom_pag = r.abs_url.split('/')[-2] %}
+          {% set l = r.abs_url.split('/')|length %}
+          {% if l>4 %}            
+            <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{r.abs_url}}'">
+                <div class="mdc-card">         
+                    <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
+                        <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: url(&quot;/img/posters/{{nom_pag}}.png&quot;);"></div>
+                        <div class="demo-card__primary">
+                            <h3 class="demo-card__title mdc-typography mdc-typography--headline6">{{r.title}}</h3>
+                        </div>                      
+                    </div>
+                </div>
+            </div>        
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
 {% endmacro %}

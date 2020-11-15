@@ -17,7 +17,7 @@ Los pies perpendiculares al suelo, que no se roten hacia afuera o hacia dentro.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'aranya_hacia_delante')}}
+{{render_video(config.site_url, 'aranya_frontal')}}
 
 ## Fuentes
 

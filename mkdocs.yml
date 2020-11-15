@@ -43,6 +43,7 @@ nav:
     - 'Cuello' : 'calentar/cuello.md'
     # - 'Espina' : 'calentar/espina.md'
 - Ejercicios:
+    - 'Los ejercicios': 'ejercicios/index.md'
     - 'Push Up': 'ejercicios/pushup.md'
     - 'El arquero': 'ejercicios/arquero.md'
     - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
