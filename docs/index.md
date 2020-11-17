@@ -4,7 +4,7 @@
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal walking*, *Locomotion* o incluso *Free movement*. 
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. El nombre de los movimientos suele estar basado en la forma de andar de algún animal.
+La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*; su nombre suele estar basado en la forma de andar de algún animal.
 
 Los beneficios de estos movimientos son varios:
 
@@ -20,9 +20,9 @@ El método permite el avance progresivo del practicante, desde las versiones má
 
 El *movimiento animal* no está reconocido (aún, que yo sepa) como método formal de entrenamiento, si no que más bien son un conjunto de ejercicios que cada entrenador recoge y usa a su parecer.
 
-Muchos movimientos son combinaciones de técnicas *estáticas* (sin desplazamiento), que se unen dinámicamente en otras con desplazamiento. Muchas tienen su origen en los drills del Jujutsu, otras en el vinyasa del Yoga Asthanya, otras en el ballet, etc.
+Muchos movimientos son combinaciones de técnicas *estáticas* (sin desplazamiento), que se unen dinámicamente en otras con desplazamiento. Muchos tienen su origen en el Jujutsu, otros en el vinyasa del Yoga Asthanya, otros en el ballet, etc.
 
-Esta es mi recopilación personal de ejercicios obtenidos de varias fuentes así como otros de "invención propia". La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
+Esta es mi recopilación personal de ejercicios. Unos los he obtenido de varias [fuentes](/varios/fuentes), otros los he creado. La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
 
 Recuerda:
 
