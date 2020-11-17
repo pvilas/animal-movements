@@ -4,7 +4,7 @@
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal walking*, *Locomotion* o incluso *Free movement*. 
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*; su nombre suele estar basado en la forma de andar de algún animal.
+La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. Su nombre suele estar basado en la forma de andar de algún animal.
 
 Los beneficios de estos movimientos son varios:
 
@@ -20,9 +20,9 @@ El método permite el avance progresivo del practicante, desde las versiones má
 
 El *movimiento animal* no está reconocido (aún, que yo sepa) como método formal de entrenamiento, si no que más bien son un conjunto de ejercicios que cada entrenador recoge y usa a su parecer.
 
-Muchos movimientos son combinaciones de técnicas *estáticas* (sin desplazamiento), que se unen dinámicamente en otras con desplazamiento. Muchos tienen su origen en el Jujutsu, otros en el vinyasa del Yoga Asthanya, otros en el ballet, etc.
+Muchos movimientos son combinaciones de técnicas *estáticas* que se unen dinámicamente en otras con desplazamiento. Algunos tienen su origen en el Jujutsu, otros en el vinyasa del Yoga Asthanya, otros en el ballet, etc.
 
-Esta es mi recopilación personal de ejercicios. Unos los he obtenido de varias [fuentes](/varios/fuentes), otros los he creado. La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
+Esta es mi recopilación personal de ejercicios. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
 
 Recuerda:
 
@@ -36,6 +36,10 @@ Recuerda:
 
 Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
+## Comunidad
+
+Deja tus comentarios o dudas en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.
+
 ## Novedades
 
 Las últimas incorporaciones a mvomiento animal son:
@@ -43,7 +47,7 @@ Las últimas incorporaciones a mvomiento animal son:
 * [Los cambios de base](/animales/base)
 * [Estirar los hombros](calentar/estirar_hombros)
 
-Puedes encontrar el listado de los ejercicios en preparación en el apartado [próximamente](/varios/proximamente.md).
+Puedes encontrar el listado de los ejercicios en preparación en el apartado [próximamente](/varios/proximamente).
 
 ## Fuentes
 
