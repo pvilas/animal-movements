@@ -2,9 +2,9 @@
 
 En este segundo cambio de base, abriremos un poco más la pierna desde cuatro patas de forma que todo el cuerpo pueda pasar por enmedio de forma frontal.
 
-La pierna delantera se estira totalmente, paralela al suelo, mientras que el brazo posterior va hacia atrás. Este estiramiento resulta muy energizante.
+La pierna delantera se despliega totalmente, paralela al suelo, mientras que el brazo posterior va hacia atrás. Este estiramiento resulta muy energizante.
 
-Vigilar que el hombro del brazo de apoyo no duela. No exagerar el ángulo.
+Vigilar el hombro del brazo de apoyo, no exagerar el ángulo del tronco respecto al brazo.
 
 ## Calentamiento
 

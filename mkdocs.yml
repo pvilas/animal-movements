@@ -7,7 +7,7 @@ copyright: Pere Vilás
 extra:
     version: 1.0
     posters: '/img/posters/'
-    disqus: movimiento-animal
+    # disqus: movimiento-animal
     social:
         - icon: fontawesome/brands/github
           link: https://github.com/pvilas
@@ -25,10 +25,6 @@ theme:
     favicon: favicon.ico
 plugins:
   - macros    
-video:
-    width: 640
-    height: 360
-    muted: 'muted'
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
 markdown_extensions:
   - meta

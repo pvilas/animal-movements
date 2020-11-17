@@ -16,10 +16,9 @@
   {{super()}}
   <meta name="yandex-verification" content="9397c426330d20f9" />
   <meta name="msvalidate.01" content="39CD457F50BFFB380B0EB7C2DDA1B4DE" />
-  {#
-  <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
-  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
-  #}
+  
+  <link rel="prefetch" href="{{ '/stylesheets/material-components-web.min.css' | url }}" as="style">
+  <link rel="stylesheet" href="{{ '/stylesheets/material-components-web.min.css' | url }}">
 {% endblock %}
 
 {% block fonts%}
