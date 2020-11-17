@@ -10,7 +10,7 @@ do
         echo "$PHOTO already exists"
     else
         echo "converting $PHOTO ..."
-        convert "$PHOTO[$WIDTHx>]" "$BASE/$PHOTO.jpg"
+        convert "$PHOTO[200x>]" "$BASE/$PHOTO.jpg"
     fi
 done
 
@@ -25,6 +25,6 @@ do
         echo "$PHOTO already exists"
     else
         echo "converting $PHOTO ..."
-        convert "$PHOTO[$WIDTHx>]" "$BASE/$PHOTO.jpg"
+        convert "$PHOTO[640x>]" "$BASE/$PHOTO.jpg"
     fi
 done
