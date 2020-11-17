@@ -4,7 +4,7 @@
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal walking*, *Locomotion* o incluso *Free movement*. 
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. El nombre de los movimientos suele estar basado en la forma de andar de algún animal aunque cada autor los denomina como buenamente quiere así que al final el nombre sirve más como recordario que otra cosa.
+La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. El nombre de los movimientos suele estar basado en la forma de andar de algún animal.
 
 Los beneficios de estos movimientos son varios:
 
@@ -22,7 +22,7 @@ El *movimiento animal* no está reconocido (aún, que yo sepa) como método form
 
 Muchos movimientos son combinaciones de técnicas *estáticas* (sin desplazamiento), que se unen dinámicamente en otras con desplazamiento. Muchas tienen su origen en los drills del Jujutsu, otras en el vinyasa del Yoga Asthanya, otras en el ballet, etc.
 
-Esta es mi recopilación personal de ejercicios obtenidos de varias fuentes así como otros de "invención propia". La idea es tener un repositorio donde ir documentando de forma fácil los movimientos para su consulta posterior.
+Esta es mi recopilación personal de ejercicios obtenidos de varias fuentes así como otros de "invención propia". La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
 
 Recuerda:
 
@@ -35,6 +35,15 @@ Recuerda:
 ## Navegación del sitio
 
 Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
+
+## Novedades
+
+Las últimas incorporaciones a mvomiento animal son:
+
+* [Los cambios de base](/animales/base)
+* [Estirar los hombros](calentar/estirar_hombros)
+
+Puedes encontrar el listado de los ejercicios en preparación en el apartado [próximamente](/varios/proximamente.md).
 
 ## Fuentes
 

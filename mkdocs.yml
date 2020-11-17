@@ -41,7 +41,8 @@ nav:
     - 'Caderas' : 'calentar/caderas.md' # falten rotacions de peus
     - 'Brazos' : 'calentar/brazos.md'
     - 'Cuello' : 'calentar/cuello.md'
-    # - 'Espina' : 'calentar/espina.md'
+    - 'Espina' : 'calentar/calentar_espina.md'
+    - 'Estirar hombros' : 'calentar/estirar_hombros.md'
 - Ejercicios:
     - 'Los ejercicios': 'ejercicios/index.md'
     - 'Push Up': 'ejercicios/pushup.md'
@@ -80,8 +81,10 @@ nav:
     # - Ranas:
     - Cambios de base:            
         - 'Los cambios de base': 'animales/base/index.md'
-    #    - 'Estirar hombros': 'animales/base/hombros.md'
-    #    - 'Rotar': 'animales/base/rotar.md'
+        #    - 'Rotar': 'animales/base/rotar.md'
+        - 'Cambio de base lateral': 'animales/base/cambio_base_lateral.md'
+        - 'Cambio de base frontal': 'animales/base/cambio_base_frontal.md'
+        - 'Levantada técnica': 'animales/base/levantada_tecnica.md'    
 # - Caminar:  conscient (avant, darrera), de costat (Tai Chi Chuan), samba, dragón, ninja, pas de chat, tsudan tsuki, shomen-uchi, yokomen-uchi
 # shikko (aikido), kaiten-shikko
 # Rodar
