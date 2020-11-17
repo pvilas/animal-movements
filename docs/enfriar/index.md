@@ -5,5 +5,6 @@ descripcion: "Al final de la sesión, debemos ir bajando el ritmo e indicar al c
 Estos ejercicios son un poco avanzados, no los intentes si no sabes lo que haces."
 
 is_index: 1
+template: "indice.html"
 ---
 {% extends "pagina.jinja" %}

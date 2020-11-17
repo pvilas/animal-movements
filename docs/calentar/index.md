@@ -18,5 +18,6 @@ descripcion: "El calentamiento es muy importante y nunca debemos obviarlo. El qu
 Dejo para el final la espina, donde podemos aprovechar para empezar a hacer un poco de cardio."
 
 is_index: 1
+template: "indice.html"
 ---
 {% extends "pagina.jinja" %}

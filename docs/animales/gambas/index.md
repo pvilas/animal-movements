@@ -13,28 +13,6 @@ No son ejercicios sencillos. Practicarlos y poco a poco resultarán más fácile
 
 Las gambas resultan ideales para movilizar todo el cuerpo y retar la coordinación. Pueden usarse como calentamiento."
 is_index: 1
+template: "indice.html"
 ---
 {% extends "pagina.jinja" %}
-
-{#
-{% for item in config.comentarios %}
-    {{item}}, {{config.comentarios[item]}}
-{% endfor %}
-
-{{page.parent.children}}
-
-{% for p in page.parent.children %}
-    {% if p.url!=page.url %}
-    {% set nom_pag = p.abs_url.split('/') %}
-    {{nom_pag[-2]}}, 
-        {{p.title}}, {{p.abs_url}}, {{p.abs_url}}
-    {% endif %}
-{% endfor %}
-
-
-Meta {{page.meta}}
-Content {{page.url}}
-#}
-
-{% from 'macros.jinja' import render_cards %}
-{{render_cards(page.parent.children, page.url)}}
