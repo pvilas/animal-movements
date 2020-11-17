@@ -99,19 +99,19 @@ Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs
 
 Para bajar videos de youtube uso [youtube-dl](https://youtube-dl.org/). Por ejemplo,
 
-```
+``` shell
 youtube-dl -f 18 'www.youtube.com/watch?v=IYFrpMztoxs'
 ```
 
 Para ver los formatos en los que está disponible el vídeo, usar la opción `-F`,
 
-```
+``` shell
 youtube-dl -F 'www.youtube.com/watch?v=IYFrpMztoxs'
 ```
 
 Para cortar y reducir el tamaño de los vídeos, uso ffmpeg. Por ejemplo,
 
-```
+``` shell
 ffmpeg -i basic.mp4 -ss 00:00:30 -to 00:00:40 -vf scale=640:360 clip.mp4
 ```
 
@@ -119,8 +119,23 @@ Corta entre los 30 y 40 segundos del vídeo y, en su caso, lo reduce a 640x360.
 
 Para reducir cualquier video a 640x360
 
-```
+``` shell
 ffmpeg -i origen.mp4 -s 640x360 destino.mp4
+```
+
+Para crear los thumbnails de las páginas de índice
+
+``` shell
+for PHOTO in *.png
+do
+    if [ -e "thumbs/$PHOTO" ]
+    then
+        echo "$PHOTO ya existe"
+    else
+        echo "convirtiendo $PHOTO ..."
+        convert "$PHOTO[200x>]" "thumbs/$PHOTO"
+    fi
+done
 ```
 
 ## Cookies
