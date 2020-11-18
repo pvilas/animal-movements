@@ -16,24 +16,27 @@
   {{super()}}
   <meta name="yandex-verification" content="9397c426330d20f9" />
   <meta name="msvalidate.01" content="39CD457F50BFFB380B0EB7C2DDA1B4DE" />
-  {#  
-  <link rel="prefetch" href="{{ '/stylesheets/material-components-web.min.css' | url }}" as="style">
-  <link rel="stylesheet" href="{{ '/stylesheets/material-components-web.min.css' | url }}">
-  #}
 {% endblock %}
 
 {% block fonts%}
 <link rel="preload" href="/stylesheets/regular.css"  as="style">
 <link rel="stylesheet" href="/stylesheets/regular.css">
-<link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
-<link rel="stylesheet" href="/stylesheets/fonts.css">
+{#<link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
+<link rel="stylesheet" href="/stylesheets/fonts.css">#}
 {% endblock %}
 
+
 <!-- Theme-related stylesheets -->
-{% block styles %}
+{# % block styles % #}
+{% block config %}
+  {{super()}}
+
   <link rel="prefetch" href="{{ '/stylesheets/main.css' | url }}" as="style"/>
   <link rel="stylesheet" href="{{ '/stylesheets/main.css' | url }}"/>
 
+  <link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
+  <link rel="stylesheet" href="/stylesheets/fonts.css">
+  
   <!-- Extra color palette -->
   {% if config.theme.palette %}
     {% set palette = config.theme.palette %}
