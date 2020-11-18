@@ -1,18 +1,5 @@
 {% extends "base.html" %}
 
-{% block analytics %}
-{#
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PNMJ7GN8FX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-PNMJ7GN8FX');
-</script>
-#}
-{% endblock %}
-
 {% block extrahead %}
   {{super()}}
   <meta name="yandex-verification" content="9397c426330d20f9" />
@@ -22,21 +9,21 @@
 {% block fonts%}
 <link rel="preload" href="/stylesheets/regular.css"  as="style">
 <link rel="stylesheet" href="/stylesheets/regular.css">
-{#<link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
-<link rel="stylesheet" href="/stylesheets/fonts.css">#}
 {% endblock %}
 
 
-<!-- Theme-related stylesheets -->
+{% block styles %}
+<link rel="prefetch" href="{{ '/stylesheets/main.css' | url }}" as="style"/>
+<link rel="stylesheet" href="{{ '/stylesheets/main.css' | url }}"/>
+{% endblock %}
+
+
 {# % block styles % #}
 {% block config %}
   {{super()}}
-{#
-  <link rel="prefetch" href="{{ '/stylesheets/main.css' | url }}" as="style"/>
-  <link rel="stylesheet" href="{{ '/stylesheets/main.css' | url }}"/>
-#}
+
   <link rel="prefetch" href="/stylesheets/fonts.css"  as="style">
-  <link rel="stylesheet" href="/stylesheets/fonts.css">
+ <link rel="stylesheet" href="/stylesheets/fonts.css">
   
   <!-- Extra color palette -->
   {% if config.theme.palette %}
