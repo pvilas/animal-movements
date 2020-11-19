@@ -17,7 +17,7 @@ El bebé.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'gatito')}}
+{{render_video('gatito')}}
 
 ## Fuentes
 

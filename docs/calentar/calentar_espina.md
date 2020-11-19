@@ -13,4 +13,4 @@ Empezar suave, después ir llevando las manos más lejos.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'calentar_espina')}}
+{{render_video('calentar_espina')}}

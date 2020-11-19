@@ -32,14 +32,14 @@ El bebé, rotaciones de brazos.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup')}}
+{{render_video('pushup')}}
 
 ## Variaciones
 
 Ejecución por Lift Yourself, poner audio.
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_lift')}}
+{{render_video('pushup_lift')}}
 
 ## Fuentes
 

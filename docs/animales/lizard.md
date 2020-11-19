@@ -20,7 +20,7 @@ Series de cuatro son suficientes.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'lizard')}}
+{{render_video('lizard')}}
 
 ## Variaciones
 

@@ -15,7 +15,7 @@ Opcionalmente, a la vez que nos desplazamos con las caderas podemos empujar haci
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'gamba_adelante')}}
+{{render_video('gamba_adelante')}}
 
 ## Fuentes
 

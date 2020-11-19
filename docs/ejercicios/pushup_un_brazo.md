@@ -22,7 +22,7 @@ Llegar progresivamente hasta las 10.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_un_brazo')}}
+{{render_video('pushup_un_brazo')}}
 
 ## Variaciones
 

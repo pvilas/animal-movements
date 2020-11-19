@@ -22,4 +22,4 @@ No hacer este ejercicio sin antes, como mínimo, [estirar hombros](/calentar/est
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'levantada_tecnica')}}
+{{render_video('levantada_tecnica')}}

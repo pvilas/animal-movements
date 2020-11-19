@@ -19,7 +19,7 @@ La serpiente lateral.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'gamba_de_lado')}}
+{{render_video('gamba_de_lado')}}
 
 ## Fuentes
 

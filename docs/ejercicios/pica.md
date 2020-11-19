@@ -23,14 +23,14 @@ El bebé, rotaciones de brazos.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pica1')}}
+{{render_video('pica1')}}
 
 ## Variaciones
 
 Elevando piernas
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pica2')}}
+{{render_video('pica2')}}
 
 ## Fuentes
 

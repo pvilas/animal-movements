@@ -24,7 +24,7 @@ Llegar progresivamente hasta las 10.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'arquero')}}
+{{render_video('arquero')}}
 
 ## Variaciones
 

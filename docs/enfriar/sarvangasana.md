@@ -18,7 +18,7 @@ La vela
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'sarvangasana')}}
+{{render_video('sarvangasana')}}
 
 ## Fuentes
 

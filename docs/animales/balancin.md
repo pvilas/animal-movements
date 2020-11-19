@@ -20,7 +20,7 @@ El gusano lateral.
 
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'balancin')}}
+{{render_video('balancin')}}
 
 
 ## Fuentes

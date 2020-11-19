@@ -17,7 +17,7 @@ Handstand
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pino')}}
+{{render_video('pino')}}
 
 ## Fuentes
 

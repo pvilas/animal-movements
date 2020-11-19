@@ -31,7 +31,7 @@ El bebé, rotaciones de brazos, pushups, la pica.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'flexion_hindu')}}
+{{render_video('flexion_hindu')}}
 
 ## Fuentes
 

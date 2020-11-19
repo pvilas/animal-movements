@@ -21,7 +21,7 @@ Llegar progresivamente hasta las 10.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_pie_adelantado')}}
+{{render_video('pushup_pie_adelantado')}}
 
 ## Variaciones
 
@@ -30,12 +30,12 @@ Llegar progresivamente hasta las 10.
 En esta variación hindú, proviniente del arte marcial Kalaripayattu, adelantamos el pie hasta la altura de las manos y después de hacer la flexión, estiramos completamente los brazos, levantando la cabeza y flexionando **la zona dorsal**; la zona lumbar no debe flexionarse.
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_pie_adelantado_kalari')}}
+{{render_video('pushup_pie_adelantado_kalari')}}
 
 En esta otra variación, ejecutada por Jammwal, incidimos en el estiramiento de los flexores de la cadera de la pierna estirada y los extensores de la adelantada.
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_jawal')}}
+{{render_video('pushup_jawal')}}
 
 ## Fuentes
 

@@ -24,4 +24,4 @@ Hasta cinco por cada lado, sin marearnos.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'cambio_base_rotar')}}
+{{render_video('cambio_base_rotar')}}

@@ -25,7 +25,7 @@ Estar unos minutos moviéndose.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'pushup_combo')}}
+{{render_video('pushup_combo')}}
 
 ## Variaciones
 

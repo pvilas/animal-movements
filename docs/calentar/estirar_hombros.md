@@ -16,4 +16,4 @@ Mantener la espalda recta. No forzar. Salir de la postura sin brusquedades.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'estirar_hombros')}}
+{{render_video('estirar_hombros')}}

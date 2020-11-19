@@ -47,7 +47,7 @@ Algunos de estos ejercicios están sacados del aikido y del kendo.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'brazos')}}
+{{render_video('brazos')}}
 
 ## Fuentes
 

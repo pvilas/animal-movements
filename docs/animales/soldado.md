@@ -28,7 +28,7 @@ El soldado.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'soldado')}}
+{{render_video('soldado')}}
 
 ## Fuentes
 

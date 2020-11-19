@@ -21,4 +21,4 @@ No hacer este ejercicio sin antes, como mínimo, [estirar hombros](/calentar/est
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'cambio_base_lateral')}}
+{{render_video('cambio_base_lateral')}}

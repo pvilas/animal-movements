@@ -30,7 +30,7 @@ Calentar muñecas y hombros. Saber mantenerse en posición de flexión. Practica
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'aranya_lateral')}}
+{{render_video('aranya_lateral')}}
 
 ## Fuentes
 

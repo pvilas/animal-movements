@@ -14,7 +14,7 @@ Estiramiento de los flexores de la cadera. Es muy beneficioso para aquellos que 
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video(config.site_url, 'psoas')}}
+{{render_video('psoas')}}
 
 ## Fuentes
 
