@@ -4,7 +4,7 @@
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow* o *Animal walking*.
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan *desplazándose o moviéndose*, estando su nombre está basado en la forma de andar de algún animal.
+La característica más destacable de estos ejercicios físicos es que se ejecutan *desplazándose o moviéndose*, estando su nombre basado en la forma de andar de algún animal.
 
 Los beneficios del movimiento animal son varios:
 
@@ -16,7 +16,7 @@ Los beneficios del movimiento animal son varios:
 
 El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
 
-El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios de manera que el resultado sea un fluir de uno a otro con suaves transiciones.
+El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro con suaves transiciones.
 
 Esta es mi recopilación personal de ejercicios. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
