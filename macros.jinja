@@ -1,7 +1,16 @@
-{% macro render_video(surl, name) %}  
+{% macro render_video(name) %}  
+<video width="100%" height="auto" max-width="100%"" muted preload="none" controls allowfullscreen
+    poster="/img/posters/{{name}}.png">
+    <source src="/video/{{name}}.mp4" type="video/mp4">  
+    Tu navegador no soporta la etiqueta video.
+</video>
+{%endmacro%}
 
-  <video width="100%" height="auto" max-width="100%"" muted preload="auto" controls allowfullscreen
+{% macro render_video2(surl, name) %}  
+
+  <video width="100%" height="auto" max-width="100%"" muted controls allowfullscreen
     poster="{{surl}}img/posters/videos/{{name}}.png.jpg"
+    preload="none"
     >
     <source src="{{surl}}video/{{name}}.mp4" type="video/mp4">  
     Tu navegador no soporta la etiqueta <strong>video<strong>.

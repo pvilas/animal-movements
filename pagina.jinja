@@ -42,14 +42,11 @@
 {% endif %}
 {% endblock %}
 
+
 {% block videos %}
 {% if not page.meta.is_index %}
 ## Videos
-<video width="100%" height="auto" max-width="100%"" muted preload="auto" controls allowfullscreen
-    poster="/img/posters/{{name}}.png">
-    <source src="/video/{{name}}.mp4" type="video/mp4">  
-    Tu navegador no soporta la etiqueta video.
-</video>
+{{render_video(page.abs_url.split('/')[-2])}}
 {% endif %}
 {% endblock %}
 
