@@ -28,6 +28,7 @@ plugins:
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
 markdown_extensions:
   - meta
+  - attr_list
 nav:
 - Home : 'index.md'
 - Calentar:
@@ -92,9 +93,7 @@ nav:
     - 'Psoas' : 'enfriar/psoas.md'
     - 'Sarvangasana' : 'enfriar/sarvangasana.md'    
     - 'Sirsasana' : 'enfriar/sirsasana.md'
-    # meditar
-- Plantillas:
-    - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'    
+    # meditar    
 - Varios:    
     # - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
@@ -102,4 +101,6 @@ nav:
     # - 'Mkdocs': 'varios/mkdocs.md'
     - 'Fuentes': 'varios/fuentes.md'
     - 'Próximamente': 'varios/proximamente.md'
+    - 'Libros': 'varios/libros.md'
+    - 'Plantilla de ejercicio': 'plantillas/ejercicio.md'    
     - 'Entorno': 'varios/variables.md'

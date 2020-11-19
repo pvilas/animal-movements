@@ -2,58 +2,59 @@
 
 <img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito">
 
-Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal walking*, *Locomotion* o incluso *Free movement*. 
+Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow*, *Animal walking*, *Locomotion* o incluso *Free movement*.
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan casi siempre *desplazándose*. Su nombre suele estar basado en la forma de andar de algún animal.
+La característica más destacable de estos ejercicios físicos es que se ejecutan *desplazándose o moviéndose*, estando su nombre está basado en la forma de andar de algún animal.
 
-Los beneficios de estos movimientos son varios:
+Los beneficios del movimiento animal son varios:
 
 * Mejoran el tono muscular
 * Aportan flexibilidad
 * Retan la coordinación
 * Mejoran la propiocepción
-* Preserva la movilidad
+* Preservan la movilidad
 
-El objetivo es **el control del movimiento** a través de la mente. Como **ejercicios calisténicos**, deben ejecutarse lentamente, buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
+El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
 
-El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas, pero todos los ejercicios están basados en unos pocos principios.
+El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios de manera que el resultado sea un fluir de uno a otro con suaves transiciones.
 
-El *movimiento animal* no está reconocido (aún, que yo sepa) como método formal de entrenamiento, si no que más bien son un conjunto de ejercicios que cada entrenador recoge y usa a su parecer.
-
-Muchos movimientos son combinaciones de técnicas *estáticas* que se unen dinámicamente en otras con desplazamiento. Algunos tienen su origen en el Jujutsu, otros en el vinyasa del Yoga Asthanya, otros en el ballet, etc.
-
-Esta es mi recopilación personal de ejercicios. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentando los movimientos para su consulta posterior.
+Esta es mi recopilación personal de ejercicios. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
 Recuerda:
 
-> Life is movement and an expresion of existence is movement. When something doesn't move anymore, that's the expresion of dead. [Juliu Horvath](https://www.youtube.com/watch?v=vCd6R8Gi1gA) (Fundador de la gyrokinesis)
+> Life is movement and an expresion of existence is movement. When something doesn't move anymore, that's the expresion of dead. [Juliu Horvath](https://www.youtube.com/watch?v=vCd6R8Gi1gA){: target=_blank } (Fundador de la gyrokinesis)
 
-> "Roma no se hizo en un día". Joseph Pilates cita este refrán en su obra *Return to life through contrology* [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates)(Fundador del Pilates)
+> "Roma no se hizo en un día". Joseph Pilates cita este refrán en su obra *Return to life through contrology* [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }(Fundador del Pilates)
 
-> Practice and all is coming. [Sri K. Pattabhi Jois](https://en.wikipedia.org/wiki/K._Pattabhi_Jois). (Fundador del Ashtanga Yoga Research Institute)
+> Practice and all is coming. [Sri K. Pattabhi Jois](https://en.wikipedia.org/wiki/K._Pattabhi_Jois){: target=_blank }. (Fundador del Ashtanga Yoga Research Institute)
 
 ## Navegación del sitio
 
 Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
+Las secciones principales son: [calentar](/calentar), [ejercicios](/ejercicios), [animales](/animales) y [enfriar](/enfriar). 
+
 ## Comunidad
 
-Deja tus comentarios o dudas en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.
+Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){: target=_blank } o en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.
 
 ## Novedades
 
-Las últimas incorporaciones a mvomiento animal son:
+Las últimas incorporaciones a movimiento animal son:
 
-* [Los cambios de base](/animales/base)
-* [Estirar los hombros](calentar/estirar_hombros)
+* Animales: [Los cambios de base](/animales/base).
+* Calentar: [Estirar los hombros](calentar/estirar_hombros).
+* Nueva sección de [libros](/varios/libros).
 
 Puedes encontrar el listado de los ejercicios en preparación en el apartado [próximamente](/varios/proximamente).
 
+Pronto tendremos la sección de *Rutinas* e incluso **sesiones completas en video**. ¡Mantente en contacto!.
+
 ## Fuentes
 
-Uno de los instructores más reconocidos es [Ido Portal](https://www.youtube.com/user/portaldo). Me gustan mucho [Athletics Academy](https://www.youtube.com/channel/UCfMsGTshiK3ppyhMO0dQRig) y [Vahva Fitness](https://www.youtube.com/channel/UCPx2nKfFk4p6IkQsMW9O0xQ).
+Uno de los instructores más reconocidos es [Ido Portal](https://www.youtube.com/user/portaldo){: target=_blank }. Me gustan mucho [Athletics Academy](https://www.youtube.com/channel/UCfMsGTshiK3ppyhMO0dQRig){: target=_blank } y [Vahva Fitness](https://www.youtube.com/channel/UCPx2nKfFk4p6IkQsMW9O0xQ){: target=_blank }.
 
-## Prerequisitos
+## Prerrequisitos
 
 Es conveniente tener un cierto control del cuerpo y un poco de tono muscular. Puedes practicar pilates si no estás muy en forma.
 
@@ -89,19 +90,19 @@ Lo ideal es practicar al aire libre.
 
 ### Música
 
-A mi me gusta ponerme música de estilo [*músicas de mundo*](https://soundcloud.com/homebes), aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
+A mí me gusta ponerme música de estilo [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
 
-## Acerca de mi
+## Acerca de mí
 
-Mi nombre es [Pere Vilás](http://pvilas.com). He practicado varias disciplinas, entre otras, las artes marciales tradicional chinas, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/) con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA) con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/) con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza) con el Prof. Miguel Ruiz.
+Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
 
-Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates). Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
+Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
 ## Acerca de este sitio
 
-Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) y hosteado en github pages.
+Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/){: target=_blank } y hosteado en github pages.
 
-Para bajar videos de youtube uso [youtube-dl](https://youtube-dl.org/). Por ejemplo,
+Para bajar videos de youtube uso [youtube-dl](https://youtube-dl.org/){: target=_blank }. Por ejemplo,
 
 ``` shell
 youtube-dl -f 18 'www.youtube.com/watch?v=IYFrpMztoxs'
