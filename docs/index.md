@@ -18,15 +18,15 @@ El objetivo es **el control del movimiento** a través de la mente. Como [ejerci
 
 El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro con suaves transiciones.
 
-Esta es mi recopilación personal de ejercicios. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
+Esta es mi recopilación personal de movimientos. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
 Recuerda:
 
-> Life is movement and an expresion of existence is movement. When something doesn't move anymore, that's the expresion of dead. [Juliu Horvath](https://www.youtube.com/watch?v=vCd6R8Gi1gA){: target=_blank } (Fundador de la gyrokinesis)
+> Life is movement and an expresion of existence is movement. When something doesn't move anymore, that's the expresion of dead. [Juliu Horvath](https://www.youtube.com/watch?v=vCd6R8Gi1gA){: target=_blank } (Fundador de la gyrokinesis).
 
-> "Roma no se hizo en un día". Joseph Pilates cita este refrán en su obra *Return to life through contrology* [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }(Fundador del Pilates)
+> "Roma no se hizo en un día". Joseph Pilates cita este refrán en su obra *Return to life through contrology* [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank } (Fundador del Pilates).
 
-> Practice and all is coming. [Sri K. Pattabhi Jois](https://en.wikipedia.org/wiki/K._Pattabhi_Jois){: target=_blank }. (Fundador del Ashtanga Yoga Research Institute)
+> Practice and all is coming. [Sri K. Pattabhi Jois](https://en.wikipedia.org/wiki/K._Pattabhi_Jois){: target=_blank } (Fundador del Ashtanga Yoga Research Institute).
 
 ## Navegación del sitio
 
