@@ -2,7 +2,7 @@
 
 <img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito">
 
-Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow*, *Animal walking*, *Locomotion* o incluso *Free movement*.
+Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow* o *Animal walking*.
 
 La característica más destacable de estos ejercicios físicos es que se ejecutan *desplazándose o moviéndose*, estando su nombre está basado en la forma de andar de algún animal.
 
