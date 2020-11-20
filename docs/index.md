@@ -1,6 +1,8 @@
 # Bienvenido a {{ config.site_name }}
 
-<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito">
+{#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
+
+{% include "varios/carousel.html"%}
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow* o *Animal walking*.
 
@@ -16,7 +18,7 @@ Los beneficios del movimiento animal son varios:
 
 El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
 
-El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro con suaves transiciones.
+El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.
 
 Esta es mi recopilación personal de movimientos. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
@@ -32,7 +34,14 @@ Recuerda:
 
 Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
-Las secciones principales son: [calentar](/calentar), [ejercicios](/ejercicios), [animales](/animales) y [enfriar](/enfriar). 
+Las secciones principales son: 
+
+* [calentar](/calentar) 
+* [animales](/animales) 
+* [ejercicios](/ejercicios)
+* [enfriar](/enfriar) 
+
+que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar animales que suelen requerir más físico, después ejercicios individuales (tecnificación) y finalmente enfriar.
 
 ## Comunidad
 
@@ -94,7 +103,8 @@ A mí me gusta ponerme música de estilo [*músicas de mundo*](https://soundclou
 
 ## Acerca de mí
 
-Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, Ashtanga, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
+![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
+Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, [Ashtanga](http://shankarashala.com/) con el Prof. Tomás Manzanedo , [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
@@ -147,12 +157,10 @@ done
 
 Este sitio web usa las siguientes cookies de terceros:
 
-* Google Fonts
 * Google Analytics
-* Disqus
 
 Si sigues navegando, aceptas estas cookies.
 
 ## Responsabilidad
 
-Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**.
+Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**. Tienes más información en el apartado [legal](/varios/legal).

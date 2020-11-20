@@ -14,7 +14,7 @@ extra:
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/pvilas/
         - icon: fontawesome/brands/twitter
-          link: https://twitter.com/perevilas
+          link: https://twitter.com/movimientoanim4
 #extra_css:
 #  - stylesheets/fonts.css          
 theme:
@@ -40,18 +40,6 @@ nav:
     - 'Cuello' : 'calentar/cuello.md'
     - 'Espina' : 'calentar/calentar_espina.md'
     - 'Estirar hombros' : 'calentar/estirar_hombros.md'
-- Ejercicios:
-    - 'Los ejercicios': 'ejercicios/index.md'
-    - 'Push Up': 'ejercicios/pushup.md'
-    - 'El arquero': 'ejercicios/arquero.md'
-    - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
-    - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
-    - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
-    - 'Pushup un brazo': 'ejercicios/pushup_un_brazo.md'
-    - 'Pushup combo': 'ejercicios/pushup_combo.md'    
-    - 'Flexión hindú' : 'ejercicios/flexion_hindu.md'
-    - 'La pica' : 'ejercicios/pica.md'
-    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
 - Animales:
     - 'Los animales': 'animales/index.md'
     - 'El gatito': 'animales/gatito.md'
@@ -86,6 +74,18 @@ nav:
 # shikko (aikido), kaiten-shikko
 # Rodar
 # https://www.youtube.com/watch?v=8xsrIua53L8
+- Ejercicios:
+    - 'Los ejercicios': 'ejercicios/index.md'
+    - 'Push Up': 'ejercicios/pushup.md'
+    - 'El arquero': 'ejercicios/arquero.md'
+    - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
+    - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
+    - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
+    - 'Pushup un brazo': 'ejercicios/pushup_un_brazo.md'
+    - 'Pushup combo': 'ejercicios/pushup_combo.md'    
+    - 'Flexión hindú' : 'ejercicios/flexion_hindu.md'
+    - 'La pica' : 'ejercicios/pica.md'
+    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
 - Enfriar:    
     - 'El enfriamiento' : 'enfriar/index.md'
     # - la foca
@@ -102,5 +102,8 @@ nav:
     - 'Fuentes': 'varios/fuentes.md'
     - 'Próximamente': 'varios/proximamente.md'
     - 'Libros': 'varios/libros.md'
-    - 'Plantilla': 'varios/plantilla.md'    
+    - 'Plantilla': 'varios/plantilla.md'
+    - 'Legal': 'varios/legal.md' 
+    - 'Privacidad': 'varios/privacidad.md'        
+    - 'Cookies': 'varios/cookies.md'
     - 'Entorno': 'varios/variables.md'
