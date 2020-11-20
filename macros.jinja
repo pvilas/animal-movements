@@ -1,26 +1,78 @@
 {% macro render_video(name) %}  
-<video width="100%" height="auto" max-width="100%"" muted preload="none" controls allowfullscreen
-    poster="/img/posters/videos/{{name}}.png.jpg">
+<video width="100%" height="100%" max-width="100%"
+    muted preload="none" controls allowfullscreen
+    style="object-fit:fill;"
+    poster="/img/posters/videos/{{name}}.png.jpg"
+    >
     <source src="/video/{{name}}.mp4" type="video/mp4">  
     Tu navegador no soporta la etiqueta video.
 </video>
 {%endmacro%}
 
-{% macro render_video2(surl, name) %}  
 
-  <video width="100%" height="auto" max-width="100%"" muted controls allowfullscreen
-    poster="{{surl}}img/posters/videos/{{name}}.png.jpg"
-    preload="none"
-    >
-    <source src="{{surl}}video/{{name}}.mp4" type="video/mp4">  
-    Tu navegador no soporta la etiqueta <strong>video<strong>.
-  </video>
+
+{% macro make_card(p) %}
+  {# p es una pagina - make_card hace la carta con la foto y el enlace #}
+  {% set nom_pag = p.abs_url.split('/')[-2] %} {# nombre de la página coincide con el nombre del video y de la imagen del poster #}
+
+  {% if not p.is_index %}
+  <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{p.abs_url}}'">
+      <div class="mdc-card">         
+          <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
+              <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: url(&quot;/img/posters/thumbs/{{nom_pag}}.png.jpg&quot;);"></div>
+              <div class="demo-card__primary">
+                  <h3 class="demo-card__title mdc-typography mdc-typography--headline6">{{p.title}}</h3>
+              </div>                      
+          </div>
+      </div>
+  </div>        
+  {% endif %}
+{% endmacro %}
+
+
+{% macro render_sect(children, page_url) %}
+    {% for p in children %}
+      {% if not p.is_section %} {# no es una sección #}
+        {% if p.url!=page_url %} {# si no es la página actual #}
+          {{make_card(p)}}
+        {% endif %}
+      {% endif %} {# es una sección #}
+    {% endfor %}
+{% endmacro %}
+
+{% macro render_cards(children, page_url )%}
+
+<div class="mdc-layout-grid">
+  <div class="mdc-layout-grid__inner">
+  {{render_sect(children, page_url)}}
+  </div>
+</div>
+
+
+<div>
+{% for p in children %}
+  {% if p.is_section %}
+    <h3>{{p.title}}</h3>
+    <div class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        {% for r in p.children %}
+          {% set nom_pag = r.abs_url.split('/')[-2] %}
+          {% set l = r.abs_url.split('/')|length %}
+          {% if l>4 %}            
+            {{make_card(r)}}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
 
 {% endmacro %}
 
 
 
-{% macro render_cards(children, page_url )%}
 
 {#
 <div class="flex-container" style="display:flex;">
@@ -42,55 +94,5 @@
 
 </div>
 #}
-<div class="mdc-layout-grid">
-  <div class="mdc-layout-grid__inner">
-    {% for p in children %}
-      {% if not p.is_section %}
-        {% if p.url!=page_url %}
-          {% set nom_pag = p.abs_url.split('/')[-2] %}
 
-          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{p.abs_url}}'">
-              <div class="mdc-card">         
-                  <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
-                      <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: url(&quot;/img/posters/thumbs/{{nom_pag}}.png.jpg&quot;);"></div>
-                      <div class="demo-card__primary">
-                          <h3 class="demo-card__title mdc-typography mdc-typography--headline6">{{p.title}}</h3>
-                      </div>                      
-                  </div>
-              </div>
-          </div>        
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
-
-<div>
-{% for p in children %}
-  {% if p.is_section %}
-    <h3>{{p.title}}</h3>
-    <div class="mdc-layout-grid">
-      <div class="mdc-layout-grid__inner">
-        {% for r in p.children %}
-          {% set nom_pag = r.abs_url.split('/')[-2] %}
-          {% set l = r.abs_url.split('/')|length %}
-          {% if l>4 %}            
-            <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{r.abs_url}}'">
-                <div class="mdc-card">         
-                    <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
-                        <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: url(&quot;/img/posters/thumbs/{{nom_pag}}.png.jpg&quot;);"></div>
-                        <div class="demo-card__primary">
-                            <h3 class="demo-card__title mdc-typography mdc-typography--headline6">{{r.title}}</h3>
-                        </div>                      
-                    </div>
-                </div>
-            </div>        
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  {% endif %}
-{% endfor %}
-</div>
-
-{% endmacro %}
+{# posar es loading="lazy" a imatges #}
