@@ -42,7 +42,7 @@ nav:
     - 'Estirar hombros' : 'calentar/estirar_hombros.md'
 - Animales:
     - 'Los animales': 'animales/index.md'
-    - 'El gatito': 'animales/gatito.md'
+    - 'El gato': 'animales/gatito.md'
     - 'Araña frontal': 'animales/aranya_frontal.md'
     - 'Araña lateral': 'animales/aranya_lateral.md'
     # - El oso

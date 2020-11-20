@@ -22,16 +22,16 @@ El bebé, rotaciones de brazos.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('pica1')}}
-
+{{pon_fuente("LiftYourself Fitness","Varios videos","https://www.youtube.com/c/LiftYourselfFitness/featured")}}
 ## Variaciones
 
 Elevando piernas
 
 {% from 'macros.jinja' import render_video %}
 {{render_video('pica2')}}
-
+{{pon_fuente("LiftYourself Fitness","Varios videos","https://www.youtube.com/c/LiftYourselfFitness/featured")}}
 ## Fuentes
 
 [Lift](/varios/fuentes/#lift)

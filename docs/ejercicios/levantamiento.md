@@ -20,8 +20,9 @@ No hay.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('levantamiento')}}
+{{pon_fuente("LiftYourself Fitness","Varios videos","https://www.youtube.com/c/LiftYourselfFitness/videos")}}
 
 ## Fuentes
 

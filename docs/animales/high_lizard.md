@@ -22,8 +22,10 @@ Llegar progresivamente hasta las 10.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('high_lizard')}}
+
+{{pon_fuente("Athletics Academy","Lernt ANIMAL MOVEMENT für Fortgeschrittene - Der Lizard","https://www.youtube.com/watch?v=_Sk09wZ--tU")}}
 
 ## Variaciones
 

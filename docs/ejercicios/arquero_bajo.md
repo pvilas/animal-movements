@@ -21,8 +21,10 @@ Llegar progresivamente hasta las 10.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('arquero_bajo')}}
+
+{{pon_fuente('Athletics Academy', 'Varios videos', 'https://www.youtube.com/channel/UCfMsGTshiK3ppyhMO0dQRig')}}
 
 ## Variaciones
 

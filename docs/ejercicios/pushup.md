@@ -31,15 +31,18 @@ El bebé, rotaciones de brazos.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('pushup')}}
+
+{{pon_fuente('Athletics Academy', 'Shoulder PUSH UPS bis zu ONE ARM PUSH UP! Lerne effektive Push-Übungen aus dem Movement Bereich','https://www.youtube.com/watch?v=BsePrz1ObBw')}}
 
 ## Variaciones
 
 Ejecución por Lift Yourself, poner audio.
 
-{% from 'macros.jinja' import render_video %}
 {{render_video('pushup_lift')}}
+
+{{pon_fuente("LiftYourself Fitness","Proper Pushup Technique","https://www.youtube.com/watch?v=w4EqLSxa8eA")}}
 
 ## Fuentes
 

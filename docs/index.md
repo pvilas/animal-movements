@@ -99,12 +99,12 @@ Lo ideal es practicar al aire libre.
 
 ### Música
 
-A mí me gusta ponerme música de estilo [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
+Me gusta las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
 
 ## Acerca de mí
 
 ![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
-Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, [Ashtanga](http://shankarashala.com/) con el Prof. Tomás Manzanedo , [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
+Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao,  [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano, [Ashtanga](http://shankarashala.com/) con el Prof. Tomás Manzanedo, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
@@ -164,3 +164,6 @@ Si sigues navegando, aceptas estas cookies.
 ## Responsabilidad
 
 Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**. Tienes más información en el apartado [legal](/varios/legal).
+
+
+<script src="/js/slider.js"></script>

@@ -30,8 +30,9 @@ El bebé, rotaciones de brazos, pushups, la pica.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('flexion_hindu')}}
+{{pon_fuente('Vidyut Jammwal',"Vidyut's Kalari Dand (Push-Ups) - Part One | Kalaripayattu | Martial Arts", 'https://www.youtube.com/watch?v=J6cS663iiO8')}}
 
 ## Fuentes
 

@@ -19,13 +19,11 @@ Series de cuatro son suficientes.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('lizard')}}
 
-## Variaciones
+{{pon_fuente("Athletics Academy","Lernt ANIMAL MOVEMENT für Fortgeschrittene - Der Lizard","https://www.youtube.com/watch?v=_Sk09wZ--tU")}}
 
 ## Fuentes
-
-La serie original puede encontrarse en [Athletics Academy](https://www.youtube.com/watch?v=_Sk09wZ--tU).
 
 [Ath](/varios/fuentes/#ath)

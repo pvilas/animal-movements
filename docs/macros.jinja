@@ -47,8 +47,6 @@
   {{render_sect(children, page_url)}}
   </div>
 </div>
-
-
 <div>
 {% for p in children %}
   {% if p.is_section %}
@@ -67,32 +65,8 @@
   {% endif %}
 {% endfor %}
 </div>
-
-
 {% endmacro %}
 
-
-
-
-{#
-<div class="flex-container" style="display:flex;">
-
-
-    {% for p in children %}
-      {% if not p.is_section %}
-        {% if p.url!=page_url %}
-          {% set nom_pag = p.abs_url.split('/')[-2] %}
-<div>
-<figure onclick="window.location.href ='{{p.abs_url}}'" style="border: 1px solid lightgray;padding:3px;">
-  <img src="/img/posters/thumbs/{{nom_pag}}.png.jpg" width="200" />
-  <figcaption>{{p.title}}</figcaption>
-</figure>
-</div>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-</div>
-#}
-
-{# posar es loading="lazy" a imatges #}
+{% macro pon_fuente(autor, titulo, url)%}
+<small>{{autor}}: [{{titulo}}]({{url}}){: target=_blank }</small>
+{% endmacro %}

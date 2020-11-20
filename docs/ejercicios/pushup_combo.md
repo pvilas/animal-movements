@@ -24,8 +24,11 @@ Estar unos minutos moviéndose.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('pushup_combo')}}
+
+{{pon_fuente('Athletics Academy', 'Shoulder PUSH UPS bis zu ONE ARM PUSH UP! Lerne effektive Push-Übungen aus dem Movement Bereich','https://www.youtube.com/watch?v=BsePrz1ObBw')}}
+
 
 ## Variaciones
 

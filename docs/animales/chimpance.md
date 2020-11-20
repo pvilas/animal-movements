@@ -28,17 +28,20 @@ No hay.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('chimpance')}}
+
+{{pon_fuente('Athletics Academy', 'Learn your first ANIMAL MOVEMENT FLOW! Movement for Beginners', 'https://www.youtube.com/watch?v=IYFrpMztoxs')}}
+
 
 ## Variaciones
 
 Lift Yourself hace unas variaciones orientadas a hacer el pino, incidiendo en llevar el peso hacia los brazos y, eventualmente, quedarse sobre ellos, bien totalmente estirados, bien en flexión.
 
-{% from 'macros.jinja' import render_video %}
 {{render_video('chimpance_2')}}
 
 <small>Nota: Notar que no gira la pierna de atrás, yo prefiero hacerlo para proteger el ligamento interno de la rodilla.</small>
+{{pon_fuente("LiftYourself Fitness","Proper Pushup Technique","https://www.youtube.com/watch?v=w4EqLSxa8eA")}}
 
 ## Fuentes
 

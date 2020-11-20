@@ -20,8 +20,9 @@ Llegar progresivamente hasta las 10.
 
 ## Videos
 
-{% from 'macros.jinja' import render_video %}
+{% from 'macros.jinja' import render_video, pon_fuente %}
 {{render_video('drill_para_lizard')}}
+{{pon_fuente('Athletics Academy', 'Learn This Advanced ANIMAL MOVEMENT : The Lizard', 'https://www.youtube.com/watch?v=_Sk09wZ--tU')}}
 
 ## Variaciones
 
