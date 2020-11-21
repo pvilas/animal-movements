@@ -29,6 +29,8 @@ copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com
 markdown_extensions:
   - meta
   - attr_list
+  - pymdownx.emoji:      
+      emoji_generator: !!python/name:materialx.emoji.to_svg  
 nav:
 - Home : 'index.md'
 - Calentar:
@@ -70,22 +72,22 @@ nav:
         - 'Cambio de base lateral': 'animales/base/cambio_base_lateral.md'
         - 'Cambio de base frontal': 'animales/base/cambio_base_frontal.md'
         - 'Levantada técnica': 'animales/base/levantada_tecnica.md'    
-# - Caminar:  conscient (avant, darrera), de costat (Tai Chi Chuan), samba, dragón, ninja, pas de chat, tsudan tsuki, shomen-uchi, yokomen-uchi
-# shikko (aikido), kaiten-shikko
-# Rodar
-# https://www.youtube.com/watch?v=8xsrIua53L8
-- Ejercicios:
-    - 'Los ejercicios': 'ejercicios/index.md'
-    - 'Push Up': 'ejercicios/pushup.md'
-    - 'El arquero': 'ejercicios/arquero.md'
-    - 'El arquero bajo' : 'ejercicios/arquero_bajo.md'
-    - 'Hanuman Dand' : 'ejercicios/pushup_pie_adelantado.md'
-    - 'Drill para lizard' : 'ejercicios/drill_para_lizard.md'
-    - 'Pushup un brazo': 'ejercicios/pushup_un_brazo.md'
-    - 'Pushup combo': 'ejercicios/pushup_combo.md'    
-    - 'Flexión hindú' : 'ejercicios/flexion_hindu.md'
-    - 'La pica' : 'ejercicios/pica.md'
-    - 'Levantamiento de pies' : 'ejercicios/levantamiento.md'    
+    # - Caminar:  conscient (avant, darrera), de costat (Tai Chi Chuan), samba, dragón, ninja, pas de chat, tsudan tsuki, shomen-uchi, yokomen-uchi
+    # shikko (aikido), kaiten-shikko
+    # Rodar
+    # https://www.youtube.com/watch?v=8xsrIua53L8
+    - "Sin desplazamiento":
+        - 'Los ejercicios': 'animales/ejercicios/index.md'
+        - 'Push Up': 'animales/ejercicios/pushup.md'
+        - 'El arquero': 'animales/ejercicios/arquero.md'
+        - 'El arquero bajo' : 'animales/ejercicios/arquero_bajo.md'
+        - 'Hanuman Dand' : 'animales/ejercicios/pushup_pie_adelantado.md'
+        - 'Drill para lizard' : 'animales/ejercicios/drill_para_lizard.md'
+        - 'Pushup un brazo': 'animales/ejercicios/pushup_un_brazo.md'
+        - 'Pushup combo': 'animales/ejercicios/pushup_combo.md'    
+        - 'Flexión hindú' : 'animales/ejercicios/flexion_hindu.md'
+        - 'La pica' : 'animales/ejercicios/pica.md'
+        - 'Levantamiento de pies' : 'animales/ejercicios/levantamiento.md'    
 - Enfriar:    
     - 'El enfriamiento' : 'enfriar/index.md'
     # - la foca

@@ -13,8 +13,9 @@ Los beneficios del movimiento animal son varios:
 * Mejoran el tono muscular
 * Aportan flexibilidad
 * Retan la coordinación
-* Mejoran la propiocepción
+* Aumentan la propiocepción
 * Preservan la movilidad
+* ¡Es divertido! :smile:
 
 El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
 
@@ -34,18 +35,17 @@ Recuerda:
 
 Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
-Las secciones principales son: 
+Las secciones principales son:
 
-* [calentar](/calentar) 
-* [animales](/animales) 
-* [ejercicios](/ejercicios)
-* [enfriar](/enfriar) 
+* [calentar](/calentar)
+* [animales](/animales)
+* [enfriar](/enfriar)
 
-que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar animales que suelen requerir más físico, después ejercicios individuales (tecnificación) y finalmente enfriar.
+que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar los animales empezando por los que requieren más físico, seguidamente se hacen ejercicios sin desplazamiento (tecnificación) y finalmente enfriar.
 
 ## Comunidad
 
-Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){: target=_blank } o en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.
+Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){: target=_blank }.{#} o en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.#}
 
 ## Novedades
 
@@ -57,11 +57,11 @@ Las últimas incorporaciones a movimiento animal son:
 
 Puedes encontrar el listado de los ejercicios en preparación en el apartado [próximamente](/varios/proximamente).
 
-Pronto tendremos la sección de *Rutinas* e incluso **sesiones completas en video**. ¡Mantente en contacto!.
+Pronto tendremos la sección de *Rutinas* e incluso **sesiones completas en video**.  [Síguenos en twitter](https://twitter.com/Movimientoanim4){: target=_blank } para estar al corriente de las novedades: ¡Mantente en contacto!.
 
 ## Fuentes
 
-Uno de los instructores más reconocidos es [Ido Portal](https://www.youtube.com/user/portaldo){: target=_blank }. Me gustan mucho [Athletics Academy](https://www.youtube.com/channel/UCfMsGTshiK3ppyhMO0dQRig){: target=_blank } y [Vahva Fitness](https://www.youtube.com/channel/UCPx2nKfFk4p6IkQsMW9O0xQ){: target=_blank }.
+Me gustan mucho [Athletics Academy](https://www.youtube.com/channel/UCfMsGTshiK3ppyhMO0dQRig){: target=_blank } y [Vahva Fitness](https://www.youtube.com/channel/UCPx2nKfFk4p6IkQsMW9O0xQ){: target=_blank }. Uno de los instructores más reconocidos es [Ido Portal](https://www.youtube.com/user/portaldo){: target=_blank }.
 
 ## Prerrequisitos
 
@@ -104,7 +104,7 @@ Me gusta las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_bla
 ## Acerca de mí
 
 ![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
-Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras, las artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank } con el Prof. Álex Salomao,  [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } con la Prof. Florencia de Gaetano, [Ashtanga](http://shankarashala.com/) con el Prof. Tomás Manzanedo, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } con la Prof. Ana Gavilá, y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } con el Prof. Miguel Ruiz.
+Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras: artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank }{#} con el Prof. Álex Salomao#},  [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } {#con la Prof. Florencia de Gaetano#}, [Ashtanga](http://shankarashala.com/) {#con el Prof. Tomás Manzanedo #}, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } {#con la Prof. Ana Gavilá#}, y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank }{# con el Prof. Miguel Ruiz#}.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
