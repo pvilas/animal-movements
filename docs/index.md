@@ -2,7 +2,7 @@
 
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
 
-{% include "varios/carousel.html"%}
+{% include "assets/carousel.html"%}
 
 Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow* o *Animal walking*.
 
@@ -99,12 +99,12 @@ Lo ideal es practicar al aire libre.
 
 ### Música
 
-Me gusta las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
+Me gustan las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
 
 ## Acerca de mí
 
 ![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
-Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras: artes marciales tradicionales chinas, taijutsu, chi-kung, jujutsu (bjj) en el [Ibiza Fight Center](https://www.ibizafightcenter.com/){: target=_blank }{#} con el Prof. Álex Salomao#},  [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank } {#con la Prof. Florencia de Gaetano#}, [Ashtanga](http://shankarashala.com/) {#con el Prof. Tomás Manzanedo #}, [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank } {#con la Prof. Ana Gavilá#}, y [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank }{# con el Prof. Miguel Ruiz#}.
+Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras: artes marciales tradicionales chinas, taijutsu, chi-kung, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank }, [Ashtanga](http://shankarashala.com/), [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank }, [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } y [jujutsu (bjj)](https://www.ibizafightcenter.com/){: target=_blank }.
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
@@ -166,4 +166,4 @@ Si sigues navegando, aceptas estas cookies.
 Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**. Tienes más información en el apartado [legal](/varios/legal).
 
 
-<script src="/js/slider.js"></script>
+<script src="/assets/js/slider.js"></script>

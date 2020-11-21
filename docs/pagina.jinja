@@ -67,8 +67,6 @@
 
 {% block indice %}
 {% if page.meta.is_index %}
-{#<link href="/stylesheets/material-components-web.min.css" rel="stylesheet">#}
-{#<script src="/js/material-components-web.min.js"></script>#}
 {{render_cards(page.parent.children, page.url)}}
 {% endif %}
 {% endblock %}
