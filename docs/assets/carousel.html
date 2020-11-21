@@ -1,0 +1,22 @@
+{% macro make_slide(name, text)%}
+<div class="mySlides fade">      
+    <img src="/img/carousel/{{name}}.jpg" style="width:100%" alt="{{text}}" class="retrato" preload="lazy">
+    <div class="text">{{text}}</div>
+  </div>
+{% endmacro %}
+<!-- Slideshow container -->
+<div class="slideshow-container">
+    
+    {{make_slide('gatito', 'El gato')}}
+    {{make_slide('lagartija', 'La lagartija (Athletics Academy)')}}
+    {{make_slide('cambio_base_frontal', 'Cambio de base frontal')}}
+    {{make_slide('levantamiento', 'Levantamiento de pies (Lift Yourself)')}}
+    {#make_slide('gamba_atras', 'La gamba')#}    
+    {{make_slide('flexion_hindu', 'Flexión hindú')}}    
+    {{make_slide('sirsasana', 'Sirsasana')}}
+    {{make_slide('high_lizard', 'Largartija alta (Athletics Academy)')}}    
+    
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
