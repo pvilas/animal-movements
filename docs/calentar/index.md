@@ -12,11 +12,9 @@ descripcion: "El calentamiento es muy importante y nunca debemos obviarlo. El qu
 
 5. cuello
 
-6. espina
 
-
-Dejo para el final la espina, donde podemos aprovechar para empezar a hacer un poco de cardio."
-
+Seguidamente, movilizaremos la espina aprovechando para subir un poco las pulsaciones."
+description: "Primer grupo de ejercicios para calentar el cuerpo antes de empezar el entrenamiento"
 is_index: 1
 template: "indice.html"
 ---
