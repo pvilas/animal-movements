@@ -101,6 +101,40 @@ Lo ideal es practicar al aire libre.
 
 Me gustan las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
 
+## Apoyar a movimiento-animal
+
+Si te gusta *movimiento-animal.es* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de este link:
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ez&f=ifr&linkID=04d73a136e7250f8e4a58f9f1fc46738&t=movimientoani-21&tracking_id=movimientoani-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+También tienes <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">libros</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=movimientoani-21&l=ur2&o=30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> y <a
+href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">material</a> de fitness.
+
+Te dejos algunos ejemplos, una esterilla y un bloque de yoga fabricados con corcho 100% de Portugal y una malla para hombre. Además, la traducción al castellano del libro seminal de Pilates *Vuelta a la vida a través de la contrología*.
+
+<div class="flex-container">
+<div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=movimientoani-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B07TTDWR1Z&linkId=c11f17b46bcd96a4583563381ef081b6&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+</div>
+<div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=movimientoani-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00ILB3EYY&linkId=97dd8646d67976fe7c18213c81991b1f&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+</div>
+<div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=movimientoani-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B078C711XN&linkId=523804294a7642efaf63d0e046f6bb0c&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+</iframe>
+</div>
+<div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=movimientoani-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=061567805X&linkId=29dd2ef669a68fa3e9ed1ca2e3901116&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+</div>
+</div>
+
+
+A ti te cuesta lo mismo y a nosotros nos dan una pequeñísima comisión que usaremos para comprar material de video (iluminación, cámara, etc.). ¡Gracias!.
+
+
 ## Acerca de mí
 
 ![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
@@ -108,10 +142,13 @@ Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado v
 
 Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
 
+
 ## Acerca de este sitio
 
 Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/){: target=_blank } y hosteado en github pages.
 
+
+{#
 Para bajar videos de youtube uso [youtube-dl](https://youtube-dl.org/){: target=_blank }. Por ejemplo,
 
 ``` shell
@@ -152,10 +189,10 @@ do
     fi
 done
 ```
-
+#}
 ## Cookies
 
-Este sitio web usa las siguientes cookies de terceros:
+Usamos las siguientes [cookies](/varios/cookies/) de terceros:
 
 * Google Analytics
 
