@@ -101,16 +101,19 @@ Lo ideal es practicar al aire libre.
 
 Me gustan las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_blank }, aprovecho para bailar mientras descanso entre técnica y técnica. El cuerpo no para, se mueve **libremente** al son de la música.
 
-## Apoyar a movimiento-animal
+## Apoyar a movimiento-animal.es
 
-Si te gusta *movimiento-animal.es* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de este link:
+Si te gusta *movimiento-animal.es* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través del siguiente link:
 
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ez&f=ifr&linkID=04d73a136e7250f8e4a58f9f1fc46738&t=movimientoani-21&tracking_id=movimientoani-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-También tienes <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">libros</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=movimientoani-21&l=ur2&o=30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> y <a
-href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">material</a> de fitness.
 
-Te dejos algunos ejemplos, una esterilla y un bloque de yoga fabricados con corcho 100% de Portugal y una malla para hombre. Además, la traducción al castellano del libro seminal de Pilates *Vuelta a la vida a través de la contrología*.
+También tienes:
+
+* <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness</a>
+* <a href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">Ropa deportiva</a>
+
+Te dejamos algunos ejemplos; una esterilla y un bloque de yoga fabricados con corcho 100% de Portugal y una malla para hombre. También la traducción al castellano del libro original de Pilates.
 
 <div class="flex-container">
 <div>
@@ -145,7 +148,7 @@ Mi inspiración principal en educación física es [Joseph Hubertus Pilates](htt
 
 ## Acerca de este sitio
 
-Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/){: target=_blank } y hosteado en github pages.
+Este sitio está creado con [mkdocs-material](https://squidfunk.github.io/mkdocs-material/){: target=_blank }.
 
 
 {#
