@@ -4,7 +4,7 @@
 {% set name = page.abs_url.split('/')[-2] %}
 
 {% block descripcion %}
-{% if page.meta.descripcion %}
+{% if page and page.meta and page.meta.descripcion %}
 ## Descripción
 {{page.meta.descripcion}}
 {% endif %}
@@ -41,6 +41,24 @@
 </ol>
 {% endif %}
 {% endblock %}
+
+{% block pasosmd %}
+
+hola: {{page.meta}}
+
+{% if page.meta.videos %}
+## Pasos
+{%for v in page.meta.videos%}
+<ol>
+{% for p in v.pasos %}
+    <li>{{p[0]|safe}}</li>
+{% endfor %}
+</ol>
+{% endfor %}
+
+{% endif %}
+{% endblock %}
+
 
 
 {% block videos %}
