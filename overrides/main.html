@@ -27,6 +27,35 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
   <meta name="yandex-verification" content="9397c426330d20f9" />
   <meta name="msvalidate.01" content="39CD457F50BFFB380B0EB7C2DDA1B4DE" />
   <meta name="google-site-verification" content="2fl4TJXfAyOzo0TMPUaTixLIwA4TbVp8bzJzakGUFMw" />
+
+{# Video objects #}
+{% if page and page.meta and page.meta.videos %}
+{%for v in page.meta.videos%}
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type": "VideoObject",
+"name": "{{v.name}}",
+"duration": "{{v.duration}}",
+"uploadDate": "{{v.uploadDate}}",
+"thumbnailUrl": "{{config.site_url}}/img/posters/videos/{{v.name}}.png.jpg",
+"description": "{{v.description}}",
+"contentUrl": "{{config.site_url}}video/{{name}}.mp4",
+"hasPart": [
+{% for p in v.pasos %}{"@type": "Clip",
+"name": "{{p[0]}}",
+"startOffset": {{p[1]}},
+"endOffset": {{p[2]}},
+"url": "{{config.site_url}}video/{{name}}.mp4?t={{p[1]}}"
+},{% endfor %}
+]
+}
+</script>
+{% endfor %}
+{% endif %}
+  
+
+
 {% endblock %}
 
 {% block fonts%}

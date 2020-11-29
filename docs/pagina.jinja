@@ -42,21 +42,19 @@
 {% endif %}
 {% endblock %}
 
-{% block pasosmd %}
-
-hola: {{page.meta}}
+{% block pasos_videos %}
 
 {% if page.meta.videos %}
 ## Pasos
 {%for v in page.meta.videos%}
 <ol>
 {% for p in v.pasos %}
-    <li>{{p[0]|safe}}</li>
+    <li>{{p[0]|safe}} <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a></li>
 {% endfor %}
 </ol>
 {% endfor %}
-
 {% endif %}
+
 {% endblock %}
 
 

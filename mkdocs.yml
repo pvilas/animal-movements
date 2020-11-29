@@ -23,6 +23,8 @@ theme:
     custom_dir: overrides
     logo: img/logo.png
     favicon: favicon.ico
+    palette:
+      scheme: default
 plugins:
   - macros    
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'

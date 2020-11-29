@@ -3,7 +3,10 @@ title: "Calentamiento de caderas"
 description: "movimiento-animal.es: Calentamiento de esta zona de unión entre tronco y extremidades"
 descripcion: "Es importe calentar esta zona *de conexión* entre tronco y extremidades."
 videos: 
-    -  nombre: "algo"
+    -  name: "caderas"
+       description: "Calentamiento de caderas"
+       duration: "PT1M49S"
+       uploadDate: "2020-10-19"
        pasos:
             - ["Rotaciones", 3, 17]       
             - ["El ocho (no es fácil!)", 18, 34]
