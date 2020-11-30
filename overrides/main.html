@@ -38,18 +38,16 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
 "name": "{{v.name}}",
 "duration": "{{v.duration}}",
 "uploadDate": "{{v.uploadDate}}",
-"thumbnailUrl": "{{config.site_url}}/img/posters/videos/{{v.name}}.png.jpg",
+"thumbnailUrl": "{{config.site_url}}img/posters/videos/{{v.name}}.png.jpg",
 "description": "{{v.description}}",
-"contentUrl": "{{config.site_url}}video/{{name}}.mp4",
+"contentUrl": "{{config.site_url}}video/{{v.name}}.mp4",
 "hasPart": [
 {% for p in v.pasos %}{"@type": "Clip",
 "name": "{{p[0]}}",
 "startOffset": {{p[1]}},
 "endOffset": {{p[2]}},
-"url": "{{config.site_url}}video/{{name}}.mp4?t={{p[1]}}"
-},{% endfor %}
-]
-}
+"url": "{{config.site_url}}video/{{v.name}}.mp4?t={{p[1]}}"
+}{{ ", " if not loop.last }}{% endfor %}]}
 </script>
 {% endfor %}
 {% endif %}
