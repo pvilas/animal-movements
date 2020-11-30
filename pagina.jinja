@@ -4,7 +4,7 @@
 {% set name = page.abs_url.split('/')[-2] %}
 
 {% block descripcion %}
-{% if page.meta.descripcion %}
+{% if page and page.meta and page.meta.descripcion %}
 ## Descripción
 {{page.meta.descripcion}}
 {% endif %}
@@ -41,6 +41,22 @@
 </ol>
 {% endif %}
 {% endblock %}
+
+{% block pasos_videos %}
+
+{% if page.meta.videos %}
+## Pasos
+{%for v in page.meta.videos%}
+<ol>
+{% for p in v.pasos %}
+    <li>{{p[0]|safe}} <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a></li>
+{% endfor %}
+</ol>
+{% endfor %}
+{% endif %}
+
+{% endblock %}
+
 
 
 {% block videos %}
