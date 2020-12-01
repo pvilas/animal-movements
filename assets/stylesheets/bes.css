@@ -18,6 +18,31 @@ padding: 10px;
 }
 
 
+.icono-externo {
+  
+  background-image: url("/assets/icons/external-link-alt-solid.svg");    
+  background-repeat: no-repeat;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;  
+  height: 12px;
+  width: 12px;
+  padding: 4px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  user-select: none;
+}
+
 /* Responsive layout - makes a one column-layout instead of two-column layout */
 /*
 @media (max-width: 800px) {
