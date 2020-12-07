@@ -1,3 +1,8 @@
+---
+title: "Levantamiento de pies"
+description: "movimiento-animal.es: Levntamos los pies del suelo, estando apoyados en los brazos"
+---
+
 ## Descripción
 
 Vamos llegando al pino (handstand) desde este ejercicio consistente en abrir las piernas y apoyar las manos *exactamente en la vertical* de los hombros. Llevar el peso hacia los brazos hasta conseguir levantar los pies del suelo.

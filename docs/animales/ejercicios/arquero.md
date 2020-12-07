@@ -1,3 +1,8 @@
+---
+title: "El arquero"
+description: "movimiento-animal.es: Flexiones, una versión más sencilla del arquero en el suelo"
+---
+
 ## Descripción
 
 Es una variación de la flexión. En esta ocasión abrimos los brazos con los dedos apuntado hacia afuera.

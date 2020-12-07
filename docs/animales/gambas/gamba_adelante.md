@@ -1,3 +1,8 @@
+---
+title: "Gamba adelante"
+description: "movimiento-animal.es: Desplazamiento frontal sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+---
+
 ## Descripción
 
 Nos desplazamos frontal y lateralmente con la pelvis; Para ello, formamos un trípode con los pies y un hombro y movemos las caderas de forma lateral-frontal. A diferencia de la gamba hacia atrás, en esta ocasión estiramos la pierna rotada.

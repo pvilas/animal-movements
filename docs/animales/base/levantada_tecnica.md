@@ -1,3 +1,8 @@
+---
+title: "Levantada técnica"
+description: "movimiento-animal.es: Nos levantamos del suelo de forma eficiente y controlada"
+---
+
 ## Descripción
 
 Es un ejercico típico del jujutsu (o jiu-jitsu) en el que intentamos levantarnos del suelo sin dejar huecos por donde un oponente nos pueda atacar. Para ello, nos cubrimos las zonas más vitales (rostro, hígado,...) y después intentamos crear distancia dándole una pequeña patada y levantándonos basculando hacia atrás. 

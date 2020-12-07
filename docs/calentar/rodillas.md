@@ -1,4 +1,7 @@
 ---
+title: "Calentamiento de las rodillas"
+description: "movimiento-animal.es: Calentar las rodillas"
+
 descripcion: "No hacer los movimientos rápidos."
 pasos:
     - "Rodillas juntas, semiflexionadas, apoyamos manos y hacemos círculos hacia afuera y hacia dentro."

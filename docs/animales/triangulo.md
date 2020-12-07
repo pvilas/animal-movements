@@ -1,3 +1,8 @@
+---
+title: "El triángulo"
+description: "movimiento-animal.es: Hacemos una forma de cuatro (triángulo) desde una posición de sentado"
+---
+
 ## Descripción
 
 Hacemos un *triángulo* con las piernas desde una posición invertida sobre los hombros. Después, avanzamos sobre el culo plegando las piernas.

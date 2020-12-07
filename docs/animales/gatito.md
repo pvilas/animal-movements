@@ -1,3 +1,8 @@
+---
+title: "El gato"
+description: "movimiento-animal.es: Nos desplazamos frontalente sobre un pie y una mano. Movimiento animal principal."
+---
+
 ## Descripción
 
 Este es el ejercicio básico movimiento animal. El reto es mover lo menos posible la pelvis mientras avanzamos lentamente con una pierna y un brazo fuera del suelo.

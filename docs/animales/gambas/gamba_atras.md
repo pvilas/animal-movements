@@ -1,3 +1,8 @@
+---
+title: "Gamba atrás"
+description: "movimiento-animal.es: Desplazamiento hacia atrás sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+---
+
 ## Descripción
 
 Decúbito supino, con las piernas flexionadas, es un desplazamiento de la pelvis hacia atrás. Para ello, *formamos un trípode con los pies y un hombro*, pasando la pelvis (*fugándola*) y yendo a decúbito lateral. 

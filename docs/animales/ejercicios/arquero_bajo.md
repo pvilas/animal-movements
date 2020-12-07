@@ -1,3 +1,8 @@
+---
+title: "Arquero bajo"
+description: "movimiento-animal.es: Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
+---
+
 ## Descripción
 
 Es una variación del arquero en la que nos movemos de un lado hacia el otro a ras de suelo.

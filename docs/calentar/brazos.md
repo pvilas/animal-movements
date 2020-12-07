@@ -1,3 +1,7 @@
+---
+title: "Calentamiento de brazos"
+description: "movimiento-animal.es: Calentamos manos, muñecas, codos y hombros"
+---
 ## Descripción
 
 Imprescindible calentar esta zona, la dividiremos en:

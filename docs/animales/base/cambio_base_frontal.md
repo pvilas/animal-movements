@@ -1,3 +1,8 @@
+---
+title: "Cambio de base frontal"
+description: "movimiento-animal.es: Llevamos el cuerpo hacia adelante pasando entre un apoyo de mano y pie contrario"
+---
+
 ## Descripción
 
 En este segundo cambio de base, abriremos un poco más la pierna desde cuatro patas de forma que todo el cuerpo pueda pasar por enmedio de forma frontal.

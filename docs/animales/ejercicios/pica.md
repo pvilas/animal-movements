@@ -1,3 +1,7 @@
+---
+title: "La pica"
+description: "movimiento-animal.es: Flexión con el cuerpo en forma de V invertida"
+---
 ## Descripción
 
 En este ejercicio llevamos el peso hacia adelante de forma que la cabeza se alinea con la espina y todo el peso recae sobre hombros y brazos. Podemos regular el esfuerzo acercando o alejando los pies de las manos o incluso subiendo los pies sobre una silla.

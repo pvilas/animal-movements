@@ -1,3 +1,8 @@
+---
+title: "Gamba lateral o de lado"
+description: "movimiento-animal.es: Desplazamiento lateral sobre la espalda"
+---
+
 ## Descripción
 
 No es exactamente una gamba, pero la incluimos aquí por ser complementaria de las anteriores.

@@ -1,3 +1,7 @@
+---
+title: "Combinación de flexiones"
+description: "movimiento-animal.es: Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
+---
 ## Descripción
 
 A partir de los pushups básicos, aquí empezamos a **desplazarnos**. Se trata de pasar *dinámicamente* de una flexión a otra sin pensar mucho en cuál es la siguiente.

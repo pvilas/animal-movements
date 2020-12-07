@@ -1,3 +1,8 @@
+---
+title: "Postura sobre los hombros"
+description: "movimiento-animal.es: Famosa técnica de yoga"
+---
+
 ## Descripción
 
 Invertimos sobre las escápulas. Intentar acercar los codos.

@@ -1,3 +1,8 @@
+---
+title: "Ejercicio para la lagartija"
+description: "movimiento-animal.es: Coordinar los movimientos necesarios para ejecutar la lagartija"
+---
+
 ## Descripción
 
 Ejercicio para entrenar el lizard. Haremos el [pushup con pie adelantado](ejercicios/pushup_pie_adelantado/) y, cuando estemos abajo, en equilibrio, sacamos la mano del pie y describimos un amplio círculo.

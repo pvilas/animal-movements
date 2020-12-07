@@ -1,3 +1,8 @@
+---
+title: "Estiramiento del psoas"
+description: "movimiento-animal.es: Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
+---
+
 ## Descripción
 
 Estiramiento de los flexores de la cadera. Es muy beneficioso para aquellos que trabajan sentados.

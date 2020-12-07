@@ -1,3 +1,8 @@
+---
+title: "La araña frontal"
+description: "movimiento-animal.es: Avanzamos frontalmente sobre manos y puntas de pies"
+---
+
 ## Descripción
 
 Este es el segundo ejercicio básico del movimiento animal.

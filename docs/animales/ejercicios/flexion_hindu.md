@@ -1,3 +1,7 @@
+---
+title: "Flexión hindú"
+description: "movimiento-animal.es: Flexiones, Instensa secuencia que moviliza todo el cuerpo."
+---
 ## Descripción
 
 Es uno de los **dands** (flexiones en Sánscrito) del arte marcial [Kalaripayattu](https://en.wikipedia.org/wiki/Kalaripayattu).

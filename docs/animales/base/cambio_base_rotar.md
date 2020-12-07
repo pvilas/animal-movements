@@ -1,3 +1,8 @@
+---
+title: "Cambio de base rotando"
+description: "movimiento-animal.es: Pasamos en cuerpo por dentro, entre una mano y su pie contrario"
+---
+
 ## Descripción
 
 Usaremos esta rotación para calentar los cambios de base. Seguro que has visto a los bailarines de hip-hop hacer estas rotaciones. 

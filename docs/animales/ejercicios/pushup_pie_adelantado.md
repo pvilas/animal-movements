@@ -1,3 +1,7 @@
+---
+title: "Flexión con pie adelantado"
+description: "movimiento-animal.es: Flexiones, versión con un pie adelantado"
+---
 ## Descripción
 
 Ponemos un pie a la altura de las costillas, rotado unos 45 grados hacia afuera. Hacemos una flexión con los codos bien pegados hasta rozar el suelo con la oreja.
