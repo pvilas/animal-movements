@@ -1,6 +1,6 @@
 ---
 title: "El chimpancé"
-description: "movimiento-animal.es: Desplazamiento lateral sobre los brazos, desde cuclillas"
+description: "moverse.net: Desplazamiento lateral sobre los brazos, desde cuclillas"
 ---
 
 ## Descripción

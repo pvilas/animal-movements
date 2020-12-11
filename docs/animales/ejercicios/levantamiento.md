@@ -1,6 +1,6 @@
 ---
 title: "Levantamiento de pies"
-description: "movimiento-animal.es: Levntamos los pies del suelo, estando apoyados en los brazos"
+description: "moverse.net: Levntamos los pies del suelo, estando apoyados en los brazos"
 ---
 
 ## Descripción

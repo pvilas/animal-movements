@@ -1,6 +1,6 @@
 ---
 title: "Flexión con pie adelantado"
-description: "movimiento-animal.es: Flexiones, versión con un pie adelantado"
+description: "moverse.net: Flexiones, versión con un pie adelantado"
 ---
 ## Descripción
 

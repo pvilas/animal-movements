@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base lateral"
-description: "movimiento-animal.es: Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
+description: "moverse.net: Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
 ---
 
 ## Descripción

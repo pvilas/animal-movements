@@ -1,6 +1,6 @@
 ---
 title: "Gamba adelante"
-description: "movimiento-animal.es: Desplazamiento frontal sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+description: "moverse.net: Desplazamiento frontal sobre la espalda, haciendo un trípode sobre los pies y un hombro"
 ---
 
 ## Descripción

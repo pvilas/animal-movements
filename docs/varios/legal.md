@@ -2,7 +2,7 @@
 
 ### 1. Identificación y contacto del propietario de la web.
 
-**movimiento-animal.es** (en adelante la web), es propiedad de Pere Vilás Marí (en adelante el Titular) con correo electrónico *pvilas en gmail punto com*.
+**moverse.net** (en adelante la web), es propiedad de Pere Vilás Marí (en adelante el Titular) con correo electrónico *pvilas en gmail punto com*.
 
 ### 2. Ámbito de aplicación.
 La navegación por el sitio web del Titular implica asumir la condición de usuario y la aceptación

@@ -1,6 +1,6 @@
 ---
 title: "El balancín"
-description: "movimiento-animal.es: Nos balanceamos de un lado al otro, basculando sobre el trasero"
+description: "moverse.net: Nos balanceamos de un lado al otro, basculando sobre el trasero"
 ---
 
 ## Descripción

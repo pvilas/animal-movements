@@ -1,6 +1,6 @@
 ---
 title: "Flexión hindú"
-description: "movimiento-animal.es: Flexiones, Instensa secuencia que moviliza todo el cuerpo."
+description: "moverse.net: Flexiones, Instensa secuencia que moviliza todo el cuerpo."
 ---
 ## Descripción
 

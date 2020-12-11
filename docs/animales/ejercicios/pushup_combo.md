@@ -1,6 +1,6 @@
 ---
 title: "Combinación de flexiones"
-description: "movimiento-animal.es: Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
+description: "moverse.net: Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
 ---
 ## Descripción
 

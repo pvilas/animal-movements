@@ -1,6 +1,6 @@
 ---
 title: "Levantada técnica"
-description: "movimiento-animal.es: Nos levantamos del suelo de forma eficiente y controlada"
+description: "moverse.net: Nos levantamos del suelo de forma eficiente y controlada"
 ---
 
 ## Descripción

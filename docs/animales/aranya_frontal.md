@@ -1,6 +1,6 @@
 ---
 title: "La araña frontal"
-description: "movimiento-animal.es: Avanzamos frontalmente sobre manos y puntas de pies"
+description: "moverse.net: Avanzamos frontalmente sobre manos y puntas de pies"
 ---
 
 ## Descripción

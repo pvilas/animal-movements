@@ -1,6 +1,6 @@
 ---
 title: "Postyura sobre la cabeza"
-description: "movimiento-animal.es: Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
+description: "moverse.net: Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
 ---
 
 ## Descripción

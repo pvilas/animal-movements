@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base frontal"
-description: "movimiento-animal.es: Llevamos el cuerpo hacia adelante pasando entre un apoyo de mano y pie contrario"
+description: "moverse.net: Llevamos el cuerpo hacia adelante pasando entre un apoyo de mano y pie contrario"
 ---
 
 ## Descripción

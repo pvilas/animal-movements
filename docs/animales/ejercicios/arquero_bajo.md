@@ -1,6 +1,6 @@
 ---
 title: "Arquero bajo"
-description: "movimiento-animal.es: Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
+description: "moverse.net: Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
 ---
 
 ## Descripción

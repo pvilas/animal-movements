@@ -1,6 +1,6 @@
 ---
 title: "Ejercicio para la lagartija"
-description: "movimiento-animal.es: Coordinar los movimientos necesarios para ejecutar la lagartija"
+description: "moverse.net: Coordinar los movimientos necesarios para ejecutar la lagartija"
 ---
 
 ## Descripción

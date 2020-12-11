@@ -1,6 +1,6 @@
 ---
 title: "La pica"
-description: "movimiento-animal.es: Flexión con el cuerpo en forma de V invertida"
+description: "moverse.net: Flexión con el cuerpo en forma de V invertida"
 ---
 ## Descripción
 

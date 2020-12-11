@@ -1,6 +1,6 @@
 ---
 title: "Felxión con un brazo"
-description: "movimiento-animal.es: Flexiones, cómo hacer flexiones con un brazo"
+description: "moverse.net: Flexiones, cómo hacer flexiones con un brazo"
 ---
 ## Descripción
 

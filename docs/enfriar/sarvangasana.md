@@ -1,6 +1,6 @@
 ---
 title: "Postura sobre los hombros"
-description: "movimiento-animal.es: Famosa técnica de yoga"
+description: "moverse.net: Famosa técnica de yoga"
 ---
 
 ## Descripción

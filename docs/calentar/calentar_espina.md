@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de la espina"
-description: "movimiento-animal.es: Calentar la espalda mediante suves rotaciones y flexiones"
+description: "moverse.net: Calentar la espalda mediante suves rotaciones y flexiones"
 ---
 ## Descripción
 

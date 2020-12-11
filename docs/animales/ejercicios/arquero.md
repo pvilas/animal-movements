@@ -1,6 +1,6 @@
 ---
 title: "El arquero"
-description: "movimiento-animal.es: Flexiones, una versión más sencilla del arquero en el suelo"
+description: "moverse.net: Flexiones, una versión más sencilla del arquero en el suelo"
 ---
 
 ## Descripción

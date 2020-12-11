@@ -1,6 +1,6 @@
 ---
 title: "Lagartija alta"
-description: "movimiento-animal.es: realizamos rotaciones del cuerpo mientras avanzamos."
+description: "moverse.net: realizamos rotaciones del cuerpo mientras avanzamos."
 ---
 
 ## Descripción

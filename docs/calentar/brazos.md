@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de brazos"
-description: "movimiento-animal.es: Calentamos manos, muñecas, codos y hombros"
+description: "moverse.net: Calentamos manos, muñecas, codos y hombros"
 ---
 ## Descripción
 

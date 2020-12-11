@@ -1,6 +1,6 @@
 ---
 title: "Estiramiento del psoas"
-description: "movimiento-animal.es: Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
+description: "moverse.net: Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
 ---
 
 ## Descripción

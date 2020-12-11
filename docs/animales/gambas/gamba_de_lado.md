@@ -1,6 +1,6 @@
 ---
 title: "Gamba lateral o de lado"
-description: "movimiento-animal.es: Desplazamiento lateral sobre la espalda"
+description: "moverse.net: Desplazamiento lateral sobre la espalda"
 ---
 
 ## Descripción

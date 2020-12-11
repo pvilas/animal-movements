@@ -1,6 +1,6 @@
 ---
 title: "El triángulo"
-description: "movimiento-animal.es: Hacemos una forma de cuatro (triángulo) desde una posición de sentado"
+description: "moverse.net: Hacemos una forma de cuatro (triángulo) desde una posición de sentado"
 ---
 
 ## Descripción

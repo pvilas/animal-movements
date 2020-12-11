@@ -1,6 +1,6 @@
 ---
 title: "La lagartija"
-description: "movimiento-animal.es: Nos desplazamos reptando sobre manos y pies"
+description: "moverse.net: Nos desplazamos reptando sobre manos y pies"
 ---
 
 ## Descripción

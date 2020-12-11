@@ -1,6 +1,6 @@
 ---
 title: "Gamba atrás"
-description: "movimiento-animal.es: Desplazamiento hacia atrás sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+description: "moverse.net: Desplazamiento hacia atrás sobre la espalda, haciendo un trípode sobre los pies y un hombro"
 ---
 
 ## Descripción

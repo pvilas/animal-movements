@@ -1,6 +1,6 @@
 ---
 title: "Flexión"
-description: "movimiento-animal.es: Flexiones, ejercicio básico de flexión de brazos"
+description: "moverse.net: Flexiones, ejercicio básico de flexión de brazos"
 ---
 
 ## Descripción

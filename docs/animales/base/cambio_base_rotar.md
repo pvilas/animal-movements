@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base rotando"
-description: "movimiento-animal.es: Pasamos en cuerpo por dentro, entre una mano y su pie contrario"
+description: "moverse.net: Pasamos en cuerpo por dentro, entre una mano y su pie contrario"
 ---
 
 ## Descripción

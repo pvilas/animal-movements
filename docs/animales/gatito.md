@@ -1,6 +1,6 @@
 ---
 title: "El gato"
-description: "movimiento-animal.es: Nos desplazamos frontalente sobre un pie y una mano. Movimiento animal principal."
+description: "moverse.net: Nos desplazamos frontalente sobre un pie y una mano. Movimiento animal principal."
 ---
 
 ## Descripción

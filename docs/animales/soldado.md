@@ -1,6 +1,6 @@
 ---
 title: "El caimán"
-description: "movimiento-animal.es: Reptación cara arriba y cara abajo"
+description: "moverse.net: Reptación cara arriba y cara abajo"
 ---
 
 ## Descripción
