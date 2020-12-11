@@ -3,10 +3,9 @@
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
 
 {% include "assets/carousel.html"%}
+Bienvenidos a mi sitio de movimiento animal, también conocido como Animal flow o Animal walking.
 
-Bienvenidos a mi sitio de movimiento animal, también conocido como *Animal flow* o *Animal walking*.
-
-La característica más destacable de estos ejercicios físicos es que se ejecutan *desplazándose o moviéndose*, estando su nombre basado en la forma de andar de algún animal.
+La característica más destacable de estos ejercicios físicos es que se ejecutan desplazándose o moviéndose, estando su nombre basado en la forma de andar de algún animal.
 
 Los beneficios del movimiento animal son varios:
 
@@ -49,7 +48,7 @@ Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){:
 
 ## Novedades
 
-Las últimas incorporaciones a movimiento animal son:
+Las últimas incorporaciones a movimiento son:
 
 * Animales: [Los cambios de base](/animales/base).
 * Calentar: [Estirar los hombros](calentar/estirar_hombros).
@@ -159,9 +158,9 @@ done
 #}
 
 
-## Apoyar a movimiento-animal.es
+## Apoyar a moverse.net
 
-Si te gusta *movimiento-animal.es* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
+Si te gusta *moverse.net* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
 
 * <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness <span class="icono-externo"></span></a>  en Amazon.
 * <a href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">Ropa deportiva <span class="icono-externo"></span></a> en Amazon.
