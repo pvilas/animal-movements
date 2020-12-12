@@ -1,6 +1,6 @@
 ---
 title: "Postura sobre los hombros"
-description: "moverse.net: Famosa técnica de yoga"
+description: "{{config.site_url}}: Famosa técnica de yoga"
 ---
 
 ## Descripción

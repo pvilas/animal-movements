@@ -1,6 +1,6 @@
 ---
 title: "Estirar los hombres"
-description: "moverse.net: Estiramiento de los hobros antes de realizar los ejercicios que los impliquen, especialmente los cambios de base"
+description: "{{config.site_url}}: Estiramiento de los hobros antes de realizar los ejercicios que los impliquen, especialmente los cambios de base"
 ---
 
 ## Descripción

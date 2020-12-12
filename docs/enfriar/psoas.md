@@ -1,6 +1,6 @@
 ---
 title: "Estiramiento del psoas"
-description: "moverse.net: Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
+description: "{{config.site_url}}: Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
 ---
 
 ## Descripción

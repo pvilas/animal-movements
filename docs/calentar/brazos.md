@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de brazos"
-description: "moverse.net: Calentamos manos, muñecas, codos y hombros"
+description: "{{config.site_url}}: Calentamos manos, muñecas, codos y hombros"
 ---
 ## Descripción
 

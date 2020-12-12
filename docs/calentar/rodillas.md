@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de las rodillas"
-description: "moverse.net: Calentar las rodillas"
+description: "{{config.site_url}}: Calentar las rodillas"
 
 descripcion: "No hacer los movimientos rápidos."
 pasos:

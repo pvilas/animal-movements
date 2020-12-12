@@ -1,6 +1,6 @@
 ---
 title: "Postyura sobre la cabeza"
-description: "moverse.net: Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
+description: "{{config.site_url}}: Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
 ---
 
 ## Descripción

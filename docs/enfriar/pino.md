@@ -1,6 +1,6 @@
 ---
 title: "El pino cara a la pared"
-description: "moverse.net: Versión de el pino, cara a la pared"
+description: "{{config.site_url}}: Versión de el pino, cara a la pared"
 ---
 
 ## Descripción

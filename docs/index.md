@@ -3,11 +3,9 @@
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
 
 {% include "assets/carousel.html"%}
-Sitio web de gimnasia, especialmente dedicado a ejercicios de movimiento animal, también conocido como *Locomotion* o *Animal walking*.
+Sitio web de gimnasia, especialmente dedicado a ejercicios de locomoción y al estudio de las diferentes formas de desplazarse.
 
-La característica más destacable de estos ejercicios físicos es que se ejecutan desplazándose o moviéndose, estando su nombre basado en la forma de andar de algún animal.
-
-Los beneficios del movimiento animal son varios:
+Los beneficios de los ejercicios de locomoción son varios:
 
 * Mejoran el tono muscular
 * Aportan flexibilidad
@@ -20,7 +18,7 @@ El objetivo es **el control del movimiento** a través de la mente. Como [ejerci
 
 El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.
 
-Esta es mi recopilación personal de movimientos. Los he obtenido de varias [fuentes](/varios/fuentes) e incluso he creado algunos. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
+Los ejercicios están obtenido de varias [fuentes](/varios/fuentes) y otros son de creación propia. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
 Recuerda:
 
@@ -48,9 +46,9 @@ Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){:
 
 ## Novedades
 
-Las últimas incorporaciones a movimiento son:
+Las últimas incorporaciones son:
 
-* Animales: [Los cambios de base](/animales/base).
+* Cambios de base: [Los cambios de base](locomocion/base).
 * Calentar: [Estirar los hombros](calentar/estirar_hombros).
 * Nueva sección de [libros](/varios/libros).
 
@@ -106,7 +104,7 @@ Me gustan las [*músicas de mundo*](https://soundcloud.com/homebes){: target=_bl
 ![Pere Vilás](/img/pere_vilas_ret_lr.jpg){: align=right width=230 loading=lazy class=retrato}
 Mi nombre es [Pere Vilás](http://pvilas.com){: target=_blank }. He practicado varias disciplinas, entre otras: artes marciales tradicionales chinas, taijutsu, chi-kung, [gyrokinesis y pilates](https://www.ibizapilatesandco.com/){: target=_blank }, [Ashtanga](http://shankarashala.com/), [hatha yoga](https://www.youtube.com/channel/UChi-5ZhCzivoU32mWEdr5tA){: target=_blank }, [aikido](https://www.facebook.com/aikido.asaiibiza){: target=_blank } y [jujutsu (bjj)](https://www.ibizafightcenter.com/){: target=_blank }.
 
-Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí el movimiento animal a partir de los ejercicios de jujutsu.
+Mi inspiración principal en educación física es [Joseph Hubertus Pilates](https://es.wikipedia.org/wiki/Joseph_Hubertus_Pilates){: target=_blank }. Descubrí los ejercicios de locomoción a partir de los ejercicios de jujutsu.
 
 
 ## Acerca de este sitio

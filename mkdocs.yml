@@ -1,7 +1,7 @@
-site_name: moverse.net
+site_name: locomocion.es
 #site_url: https://pvilas.github.io/animal-movements/
-site_url: https://moverse.net/
-site_description: Compilación de movimientos con detalles de cada ejercicio, rutinas, etc.
+site_url: https://locomocion.es/
+site_description: Sitio de gimnasia con una compilación de ejercicios en movimiento. Detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
@@ -44,52 +44,53 @@ nav:
     - 'Cuello' : 'calentar/cuello.md'
     - 'Espina' : 'calentar/calentar_espina.md'
     - 'Estirar hombros' : 'calentar/estirar_hombros.md'
-- Animales:
-    - 'Los animales': 'animales/index.md'
-    - 'El gato': 'animales/gatito.md'
-    - 'Araña frontal': 'animales/aranya_frontal.md'
-    - 'Araña lateral': 'animales/aranya_lateral.md'
-    # - El oso
-    - 'El caimán': 'animales/soldado.md'
-    - 'El chimpancé': 'animales/chimpance.md'
-    - 'Lagartija alta' : 'animales/high_lizard.md'
-    - 'La lagartija' : 'animales/lizard.md'
-    - 'El triángulo': 'animales/triangulo.md'
-    # - gusano frontal
-    - 'El balancín': 'animales/balancin.md'
-    # rana (adelante, atras)
-    # escorpión
-    # - avanzar de culo - el grillo
-    # cangrejo (boca amunt sobre quatre pates)
-    # puente
+- Locomoción:
+    - Animales:
+        - 'Los animales': 'locomocion/animales/index.md'
+        - 'El gato': 'locomocion/animales/gato.md'
+        - 'Araña frontal': 'locomocion/animales/aranya_frontal.md'
+        - 'Araña lateral': 'locomocion/animales/aranya_lateral.md'
+        # - El oso
+        - 'El caimán': 'locomocion/animales/caiman.md'
+        - 'El chimpancé': 'locomocion/animales/chimpance.md'
+        - 'Lagartija alta' : 'locomocion/animales/lagartija_alta.md'
+        - 'La lagartija' : 'locomocion/animales/lagartija.md'
+        - 'El triángulo': 'locomocion/animales/triangulo.md'
+        # - gusano frontal
+        - 'El balancín': 'locomocion/animales/balancin.md'
+        # rana (adelante, atras)
+        # escorpión
+        # - avanzar de culo - el grillo
+        # cangrejo (boca amunt sobre quatre pates)
+        # puente
     - Gambas:
-        - 'Las gambas': 'animales/gambas/index.md'
-        - 'Gamba hacia atrás': 'animales/gambas/gamba_atras.md'
-        - 'Gamba hacia adelante': 'animales/gambas/gamba_adelante.md'
-        - 'Gamba lateral': 'animales/gambas/gamba_de_lado.md'
+        - 'Las gambas': 'locomocion/gambas/index.md'
+        - 'Gamba hacia atrás': 'locomocion/gambas/gamba_atras.md'
+        - 'Gamba hacia adelante': 'locomocion/gambas/gamba_adelante.md'
+        - 'Gamba lateral': 'locomocion/gambas/gamba_de_lado.md'
     # - Ranas:
     - Cambios de base:            
-        - 'Los cambios de base': 'animales/base/index.md'
+        - 'Los cambios de base': 'locomocion/base/index.md'
         #    - 'Rotar': 'animales/base/rotar.md'
-        - 'Cambio de base lateral': 'animales/base/cambio_base_lateral.md'
-        - 'Cambio de base frontal': 'animales/base/cambio_base_frontal.md'
-        - 'Levantada técnica': 'animales/base/levantada_tecnica.md'    
+        - 'Cambio de base lateral': 'locomocion/base/cambio_base_lateral.md'
+        - 'Cambio de base frontal': 'locomocion/base/cambio_base_frontal.md'
+        - 'Levantada técnica': 'locomocion/base/levantada_tecnica.md'    
     # - Caminar:  conscient (avant, darrera), de costat (Tai Chi Chuan), samba, dragón, ninja, pas de chat, tsudan tsuki, shomen-uchi, yokomen-uchi
     # shikko (aikido), kaiten-shikko
     # Rodar
     # https://www.youtube.com/watch?v=8xsrIua53L8
     - "Sin desplazamiento":
-        - 'Los ejercicios': 'animales/ejercicios/index.md'
-        - 'Push Up': 'animales/ejercicios/pushup.md'
-        - 'El arquero': 'animales/ejercicios/arquero.md'
-        - 'El arquero bajo' : 'animales/ejercicios/arquero_bajo.md'
-        - 'Hanuman Dand' : 'animales/ejercicios/pushup_pie_adelantado.md'
-        - 'Drill para lizard' : 'animales/ejercicios/drill_para_lizard.md'
-        - 'Pushup un brazo': 'animales/ejercicios/pushup_un_brazo.md'
-        - 'Pushup combo': 'animales/ejercicios/pushup_combo.md'    
-        - 'Flexión hindú' : 'animales/ejercicios/flexion_hindu.md'
-        - 'La pica' : 'animales/ejercicios/pica.md'
-        - 'Levantamiento de pies' : 'animales/ejercicios/levantamiento.md'    
+        - 'Los ejercicios': 'locomocion//ejercicios/index.md'
+        - 'Push Up': 'locomocion//ejercicios/pushup.md'
+        - 'El arquero': 'locomocion//ejercicios/arquero.md'
+        - 'El arquero bajo' : 'locomocion//ejercicios/arquero_bajo.md'
+        - 'Hanuman Dand' : 'locomocion//ejercicios/pushup_pie_adelantado.md'
+        - 'Drill para lizard' : 'locomocion//ejercicios/drill_para_lizard.md'
+        - 'Pushup un brazo': 'locomocion//ejercicios/pushup_un_brazo.md'
+        - 'Pushup combo': 'locomocion//ejercicios/pushup_combo.md'    
+        - 'Flexión hindú' : 'locomocion//ejercicios/flexion_hindu.md'
+        - 'La pica' : 'locomocion//ejercicios/pica.md'
+        - 'Levantamiento de pies' : 'locomocion//ejercicios/levantamiento.md'    
 - Enfriar:    
     - 'El enfriamiento' : 'enfriar/index.md'
     # - la foca
