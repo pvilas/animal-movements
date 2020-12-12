@@ -1,7 +1,7 @@
-site_name: Movimiento Animal
+site_name: moverse.net
 #site_url: https://pvilas.github.io/animal-movements/
 site_url: https://moverse.net/
-site_description: Compilación de movimiento animal (animal flow) con detalles de cada ejercicio, rutinas, etc.
+site_description: Compilación de movimientos con detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
