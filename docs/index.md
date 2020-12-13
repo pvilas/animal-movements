@@ -1,3 +1,6 @@
+---
+title: "Ejercicios de locomoción. Gimnasia para divertida para todos."
+---
 # Bienvenido a {{ config.site_name }}
 
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
