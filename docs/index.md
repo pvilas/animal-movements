@@ -1,12 +1,12 @@
 ---
-title: "Ejercicios de locomoción. Gimnasia para divertida para todos."
+title: "Ejercicios de locomoción y movilidad para todos."
 ---
 # Bienvenido a {{ config.site_name }}
 
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
 
 {% include "assets/carousel.html"%}
-Sitio web de gimnasia, especialmente dedicado a ejercicios de locomoción y al estudio de las diferentes formas de desplazarse.
+Sitio web de gimnasia, especialmente dedicado a ejercicios de locomoción y a la movilidad.
 
 Los beneficios de los ejercicios de locomoción son varios:
 
