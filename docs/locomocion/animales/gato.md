@@ -22,7 +22,7 @@ El bebé.
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
-{{render_video('gatito')}}
+{{render_video('gato')}}
 
 ## Fuentes
 

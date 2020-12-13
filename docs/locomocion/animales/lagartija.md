@@ -25,7 +25,7 @@ Series de cuatro son suficientes.
 ## Videos
 
 {% from 'macros.jinja' import render_video, pon_fuente %}
-{{render_video('lizard')}}
+{{render_video('lagartija')}}
 
 {{pon_fuente("Athletics Academy","Lernt ANIMAL MOVEMENT für Fortgeschrittene - Der Lizard","https://www.youtube.com/watch?v=_Sk09wZ--tU")}}
 
