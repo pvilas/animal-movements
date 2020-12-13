@@ -35,7 +35,7 @@ Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú 
 Las secciones principales son:
 
 * [calentar](/calentar)
-* [animales](/animales)
+* [locomoción](/locomocion)
 * [enfriar](/enfriar)
 
 que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar los animales empezando por los que requieren más físico, seguidamente se hacen ejercicios sin desplazamiento (tecnificación) y finalmente enfriar.
@@ -156,9 +156,9 @@ done
 #}
 
 
-## Apoyar a moverse.net
+## Apoyar a {{config.site_name}}
 
-Si te gusta *moverse.net* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
+Si te gusta *{{config.site_name}}* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
 
 * <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness <span class="icono-externo"></span></a>  en Amazon.
 * <a href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">Ropa deportiva <span class="icono-externo"></span></a> en Amazon.
@@ -207,7 +207,7 @@ Si sigues navegando, aceptas estas cookies.
 
 ## Responsabilidad
 
-Si sigues leyendo, entiende que sólo soy un aficionado entusiasta sin ninguna titulación en educación física. Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**. Tienes más información en el apartado [legal](/varios/legal).
+Todo lo recogido en este sitio web son apuntes y opiniones personales, por lo tanto, si te haces daño practicando estos ejercicios **cualquier responsabilidad será exclusivamente tuya**. Tienes más información en el apartado [legal](/varios/legal).
 
 
 <script src="/assets/js/slider.js"></script>

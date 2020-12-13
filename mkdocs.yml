@@ -45,6 +45,7 @@ nav:
     - 'Espina' : 'calentar/calentar_espina.md'
     - 'Estirar hombros' : 'calentar/estirar_hombros.md'
 - Locomoción:
+    - "Índice": "locomocion/index.md"
     - Animales:
         - 'Los animales': 'locomocion/animales/index.md'
         - 'El gato': 'locomocion/animales/gato.md'
@@ -79,18 +80,18 @@ nav:
     # shikko (aikido), kaiten-shikko
     # Rodar
     # https://www.youtube.com/watch?v=8xsrIua53L8
-    - "Sin desplazamiento":
-        - 'Los ejercicios': 'locomocion//ejercicios/index.md'
-        - 'Push Up': 'locomocion//ejercicios/pushup.md'
-        - 'El arquero': 'locomocion//ejercicios/arquero.md'
-        - 'El arquero bajo' : 'locomocion//ejercicios/arquero_bajo.md'
-        - 'Hanuman Dand' : 'locomocion//ejercicios/pushup_pie_adelantado.md'
-        - 'Drill para lizard' : 'locomocion//ejercicios/drill_para_lizard.md'
-        - 'Pushup un brazo': 'locomocion//ejercicios/pushup_un_brazo.md'
-        - 'Pushup combo': 'locomocion//ejercicios/pushup_combo.md'    
-        - 'Flexión hindú' : 'locomocion//ejercicios/flexion_hindu.md'
-        - 'La pica' : 'locomocion//ejercicios/pica.md'
-        - 'Levantamiento de pies' : 'locomocion//ejercicios/levantamiento.md'    
+    - Tecnificación:
+        - 'Los ejercicios': 'locomocion/ejercicios/index.md'
+        - 'Push Up': 'locomocion/ejercicios/pushup.md'
+        - 'El arquero': 'locomocion/ejercicios/arquero.md'
+        - 'El arquero bajo' : 'locomocion/ejercicios/arquero_bajo.md'
+        - 'Hanuman Dand' : 'locomocion/ejercicios/pushup_pie_adelantado.md'
+        - 'Drill para lizard' : 'locomocion/ejercicios/drill_para_lizard.md'
+        - 'Pushup un brazo': 'locomocion/ejercicios/pushup_un_brazo.md'
+        - 'Pushup combo': 'locomocion/ejercicios/pushup_combo.md'    
+        - 'Flexión hindú' : 'locomocion/ejercicios/flexion_hindu.md'
+        - 'La pica' : 'locomocion/ejercicios/pica.md'
+        - 'Levantamiento de pies' : 'locomocion/ejercicios/levantamiento.md'    
 - Enfriar:    
     - 'El enfriamiento' : 'enfriar/index.md'
     # - la foca
