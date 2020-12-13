@@ -52,4 +52,4 @@
 Usando tabbed, versiones de alta resolución de los videos.
 
 
-**¡Pronto en movimientos animales!**
+**¡Pronto en {{config.site_name}}!**
