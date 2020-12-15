@@ -44,29 +44,22 @@
 {% endif %}
 {% endblock %}
 
-{% block pasos_videos %}
+
 
 {% if page.meta.videos %}
-## Pasos
 {%for v in page.meta.videos%}
+{%if page.meta.videos|length>1%}## {{v.description}}{% endif %}
+### Pasos
 <ol>
 {% for p in v.pasos %}
     <li>{{p[0]|safe}} <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a></li>
 {% endfor %}
 </ol>
-{% endfor %}
-{% endif %}
 
-{% endblock %}
-
-
-
-{% block videos %}
-{% if not page.meta.is_index %}
-## Videos
-{{render_video(page.abs_url.split('/')[-2])}}
-{% endif %}
-{% endblock %}
+### Video
+{{render_video(v.name)}}
+{%endfor%}
+{%endif%}
 
 {% block fuentes %}
 {% if page.meta.fuentes %}
