@@ -21,7 +21,7 @@ El objetivo es **el control del movimiento** a través de la mente. Como [ejerci
 
 El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.
 
-Los ejercicios están obtenido de varias [fuentes](/varios/fuentes) y otros son de creación propia. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
+Algunos ejercicios están obtenidos de varias [fuentes](/varios/fuentes), otros son de creación propia. La idea es tener un repositorio donde ir documentándolos para su consulta posterior.
 
 Recuerda:
 
