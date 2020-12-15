@@ -1,12 +1,12 @@
 ---
-title: "Ejercicios de locomoción y movilidad para todos."
+title: "Ejercicios de movimiento animal para todos"
 ---
 # Bienvenido a {{ config.site_name }}
 
 {#<img src="/img/portada.jpg" width="100%" height="auto" max-width="100%" alt="Haciendo el gatito" class="retrato">#}
 
 {% include "assets/carousel.html"%}
-Sitio web de gimnasia, especialmente dedicado a ejercicios de locomoción y a la movilidad.
+Sitio web de gimnasia, especialmente dedicado a **ejercicios de locomoción**, al **movimiento animal** y a la **movilidad**. El movimiento animal también es conocido como *animal moving*, *animal flow* o *locomotion*.
 
 Los beneficios de los ejercicios de locomoción son varios:
 
@@ -142,6 +142,17 @@ Para reducir cualquier video a 640x360
 ffmpeg -i origen.mp4 -s 640x360 destino.mp4
 ```
 
+Para procesar un directorio
+
+``` shell
+fil=`ls ../espatlla_tallats`
+for entry in $fil
+do
+  echo "../espatlla_tallats/$entry -s 640x360 ./$entry"
+  ffmpeg -i ../espatlla_tallats/$entry -s 640x360 ./$entry
+done
+```
+
 Para crear los thumbnails de las páginas de índice
 
 ``` shell
@@ -163,7 +174,7 @@ done
 
 Si te gusta *{{config.site_name}}* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
 
-* <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness <span class="icono-externo"></span></a>  en Amazon.
+* <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness <span class="icono-externo"></span></a> en Amazon.
 * <a href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">Ropa deportiva <span class="icono-externo"></span></a> en Amazon.
 
 

@@ -1,5 +1,4 @@
 site_name: locomocion.es
-#site_url: https://pvilas.github.io/animal-movements/
 site_url: https://locomocion.es/
 site_description: Sitio de gimnasia con una compilación de ejercicios en movimiento. Detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
@@ -64,6 +63,11 @@ nav:
         # - avanzar de culo - el grillo
         # cangrejo (boca amunt sobre quatre pates)
         # puente
+    - Caminar:
+        - 'Caminar': 'locomocion/caminar/index.md'
+        - 'Arquero de pie': 'locomocion/caminar/arquero_de_pie.md'
+        - 'Recoger del suelo': 'locomocion/caminar/recoger_del_suelo.md'
+        - 'Buenos días': 'locomocion/caminar/buenos_dias.md'
     - Gambas:
         - 'Las gambas': 'locomocion/gambas/index.md'
         - 'Gamba hacia atrás': 'locomocion/gambas/gamba_atras.md'
