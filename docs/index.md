@@ -21,7 +21,7 @@ El objetivo es **el control del movimiento** a través de la mente. Como [ejerci
 
 El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.
 
-Algunos ejercicios están obtenidos de varias [fuentes](/varios/fuentes), otros son de creación propia; La idea de esta web es crear un repositorio donde ir documentándolos para su consulta posterior.
+La idea de esta web es crear un repositorio donde ir documentándo los movimientos para su consulta posterior. Algunos están obtenidos de [estas fuentes](/varios/fuentes), otros son de creación propia.
 
 Recuerda:
 
@@ -50,7 +50,7 @@ Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){:
 ## Novedades
 
 Las últimas incorporaciones son:
-
+* Caminar: [Variaciones](/locomocion/caminar/)
 * Cambios de base: [Los cambios de base](locomocion/base).
 * Calentar: [Estirar los hombros](calentar/estirar_hombros).
 * Nueva sección de [libros](/varios/libros).
