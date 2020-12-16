@@ -108,6 +108,8 @@ nav:
     - 'Sarvangasana' : 'enfriar/sarvangasana.md'    
     - 'Sirsasana' : 'enfriar/sirsasana.md'
     # meditar    
+- Series:
+    - 'Dolor lumbar': 'series/quitar_dolor_lumbar.md'
 - Varios:    
     # - 'Notas': 'varios/notas.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
