@@ -67,7 +67,11 @@ nav:
         - 'Caminar': 'locomocion/caminar/index.md'
         - 'Arquero de pie': 'locomocion/caminar/arquero_de_pie.md'
         - 'Recoger del suelo': 'locomocion/caminar/recoger_del_suelo.md'
-        - 'Buenos días': 'locomocion/caminar/buenos_dias.md'
+        - 'Buenos días (3 v.)': 'locomocion/caminar/buenos_dias.md'
+        - 'El ruso': 'locomocion/caminar/el_ruso.md'
+        - 'El bailarín': 'locomocion/caminar/estiramiento_psoas.md'
+        - 'Puñetazo en pie': 'locomocion/caminar/punyetazo_en_el_pie.md'
+        - 'Rotación caderas 1p.': 'locomocion/caminar/rotacion_caderas_sobre_una_pierna.md'
     - Gambas:
         - 'Las gambas': 'locomocion/gambas/index.md'
         - 'Gamba hacia atrás': 'locomocion/gambas/gamba_atras.md'
