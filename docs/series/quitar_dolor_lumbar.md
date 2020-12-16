@@ -14,5 +14,5 @@ Por lo demás, ¡Espero que practicándo esta serie de vez en cuando mejore tu e
 ### Quitar el dolor de espalda
 
 <iframe width="100%" height="600"  max-width="100%" allowfullscreen="" frameborder="0"
-src="https://www.youtube.com/watch?v=HJgeexZRU18">
+src="https://www.youtube.com/embed/HJgeexZRU18">
 </iframe>
