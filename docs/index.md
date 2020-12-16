@@ -50,6 +50,7 @@ Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){:
 ## Novedades
 
 Las últimas incorporaciones son:
+
 * Caminar: [Variaciones](/locomocion/caminar/)
 * Cambios de base: [Los cambios de base](locomocion/base).
 * Calentar: [Estirar los hombros](calentar/estirar_hombros).
