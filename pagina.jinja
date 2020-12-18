@@ -52,7 +52,11 @@
 ### Pasos
 <ol>
 {% for p in v.pasos %}
-    <li>{{p[0]|safe}} <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a></li>
+    <li>{{p[0]|safe}} 
+        {%if p[1]%}
+            <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a>
+        {%endif%}
+    </li>
 {% endfor %}
 </ol>
 
