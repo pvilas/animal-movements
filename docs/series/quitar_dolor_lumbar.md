@@ -3,11 +3,11 @@ title: "Serie para quitar el dolor de espalda (lumbar)"
 description: "{{config.site_url}}: Serie de ejercicios para quitar el dolor de espalda (lumbar)"
 ---
 
-Mucha gente me pregunta acerca de cómo quitarse el dolor de espalda. Es un tema en general complejo ya que intervienen muchos factores. Además, es posible que sean dolores pasajeros o bien crónicos debidos en muchos casos a la forma de vida que llevamos.
+Mucha gente me pregunta acerca de cómo quitarse el dolor de espalda. Es un tema complejo ya que intervienen muchos factores. Además, es posible que sean dolores pasajeros o bien crónicos, en este caso, siempre debes consultar a un médico.
 
-He preparado esta serie de locomoción de media hora con la intención de ayudar a aquellas personas que sufren de estos dolores. Pienso que pueden tener mejores efectos y a más largo plazo que los tradicionales estiramientos en el suelo ya que se trabajan más aspectos. La intención no es sólo descomprimir y estirar sino también **fortalecer** ciertas cadenas cuyo debilitamiento provoca malestar e incluso lesiones.
+He preparado esta serie de locomoción de media hora con la intención de ayudar a aquellas personas que sufren de estos dolores. Pienso que pueden tener mejores efectos y a más largo plazo que los tradicionales estiramientos en el suelo ya que se trabajan más aspectos que influyen en el problema. La intención no es sólo descomprimir y estirar sino también **fortalecer** ciertas cadenas cuyo debilitamiento provoca malestar e incluso lesiones.
 
-Estos ejercicios deben reducir o eliminar el malestar, por lo tanto, **no ejecutarlos** si por el contrario se siente más dolor ya que ello podría significar que estamos empeorando una determinada situación.
+Los movimientos deben reducir o eliminar el malestar, por lo tanto, **no ejecutarlos** si por el contrario se siente más dolor ya que ello podría significar que estamos empeorando una determinada situación.
 
 Por lo demás, ¡Espero que practicándo esta serie de vez en cuando mejore tu espalda!.
 

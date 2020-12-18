@@ -13,15 +13,18 @@ Los beneficios de los ejercicios de locomoción son varios:
 * Mejoran el tono muscular
 * Aportan flexibilidad
 * Retan la coordinación
+
+{#
 * Aumentan la propiocepción
 * Preservan la movilidad
 * ¡Es divertido! :smile:
+#}
 
-El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa.
+El objetivo es **el control del movimiento** a través de la mente. Como [ejercicios calisténicos](https://en.wikipedia.org/wiki/Calisthenics){: target=_blank }, deben ejecutarse lentamente; buscando la calidad, no la cantidad. La respiración permitirá unir el cuerpo y la mente de forma armoniosa. ¡Y además es divertido :smile:!.
 
-El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.
+{#El método permite el avance progresivo del practicante, desde las versiones más sencillas a las más sofisticadas. Pueden unirse diferentes ejercicios, fluyendo de uno a otro en suaves transiciones.#}
 
-La idea de esta web es crear un repositorio donde ir documentándo los movimientos para su consulta posterior. Algunos están obtenidos de [estas fuentes](/varios/fuentes), otros son de creación propia.
+La idea de esta web es crear un repositorio donde ir documentando los movimientos para su consulta posterior. Algunos están obtenidos de [estas fuentes](/varios/fuentes), otros son de creación propia. Ponto tendremos sesiones grabadas en video para poder seguirlas.
 
 Recuerda:
 
@@ -173,7 +176,7 @@ done
 
 ## Apoyar a {{config.site_name}}
 
-Si te gusta *{{config.site_name}}* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra que quieras hacer en Amazon a través de los siguientes links:
+Si te gusta *{{config.site_name}}* y quieres apoyarnos para que sigamos produciendo más material, puedes hacerlo realizando alguna compra en Amazon a través de los siguientes links:
 
 * <a target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=movimientoani-21&linkCode=ur2&linkId=5dd585526a140be2a3a44cfa8459ba1a&camp=3638&creative=24630&index=books&keywords=Fitness, deporte">Libros de fitness <span class="icono-externo"></span></a> en Amazon.
 * <a href="https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES" target="_blank">Ropa deportiva <span class="icono-externo"></span></a> en Amazon.

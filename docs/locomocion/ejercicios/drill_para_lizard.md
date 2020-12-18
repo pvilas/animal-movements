@@ -5,7 +5,7 @@ description: "{{config.site_url}}: Coordinar los movimientos necesarios para eje
 
 ## Descripción
 
-Ejercicio para entrenar el lizard. Haremos el [pushup con pie adelantado](ejercicios/pushup_pie_adelantado/) y, cuando estemos abajo, en equilibrio, sacamos la mano del pie y describimos un amplio círculo.
+Ejercicio para entrenar la lagartija. Haremos el [pushup con pie adelantado](ejercicios/pushup_pie_adelantado/) y, cuando estemos abajo, en equilibrio, sacamos la mano del pie y describimos un amplio círculo.
 
 ## Calentamiento
 
