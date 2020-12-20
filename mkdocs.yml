@@ -43,6 +43,7 @@ nav:
     - 'Cuello' : 'calentar/cuello.md'
     - 'Espina' : 'calentar/calentar_espina.md'
     - 'Estirar hombros' : 'calentar/estirar_hombros.md'
+    - 'Burpees': 'calentar/burpees.md'
 - Locomoción:
     - "Índice": "locomocion/index.md"
     - Animales:
@@ -50,7 +51,11 @@ nav:
         - 'El gato': 'locomocion/animales/gato.md'
         - 'Araña frontal': 'locomocion/animales/aranya_frontal.md'
         - 'Araña lateral': 'locomocion/animales/aranya_lateral.md'
-        # - El oso
+        - 'El oso': 'locomocion/animales/oso.md'
+        - 'El cangrejo': 'locomocion/animales/cangrejo.md'
+        - 'La esfinge': 'locomocion/animales/esfinge.md'
+        - 'El grillo': 'locomocion/animales/grillo.md'
+        - 'Perro perezoso': 'locomocion/animales/perro-perezoso.md'
         - 'El caimán': 'locomocion/animales/caiman.md'
         - 'El chimpancé': 'locomocion/animales/chimpance.md'
         - 'Lagartija alta' : 'locomocion/animales/lagartija_alta.md'
