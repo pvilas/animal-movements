@@ -1,5 +1,5 @@
 ---
-title: "Ejercicios de movimiento animal para todos"
+title: "Ejercicios de locomoción y movimiento animal para todos"
 ---
 # Bienvenido a {{ config.site_name }}
 

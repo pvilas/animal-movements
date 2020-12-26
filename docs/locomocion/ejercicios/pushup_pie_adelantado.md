@@ -1,32 +1,28 @@
 ---
-title: "Flexión con pie adelantado"
+title: "Flexión con un pie adelantado"
 description: "locomocion.es - Flexiones, versión con un pie adelantado"
+descripcion: "Ponemos un pie a la altura de las costillas, rotado unos 45 grados hacia afuera. Hacemos una flexión con los codos bien pegados hasta rozar el suelo con la oreja."
+calentamiento: Push up.
+repeticiones: Llegar progresivamente hasta las 10.
+videos: 
+    -  name: "pushup_pie_adelantado"
+       description: "Flexión con un pie adelantado"
+       duration: "PT0M28S"
+       uploadDate: "2020-12-10"
+       fuente: 
+          nombre: "Athletics Academy"
+          titulo: "Shoulder PUSH UPS bis zu ONE ARM PUSH UP! Lerne effektive Push-Übungen aus dem Movement Bereich"
+          url: "https://www.youtube.com/watch?v=BsePrz1ObBw"
+       pasos:
+         - ["Posición de inicio pushup."]
+         - ["Llevamos pie hacia delante y lo apoyamos a 45."]
+         - ["Flexionamos hasta rozar el suelo con la oreja."]
+         - ["Volver a posición inicial."]
+         - ["Repetir con el otro pie."]
 ---
-## Descripción
-
-Ponemos un pie a la altura de las costillas, rotado unos 45 grados hacia afuera. Hacemos una flexión con los codos bien pegados hasta rozar el suelo con la oreja.
-
-## Calentamiento
-
-Push up.
-
-## Pasos
-
-1. Posición de inicio pushup.
-2. Llevamos pie hacia delante y lo apoyamos a 45.
-3. Flexionamos hasta rozar el suelo con la oreja.
-4. Volver a posición inicial.
-5. Repetir con el otro pie.
-
-## Repeticiones
-
-Llegar progresivamente hasta las 10.
-
-## Videos
-
+{% extends "pagina.jinja" %}
+{% block mascosas %}
 {% from 'macros.jinja' import render_video, pon_fuente %}
-{{render_video('pushup_pie_adelantado')}}
-
 ## Variaciones
 
 ### Kalari Dand o Hanuman Dand
@@ -46,3 +42,4 @@ En esta otra variación, ejecutada por Jammwal, incidimos en el estiramiento de 
 ## Fuentes
 
 [Ath](/varios/fuentes/#ath), [Ytrends](/varios/fuentes/#ytrends), [Jammwal](/varios/fuentes/#jamm)
+{% endblock %}
