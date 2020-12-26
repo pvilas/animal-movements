@@ -43,9 +43,9 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
 "hasPart": [
 {% for p in v.pasos %}{"@type": "Clip",
 "name": "{{p[0]}}",
-"startOffset": {{p[1]}},
-"endOffset": {{p[2]}},
-"url": "{{config.site_url}}video/{{v.name}}.mp4?t={{p[1]}}"
+{%if p[1]%}"startOffset": {{p[1]}},
+"endOffset": {{p[2]}},{%endif%}
+"url": "{{config.site_url}}video/{{v.name}}.mp4?t={%if p[1]%}{{p[1]}}{%else%}1{%endif%}"
 }{{ ", " if not loop.last }}{% endfor %}]}
 </script>
 {% endfor %}
