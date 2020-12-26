@@ -1,7 +1,26 @@
-{% from 'macros.jinja' import render_video, render_cards %}
+{% from 'macros.jinja' import render_video, render_cards, pon_fuente %}
 
 {# nombre de la pagina (mismo que nombre que video, poster, etc.) #}
 {% set name = page.abs_url.split('/')[-2] %}
+
+{% block breadcrumb %}
+
+<nav style="margin-top: -2.25em;">
+    <div class="nav-wrapper">
+      <div class="col s12">
+<a href="/" class="breadcrumb">Home</a> &raquo;      
+{% if page.parent.parent %}
+<a href="/{{page.parent.parent.children[0].url}}" class="breadcrumb">{{page.parent.parent.title}}</a> &raquo;
+{% endif %}
+{% if page.parent %}
+<a href="/{{page.parent.children[0].url}}" class="breadcrumb">{{page.parent.title}}</a> &raquo;
+{% endif %}
+{{page.title}}
+      </div>
+    </div>
+</nav>
+
+{% endblock %}
 
 {% block descripcion %}
 {% if page and page.meta and page.meta.descripcion %}
@@ -33,6 +52,13 @@
 {% endif %}
 {% endblock %}
 
+{% block repeticiones %}
+{% if page.meta.repeticiones %}
+## Repeticiones
+{{page.meta.repeticiones}}
+{% endif %}
+{% endblock %}
+
 {% block pasos %}
 {% if page.meta.pasos %}
 ## Pasos
@@ -43,8 +69,6 @@
 </ol>
 {% endif %}
 {% endblock %}
-
-
 
 {% if page.meta.videos %}
 {%for v in page.meta.videos%}
@@ -62,6 +86,11 @@
 
 ### Video
 {{render_video(v.name)}}
+
+{% if v.fuente %}
+{{pon_fuente(v.fuente.nombre, v.fuente.titulo, v.fuente.url)}}
+{% endif %}
+
 {%endfor%}
 {%endif%}
 
@@ -79,6 +108,11 @@
 </p>
 {% endif %}
 {% endblock %}
+
+
+{% block mascosas %}
+{% endblock %}
+
 
 {% block indice %}
 {% if page.meta.is_index %}
