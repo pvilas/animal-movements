@@ -1,6 +1,6 @@
 ---
 title: "Arquero bajo"
-description: "{{config.site_url}}: Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
+description: "locomocion.es - Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
 ---
 
 ## Descripción

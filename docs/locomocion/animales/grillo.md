@@ -1,6 +1,6 @@
 ---
 title: "El grillo"
-description: "{{config.site_url}}: En el grillo nos deplazamos sobre nuestro trasero."
+description: "locomocion.es - En el grillo nos deplazamos sobre nuestro trasero."
 
 descripcion: "Muy adecuado para fortalezer la zona lumbar.
 

@@ -1,4 +1,9 @@
-
+---
+title: "plantilla para documentar los ejercicios"
+description: "locomocion.es - Plantilla usada para documentar los ejercicios"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 Esta es la plantilla base ("ficha") para documentar los ejercicios.
 Usar h2 para cada una de las secciones. Las secciones pueden o no aparecer.
 
@@ -41,3 +46,4 @@ Copiar y pegar
 
 [Ath](/varios/fuentes/#ath)
 
+{% endblock %}

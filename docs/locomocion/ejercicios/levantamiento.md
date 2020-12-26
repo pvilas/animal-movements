@@ -1,6 +1,6 @@
 ---
 title: "Levantamiento de pies"
-description: "{{config.site_url}}: Levntamos los pies del suelo, estando apoyados en los brazos"
+description: "locomocion.es - Levntamos los pies del suelo, estando apoyados en los brazos"
 ---
 
 ## Descripción

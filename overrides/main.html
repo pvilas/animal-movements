@@ -51,6 +51,45 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
 {% endfor %}
 {% endif %}
   
+{# breadcrumb #}
+{% if page %}
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{% set nivel=1 %}
+{
+  "@type": "ListItem",
+  "position": {{nivel}}{% set nivel=nivel+1 %},
+  "name": "Home",
+  "item": "{{config.site_url}}"
+  } {% if page.parent %},{% endif %}      
+{% if page.parent.parent %}
+{
+"@type": "ListItem",
+"position": {{nivel}}{% set nivel=nivel+1 %},
+"name": "{{page.parent.parent.title}}",
+"item": "{{config.site_url}}{{page.parent.parent.children[0].url}}"
+},
+{% endif %}
+{% if page.parent %}
+{
+"@type": "ListItem",
+"position": {{nivel}}{% set nivel=nivel+1 %},
+"name": "{{page.parent.title}}",
+"item": "{{config.site_url}}{{page.parent.children[0].url}}"
+},
+{
+"@type": "ListItem",
+"position": {{nivel}}{% set nivel=nivel+1 %},
+"name": "{{page.title}}",
+"item": "{{config.site_url}}{{page.url}}"
+} 
+{% endif %}
+]}
+</script>
+{% endif %}
 
 
 {% endblock %}

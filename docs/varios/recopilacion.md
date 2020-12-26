@@ -1,3 +1,9 @@
+---
+title: "Recopilación inicial"
+description: "locomocion.es - Una recopilación inicial de ejercicios para el proyecto"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 Esta es una pequeña recopilación inicial de ejercicios para el proyecto. 
 Está ordenado por grupos musculares, pero podría servir cualquier otra.
 Los nombres son totalmente inventados ya que no he encontrado ninguna denominación estándar de los ejercicio, cada autor les llama a su antojo por comodidad.
@@ -145,3 +151,4 @@ Debe notarse en la cabeza del húmero
 - Cocodrilo (caminar en plancha sin doblar los brazos)
 - Cocodrilo bajo (lo mismo pero brazos flexionados)
 - araña saltarina (piernas abiertas, ir saltando)
+{% endblock %}

@@ -1,6 +1,6 @@
 ---
 title: "Flexión hindú"
-description: "{{config.site_url}}: Flexiones, Instensa secuencia que moviliza todo el cuerpo."
+description: "locomocion.es - Flexiones, Instensa secuencia que moviliza todo el cuerpo."
 ---
 ## Descripción
 

@@ -1,8 +1,12 @@
 ---
 title: "Calentamiento de brazos"
-description: "{{config.site_url}}: Calentamos manos, muñecas, codos y hombros"
+description: "locomocion.es - Calentamos manos, muñecas, codos y hombros"
+fuentes:
+    - "propia"
 ---
-## Descripción
+{% extends "pagina.jinja" %}
+{% block descripcion %}
+{{super()}}
 
 Imprescindible calentar esta zona, la dividiremos en:
 
@@ -18,6 +22,7 @@ Si no calentamos las muñecas, acabrán doliéndonos y no podremos practicar. Pa
 Los hombros son una zona delicada que trabajermos mucho, así que hay que calentar bien.
 
 Algunos de estos ejercicios están sacados del aikido y del kendo.
+
 
 ## Pasos
 
@@ -47,12 +52,11 @@ Algunos de estos ejercicios están sacados del aikido y del kendo.
 3. Brazos *a lo egipcio* hacia abajo, hacia arriba y estirados. En el estiramiento rotar bien las manos dirigiendo el pulgar hacia atrás. Llevar las rotaciones un poco lejos si no aparece dolor.
 4. Anteversión y retroversión de hombros. ¡Mantenerlos bajos!.
 5. Rotaciones de hombros.
+{% endblock %}
 
+{%block pasos %}
 ## Videos
 
 {% from 'macros.jinja' import render_video %}
 {{render_video('brazos')}}
-
-## Fuentes
-
-[Producción propia]({{config.site_url}})
+{% endblock %}

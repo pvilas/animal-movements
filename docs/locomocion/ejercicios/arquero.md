@@ -1,6 +1,6 @@
 ---
 title: "El arquero"
-description: "{{config.site_url}}: Flexiones, una versión más sencilla del arquero en el suelo"
+description: "locomocion.es - Flexiones, una versión más sencilla del arquero en el suelo"
 ---
 
 ## Descripción

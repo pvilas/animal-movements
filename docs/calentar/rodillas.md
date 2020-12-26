@@ -1,7 +1,6 @@
 ---
 title: "Calentamiento de las rodillas"
-description: "{{config.site_url}}: Calentar las rodillas"
-
+description: "locomocion.es - Calentar las rodillas"
 descripcion: "No hacer los movimientos rápidos."
 videos: 
     -  name: "rodillas"

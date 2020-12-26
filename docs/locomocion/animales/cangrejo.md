@@ -1,13 +1,12 @@
 ---
 title: "El cangrejo"
-description: "{{config.site_url}}: En el cangrejo, a cuatro patas supino, avanzamos y retrocedemos."
+description: "locomocion.es - En el cangrejo, a cuatro patas supino, avanzamos y retrocedemos."
 
 descripcion: "Muy buen ejercicio para la espalda.
 
 A cuatro patas supino, avanzamos y retrocemos en contralateral (mano y pie contrario). Dedos de las manos dirigidos hacia los pies.
 
-Conviene estirar al final.
-"
+Conviene estirar al final."
 prerequisitos: "Calentar hombros y muñecas. Vigilar hombros! No deben doler."
 videos: 
     -  name: "cangrejo"

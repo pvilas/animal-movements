@@ -1,6 +1,6 @@
 ---
 title: "Recoger del suelo"
-description: "{{config.site_url}}: Recogemos algo del suelo de forma controlada"
+description: "locomocion.es - Recogemos algo del suelo de forma controlada"
 descripcion: "Recogemos algo que se nos ha caido al suelo, de forma controlada. 
 
 

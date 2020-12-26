@@ -1,6 +1,6 @@
 ---
 title: "Gamba lateral o de lado"
-description: "{{config.site_url}}: Desplazamiento lateral sobre la espalda"
+description: "locomocion.es - Desplazamiento lateral sobre la espalda"
 ---
 
 ## Descripción

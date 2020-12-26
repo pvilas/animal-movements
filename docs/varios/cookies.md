@@ -1,3 +1,9 @@
+---
+title: "Politica de cookies locomocion.es"
+description: "locomocion.es - Política de cookies"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ## POLÍTICA DE COOKIES
 
 Usamos cookies para mejorar, analizar las conexiones y mostrar publicidad. Si continuas,
@@ -34,3 +40,4 @@ Estas cookies recogen información de
 forma anónima, incluyendo el número
 de usuarios del site, los contenidos más
 visitados, etc. Duración: 2 años.
+{% endblock %}

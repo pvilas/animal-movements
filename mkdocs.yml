@@ -1,6 +1,6 @@
 site_name: locomocion.es
 site_url: https://locomocion.es/
-site_description: Sitio de gimnasia con una compilación de ejercicios en movimiento. Detalles de cada ejercicio, rutinas, etc.
+site_description: Sitio web de locomoción y movimiento animal. Detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
@@ -116,7 +116,7 @@ nav:
 - Series:
     - 'Dolor lumbar': 'series/quitar_dolor_lumbar.md'
 - Varios:    
-    # - 'Notas': 'varios/notas.md'
+    - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
     - 'Mis videos de Pilates': 'varios/pilates.md'
     # - 'Mkdocs': 'varios/mkdocs.md'

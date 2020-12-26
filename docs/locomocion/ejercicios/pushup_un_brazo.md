@@ -1,6 +1,6 @@
 ---
 title: "Felxión con un brazo"
-description: "{{config.site_url}}: Flexiones, cómo hacer flexiones con un brazo"
+description: "locomocion.es - Flexiones, cómo hacer flexiones con un brazo"
 ---
 ## Descripción
 

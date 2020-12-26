@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base rotando"
-description: "{{config.site_url}}: Pasamos en cuerpo por dentro, entre una mano y su pie contrario"
+description: "locomocion.es - Pasamos en cuerpo por dentro, entre una mano y su pie contrario"
 ---
 
 ## Descripción

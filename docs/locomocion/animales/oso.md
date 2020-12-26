@@ -1,6 +1,6 @@
 ---
 title: "El oso"
-description: "{{config.site_url}}: En el oso, vamos a cuatro patas y pelvis arriba, con versión lateral y contralateral"
+description: "locomocion.es - En el oso, vamos a cuatro patas y pelvis arriba, con versión lateral y contralateral"
 
 descripcion: "Este ejercicio es un clásico de la calistenia.
 

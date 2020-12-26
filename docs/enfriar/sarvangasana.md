@@ -1,30 +1,21 @@
 ---
 title: "Postura sobre los hombros"
-description: "{{config.site_url}}: Famosa técnica de yoga"
+description: "locomocion.es - Famosa técnica de inversión de yoga"
+descripcion: "Invertimos sobre las escápulas. Intentar acercar los codos."
+denominaciones: "La vela"
+videos: 
+    -  name: "sarvangasana"
+       description: "Estiramiento estático del psoas"
+       duration: "PT1M3S"
+       uploadDate: "2020-10-16"
+       pasos:
+            - ["Asegurar la posición cervical"]
+            - ["Brazos estirados al lado del cuerpo"]
+            - ["Lanzamos las piernas hacia atrás y las levantamos, apoyarse en la zona escapular"]
+            - ["Entrar el abdomen. Respirar."]
+            - ["En equilibrio, volver a poner los brazos extendidos en el suelo"]
+            - ["Bajar de forma controlada"]
+fuentes:
+    - "propia"
 ---
-
-## Descripción
-
-Invertimos sobre las escápulas. Intentar acercar los codos.
-
-## Otras denominaciones
-
-La vela
-
-## Pasos
-
-1. Asegurar la posición cervical
-2. Brazos estirados al lado del cuerpo
-3. Lanzamos las piernas hacia atrás y las levantamos, apoyarse en la zona escapular
-4. Entrar el abdomen. Respirar.
-5. En equilibrio, volver a poner los brazos extendidos en el suelo
-6. Bajar de forma controlada
-
-## Videos
-
-{% from 'macros.jinja' import render_video %}
-{{render_video('sarvangasana')}}
-
-## Fuentes
-
-[Producción propia]({{config.site_url}})
+{% extends "pagina.jinja" %}

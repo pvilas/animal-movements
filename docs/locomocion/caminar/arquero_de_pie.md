@@ -1,6 +1,6 @@
 ---
 title: "Arquero de pie"
-description: "{{config.site_url}}: Rotación uniforme de la espina dorsal, bloqueando la pelvis y rotando los hombros."
+description: "locomocion.es - Rotación uniforme de la espina dorsal, bloqueando la pelvis y rotando los hombros."
 descripcion: "En esta versión del arquero, bloqueamos la pelvis mientras hacemos una suave rotación de hombros. 
 
 Esto permite una rotación uniforme de toda la espina dorsal ya que la zona lumbar es hipermóvil y por ello la dejamos fija.

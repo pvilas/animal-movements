@@ -1,6 +1,6 @@
 ---
 title: "Flexión"
-description: "{{config.site_url}}: Flexiones, ejercicio básico de flexión de brazos"
+description: "locomocion.es - Flexiones, ejercicio básico de flexión de brazos"
 ---
 
 ## Descripción

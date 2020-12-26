@@ -1,3 +1,9 @@
+---
+title: "Aviso legal"
+description: "locomocion.es - Aviso legal del sitio"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ## AVISO LEGAL
 
 ### 1. Identificación y contacto del propietario de la web.
@@ -62,3 +68,4 @@ Dichas modificaciones podrán realizarse a través de su sitio web por cualquier
 ### 9. Legislación aplicable, solución de cuestiones controvertidas y foro competente.
 
 El uso de la Web se regirá por la legislación española. Cualquier controversia que surja o guarde relación con el uso de la Web, será sometido a la jurisdicción no exclusiva de los Juzgados y Tribunales del municipio donde radica el domicilio social del Titular.
+{% endblock %}

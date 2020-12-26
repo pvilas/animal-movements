@@ -1,6 +1,6 @@
 ---
 title: "Gamba atrás"
-description: "{{config.site_url}}: Desplazamiento hacia atrás sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+description: "locomocion.es - Desplazamiento hacia atrás sobre la espalda, haciendo un trípode sobre los pies y un hombro"
 ---
 
 ## Descripción

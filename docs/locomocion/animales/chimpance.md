@@ -1,44 +1,32 @@
 ---
 title: "El chimpancé"
-description: "{{config.site_url}}: Desplazamiento lateral sobre los brazos, desde cuclillas"
+description: "locomocion.es - Desplazamiento lateral sobre los brazos, desde cuclillas"
+descripcion: "Es uno de los movimientos básicos del movimiento animal, sin embargo, dista mucho de ser sencillo de ejecutar.
+
+Tiene múltiples variantes, pero conviene tener bien controlado este ejercicio antes de empezarlas."
+denominaciones: "Ape"
+calentamiento: "Calentar bien las rodillas. Hacer calentamientos de cuclillas."
+prerequisitos: "No tiene."
+videos: 
+    -  name: "chimpance"
+       description: "El chimpancé"
+       duration: "PT0M17S"
+       uploadDate: "2020-12-10"
+       fuente: 
+          nombre: "Athletics Academy"
+          titulo: "Learn your first ANIMAL MOVEMENT FLOW! Movement for Beginners"
+          url: "https://www.youtube.com/watch?v=IYFrpMztoxs"
+       pasos:
+            - ["Ponerse en cuclillas"]
+            - ["Rotar la pierna de atrás 45 grados, levantando el talón del suelo"]
+            - ["Apoyar mano de atrás por delante del pie de delante"]
+            - ["Apoyar mano de delante"]
+            - ["Levantar pelvis y <strong>estirar completamente</strong> las piernas"]
+            - ["Pasar por los hombros notando cómo estamos ingrávidos durante un segundo"]
+            - ["Caer en cuclillas, dejando la rodilla que estaba atrás entre los brazos"]
 ---
-
-## Descripción
-
-Es uno de los movimientos básicos del movimiento animal, sin embargo, dista mucho de ser sencillo de ejecutar.
-
-Tiene múltiples variantes, pero conviene tener bien controlado este ejercicio antes de empezarlas.
-
-## Otras denominaciones
-
-Ape
-
-## Calentamiento
-
-Calentar bien las rodillas. Hacer calentamientos de cuclillas.
-
-## Prerequisitos
-
-No hay.
-
-## Pasos
-
-1. Ponerse en cuclillas
-2. Rotar la pierna de atrás 45 grados, levantando el talón del suelo
-3. Apoyar mano de atrás por delante del pie de delante
-4. Apoyar mano de delante
-5. Levantar pelvis y **estirar completamente** las piernas
-6. Pasar por los hombros notando cómo estamos ingrávidos durante un segundo
-7. Caer en cuclillas, dejando la rodilla que estaba atrás entre los brazos
-
-## Videos
-
-{% from 'macros.jinja' import render_video, pon_fuente %}
-{{render_video('chimpance')}}
-
-{{pon_fuente('Athletics Academy', 'Learn your first ANIMAL MOVEMENT FLOW! Movement for Beginners', 'https://www.youtube.com/watch?v=IYFrpMztoxs')}}
-
-
+{% extends "pagina.jinja" %}
+{% block mascosas %}
 ## Variaciones
 
 Lift Yourself hace unas variaciones orientadas a hacer el pino, incidiendo en llevar el peso hacia los brazos y, eventualmente, quedarse sobre ellos, bien totalmente estirados, bien en flexión.
@@ -51,3 +39,5 @@ Lift Yourself hace unas variaciones orientadas a hacer el pino, incidiendo en ll
 ## Fuentes
 
 [Ath](/varios/fuentes/#ath),  [Lift](/varios/fuentes/#lift)
+
+{% endblock %}

@@ -1,6 +1,6 @@
 ---
 title: "Combinación de flexiones"
-description: "{{config.site_url}}: Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
+description: "locomocion.es - Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
 ---
 ## Descripción
 

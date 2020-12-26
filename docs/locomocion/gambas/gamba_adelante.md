@@ -1,6 +1,6 @@
 ---
 title: "Gamba adelante"
-description: "{{config.site_url}}: Desplazamiento frontal sobre la espalda, haciendo un trípode sobre los pies y un hombro"
+description: "locomocion.es - Desplazamiento frontal sobre la espalda, haciendo un trípode sobre los pies y un hombro"
 ---
 
 ## Descripción

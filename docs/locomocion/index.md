@@ -4,6 +4,8 @@ descripcion: "Los ejercicios de locomoción están divididos en varios apartados
 
 * [Animales](/locomocion/animales/) donde nos desplazamos imitando a un animal.
 
+* [Caminar](/locomocion/caminar/), nuestra forma básica de locomoción.
+
 * [Gambas](/locomocion/gambas/), un tipo de desplazamiento que se realiza en el suelo boca arriba.
 
 * [Cambios de base](/locomocion/base/) donde avanzamos y retrocedemos moviendo la base entre pies y manos.

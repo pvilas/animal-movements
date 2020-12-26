@@ -1,6 +1,6 @@
 ---
 title: "Puñetazo en el pie"
-description: "{{config.site_url}}: Estiramiento del cuadrado lumbar y coordinación de brazos y tronco"
+description: "locomocion.es - Estiramiento del cuadrado lumbar y coordinación de brazos y tronco"
 descripcion: "A imitación de la sierra en el Pilates, en este ejercicio realizamos un estiramiento profundo del cuadrado lumbar. También trabajamos la coordinación de los brazos con la torsión del tronco."
 videos: 
     -  name: "punyetazo_en_el_pie"

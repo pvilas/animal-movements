@@ -1,3 +1,9 @@
+---
+title: "Fuentes de información de locomocion"
+description: "locomocion.es - Fuentes de información del sitio"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ### General
 
 - [50 Weird and Challenging Animal Movements (Exercises) To Apply To Your Training](https://www.youtube.com/watch?v=yoyzOkB95IQ)
@@ -49,3 +55,4 @@ https://www.youtube.com/watch?v=oq7LNo0wNOw
 ### Lachlan Giles
 
 Estiraments (https://www.youtube.com/watch?v=068BKniAY3U)
+{% endblock %}

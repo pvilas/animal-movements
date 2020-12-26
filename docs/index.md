@@ -46,6 +46,8 @@ Las secciones principales son:
 
 que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar los animales empezando por los que requieren más físico, seguidamente se hacen ejercicios sin desplazamiento (tecnificación) y finalmente enfriar.
 
+También tenemos [sesiones guiadas](/series) y [material adicional](/varios/pilates).
+
 ## Comunidad
 
 Deja tus comentarios o dudas [en twitter](https://twitter.com/Movimientoanim4){: target=_blank }.{#} o en el <a href="https://gitter.im/movimiento-animal/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">chat de la comunidad de movimiento animal en español</a>.#}

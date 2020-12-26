@@ -1,6 +1,6 @@
 ---
 title: "Levantada técnica"
-description: "{{config.site_url}}: Nos levantamos del suelo de forma eficiente y controlada"
+description: "locomocion.es - Nos levantamos del suelo de forma eficiente y controlada"
 ---
 
 ## Descripción

@@ -1,8 +1,14 @@
+---
+title: "Politica de privacidad"
+description: "locomocion.es - Politica de privacidad"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ## POLITICA DE PRIVACIDAD
 
 **ÚLTIMA MODIFICACIÓN: 20/11/2020**
 
-La Política de Privacidad forma parte de las Condiciones Generales que rigen la Página Web **moverse.net**, junto con la Política de Cookies y el Aviso Legal.
+La Política de Privacidad forma parte de las Condiciones Generales que rigen la Página Web **{{config.site_name}}**, junto con la Política de Cookies y el Aviso Legal.
 
 El Titular se reserva el derecho a modificar o adaptar la presente Política de Privacidad en todo momento. Por lo tanto, le recomendamos que revise la misma cada vez que acceda a la Página Web. En el supuesto de que usuario se haya registrado en la página web y acceda a su cuenta o perfil, al acceder a la misma, se le informará en el supuesto de que haya habido modificaciones sustanciales en relación con el tratamiento de sus datos personales.
 
@@ -220,3 +226,4 @@ obligación legal de mantenimiento, o de no existir ese plazo legal, hasta que e
 o revoque el consentimiento otorgado.
 {#Mantendremos toda la información y comunicaciones relativas a tu compra o a la prestación de nuestro
 servicio, mientras duren las garantías de los productos o servicios, para atender posibles reclamaciones.#}
+{% endblock %}

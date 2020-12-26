@@ -1,6 +1,6 @@
 ---
 title: "Test de Burpee"
-description: "{{config.site_url}}: Fantástica secuencia para calentar todo el cuerpo y subir pulsasiones"
+description: "locomocion.es - Fantástica secuencia para calentar todo el cuerpo y subir pulsasiones"
 
 descripcion: "Esta secuencia, llamada [Test de Burpee](https://es.wikipedia.org/wiki/Test_de_Burpee), es ideal para calentar todo el cuerpo y subir las pulsaciones antes de iniciar la práctica.
 
@@ -41,8 +41,6 @@ fuentes:
     - "propia"
 ---
 {% extends "pagina.jinja" %}
-
-
 {% block descripcion %}
 {{super()}}
 

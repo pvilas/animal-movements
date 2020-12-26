@@ -1,6 +1,6 @@
 ---
 title: "La pica"
-description: "{{config.site_url}}: Flexión con el cuerpo en forma de V invertida"
+description: "locomocion.es - Flexión con el cuerpo en forma de V invertida"
 ---
 ## Descripción
 

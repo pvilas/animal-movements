@@ -1,6 +1,6 @@
 ---
 title: "Ejercicio para la lagartija"
-description: "{{config.site_url}}: Coordinar los movimientos necesarios para ejecutar la lagartija"
+description: "locomocion.es - Coordinar los movimientos necesarios para ejecutar la lagartija"
 ---
 
 ## Descripción

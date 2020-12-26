@@ -1,3 +1,9 @@
+---
+title: "Próximamente en locomocion.es"
+description: "locomocion.es - Ejercicios de locomoción en preparación"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ## Ejercicios en preparación
 
 * Burpees
@@ -51,5 +57,5 @@
 
 Usando tabbed, versiones de alta resolución de los videos.
 
-
 **¡Pronto en {{config.site_name}}!**
+{% endblock %}

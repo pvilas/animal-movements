@@ -1,6 +1,6 @@
 ---
 title: "Flexión con pie adelantado"
-description: "{{config.site_url}}: Flexiones, versión con un pie adelantado"
+description: "locomocion.es - Flexiones, versión con un pie adelantado"
 ---
 ## Descripción
 

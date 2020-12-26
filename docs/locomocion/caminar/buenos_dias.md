@@ -1,6 +1,6 @@
 ---
 title: "Buenos días. Flexiones de tronco. Tres variaciones."
-description: "{{config.site_url}}: Flexionamos el tronco hacia adelante con diferentes posiciones de piernas."
+description: "locomocion.es - Flexionamos el tronco hacia adelante con diferentes posiciones de piernas."
 descripcion: "Flexionamos el tronco desde las caderas, intentando mantener la espalda recta y estirada. Las manos
 están sobre las caderas. Siempre tenemos que meter y subir el abdomen.
 

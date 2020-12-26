@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base lateral"
-description: "{{config.site_url}}: Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
+description: "locomocion.es - Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
 ---
 
 ## Descripción

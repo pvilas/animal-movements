@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base frontal"
-description: "{{config.site_url}}: Llevamos el cuerpo hacia adelante pasando entre un apoyo de mano y pie contrario"
+description: "locomocion.es - Llevamos el cuerpo hacia adelante pasando entre un apoyo de mano y pie contrario"
 ---
 
 ## Descripción

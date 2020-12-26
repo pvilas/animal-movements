@@ -1,3 +1,9 @@
+---
+title: "Videos de Pilates de Pere Vilás"
+description: "locomocion.es - Dos sesiones guiadas de Pilates de Pere Vilas"
+---
+{% extends "pagina.jinja" %}
+{% block descripcion %}
 ## Youtube
 
 Durante la cuarentena de Marzo 2020 en España, publiqué un par de videos de Pilates:
@@ -14,3 +20,4 @@ src="https://www.youtube.com/embed/F_rzRB8S8O4">
 <iframe width="100%" height="600"  max-width="640" allowfullscreen="" frameborder="0"
 src="https://www.youtube.com/embed/87s7fMrChVs">
 </iframe>
+{% endblock %}
