@@ -36,17 +36,17 @@ Recuerda:
 
 ## Navegación del sitio
 
-Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
-
 Las secciones principales son:
 
-* [calentar](/calentar)
-* [locomoción](/locomocion)
-* [enfriar](/enfriar)
+* [Calentar](/calentar)
+* [Locomoción](/locomocion)
+* [Enfriar](/enfriar)
 
 que corresponden con el orden en que deberíamos trabajar. Primero calentar, después efectuar los animales empezando por los que requieren más físico, seguidamente se hacen ejercicios sin desplazamiento (tecnificación) y finalmente enfriar.
 
 También tenemos [sesiones guiadas](/series) y [material adicional](/varios/pilates).
+
+Si estás usando un móvil o una pantalla pequeña, puedes navegar por el menú tocando el símbolo <svg width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg> que está arriba de todo a la izquierda o con los enlaces que hay en el pie de cada página.
 
 ## Comunidad
 
