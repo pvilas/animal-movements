@@ -1,11 +1,13 @@
-site_name: locomocion.es
-site_url: https://locomocion.es/
+site_name: moverse.net
+site_url: https://moverse.net/
 site_description: Sitio web de locomoción y movimiento animal. Detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
     version: 1.0
     posters: '/img/posters/'
+    # yandex_verification: '188fb3c6f1b37db8'
+    # ms_verification: '39CD457F50BFFB380B0EB7C2DDA1B4DE'
     # disqus: movimiento-animal
     social:
         - icon: fontawesome/brands/github
@@ -122,7 +124,7 @@ nav:
     # - 'Mkdocs': 'varios/mkdocs.md'
     - 'Fuentes': 'varios/fuentes.md'
     - 'Próximamente': 'varios/proximamente.md'
-    - 'Libros': 'varios/libros.md'
+    # - 'Libros': 'varios/libros.md'
     - 'Plantilla': 'varios/plantilla.md'
     - 'Legal': 'varios/legal.md' 
     - 'Privacidad': 'varios/privacidad.md'        

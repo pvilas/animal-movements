@@ -16,16 +16,14 @@ Lista de libros de fitness
 
 Lista de material de fitness
 https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag=movimientoani-21&linkId=f662817f86b59d3a24d097cdac52828e&language=es_ES
-
-
 #}
 
 
 
 {% block extrahead %}
   {{super()}}
-  <meta name="yandex-verification" content="188fb3c6f1b37db8" />
-  <meta name="msvalidate.01" content="39CD457F50BFFB380B0EB7C2DDA1B4DE" />
+  {%if config.extra.yandex_verification%}<meta name="yandex-verification" content="{{config.extra.yandex_verification}}" />{%endif%}
+  {%if config.extra.ms_verification%}<meta name="msvalidate.01" content="{{config.extra.ms_verification}}" />{%endif%}
   
 {# Video objects #}
 {% if page and page.meta and page.meta.videos %}
@@ -137,7 +135,7 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
     {% endif %}
   {% endif %}
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+{#
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7W3E07EX2"></script>
 
 <script>
@@ -147,7 +145,7 @@ https://www.amazon.es/b/ref=as_li_ss_tl?ie=UTF8&node=2928495031&linkCode=ll2&tag
 
   gtag('config', 'G-K7W3E07EX2'); //G-MLC6VTPBB0
 </script>
-
+#}
 {#<script data-ad-client="ca-pub-6929173861779019" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>#}
 
 
