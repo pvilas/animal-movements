@@ -1,6 +1,6 @@
 ---
-title: "Próximamente en locomocion.es"
-description: "locomocion.es - Ejercicios de locomoción en preparación"
+title: "Próximamente en moverse.net"
+description: "moverse.net - Ejercicios de locomoción en preparación"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

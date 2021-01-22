@@ -1,6 +1,6 @@
 ---
 title: "El perro perezoso"
-description: "locomocion.es - En el perro perezoso, nos arrastramos sobre las rodillas."
+description: "moverse.net - En el perro perezoso, nos arrastramos sobre las rodillas."
 
 descripcion: "Imitamos a un perro que se arrastra sobre la barriga.
 

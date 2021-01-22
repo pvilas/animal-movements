@@ -1,6 +1,6 @@
 ---
 title: "El triángulo"
-description: "locomocion.es - Hacemos una forma de cuatro (triángulo) desde una posición de sentado"
+description: "moverse.net - Hacemos una forma de cuatro (triángulo) desde una posición de sentado"
 descripcion: "Hacemos un <strong>triángulo</strong> con las piernas desde una posición invertida sobre los hombros. Después, avanzamos sobre el culo plegando las piernas.
 
 

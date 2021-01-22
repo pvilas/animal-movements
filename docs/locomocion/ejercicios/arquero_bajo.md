@@ -1,6 +1,6 @@
 ---
 title: "Arquero bajo"
-description: "locomocion.es - Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
+description: "moverse.net - Flexiones, nos desplazamos de lado a lado sobre los brazos, a ras de suelo"
 descripcion: "Es una variación del arquero en la que nos movemos de un lado hacia el otro a ras de suelo.
 
 <strong>Cuidado con la posición de los hombros</strong>."

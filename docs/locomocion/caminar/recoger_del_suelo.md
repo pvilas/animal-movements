@@ -1,6 +1,6 @@
 ---
 title: "Recoger del suelo"
-description: "locomocion.es - Recogemos algo del suelo de forma controlada"
+description: "moverse.net - Recogemos algo del suelo de forma controlada"
 descripcion: "Recogemos algo que se nos ha caido al suelo, de forma controlada. 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Gamba lateral o de lado"
-description: "locomocion.es - Desplazamiento lateral sobre la espalda"
+description: "moverse.net - Desplazamiento lateral sobre la espalda"
 descripcion: "No es exactamente una gamba, pero la incluimos aquí por ser complementaria de las anteriores.
 
 Es una elevación y ondulación de toda la espina que nos permite desplazarnos lateralmente. Iremos avanzando la pelvis y los hombros alternativamente. Podemos usar brazos y piernas a la contra para ayudarnos en la coordinación del movimiento.

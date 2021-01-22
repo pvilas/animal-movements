@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de caderas"
-description: "locomocion.es - Calentamiento de esta zona de unión entre tronco y extremidades"
+description: "moverse.net - Calentamiento de esta zona de unión entre tronco y extremidades"
 descripcion: "Es importe calentar esta zona *de conexión* entre tronco y extremidades."
 videos: 
     -  name: "caderas"

@@ -1,6 +1,6 @@
 ---
 title: "Flexión hindú"
-description: "locomocion.es - Flexiones, Instensa secuencia que moviliza todo el cuerpo."
+description: "moverse.net - Flexiones, Instensa secuencia que moviliza todo el cuerpo."
 descripcion: "Es uno de los **dands** (flexiones en Sánscrito) del arte marcial [Kalaripayattu](https://en.wikipedia.org/wiki/Kalaripayattu).
 
 Este es un ejercicio avanzado que no debe realizarse si no se ha practicado yoga o no se tiene la suficiente fuerza ya nos podríamos lesionar. Es recomendable diseccionar el ejercicio y realizar primero las diferentes asanas por separado: Perro hacia arriba, hacia abajo, etc. 

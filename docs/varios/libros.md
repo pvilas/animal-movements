@@ -1,6 +1,6 @@
 ---
 title: "Libros de locomoción y fitness"
-description: "locomocion.es - Libros de locomoción y fitness"
+description: "moverse.net - Libros de locomoción y fitness"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

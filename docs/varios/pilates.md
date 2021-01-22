@@ -1,6 +1,6 @@
 ---
 title: "Videos de Pilates de Pere Vilás"
-description: "locomocion.es - Dos sesiones guiadas de Pilates de Pere Vilas"
+description: "moverse.net - Dos sesiones guiadas de Pilates de Pere Vilas"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

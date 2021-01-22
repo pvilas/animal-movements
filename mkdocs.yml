@@ -26,6 +26,9 @@ theme:
     favicon: favicon.ico
     palette:
       scheme: default
+    features:
+        - navigation.tabs
+        - navigation.sections        
 plugins:
   - macros    
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'

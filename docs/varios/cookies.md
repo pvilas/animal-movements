@@ -1,6 +1,6 @@
 ---
-title: "Politica de cookies locomocion.es"
-description: "locomocion.es - Política de cookies"
+title: "Politica de cookies moverse.net"
+description: "moverse.net - Política de cookies"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

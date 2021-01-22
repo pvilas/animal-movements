@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de brazos"
-description: "locomocion.es - Calentamos manos, muñecas, codos y hombros"
+description: "moverse.net - Calentamos manos, muñecas, codos y hombros"
 fuentes:
     - "propia"
 ---

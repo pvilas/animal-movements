@@ -1,6 +1,6 @@
 ---
 title: "Aviso legal"
-description: "locomocion.es - Aviso legal del sitio"
+description: "moverse.net - Aviso legal del sitio"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

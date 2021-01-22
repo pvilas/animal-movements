@@ -1,6 +1,6 @@
 ---
 title: "plantilla para documentar los ejercicios"
-description: "locomocion.es - Plantilla usada para documentar los ejercicios"
+description: "moverse.net - Plantilla usada para documentar los ejercicios"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

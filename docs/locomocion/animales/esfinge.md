@@ -1,6 +1,6 @@
 ---
 title: "La esfinge"
-description: "locomocion.es - En la esfinge trabajamos la zona interclavicular con nuestro peso muerto."
+description: "moverse.net - En la esfinge trabajamos la zona interclavicular con nuestro peso muerto."
 
 descripcion: "Otro ejercicio para la espalda.
 

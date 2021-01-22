@@ -1,6 +1,6 @@
 ---
 title: "La araña frontal"
-description: "locomocion.es - Avanzamos frontalmente sobre manos y puntas de pies"
+description: "moverse.net - Avanzamos frontalmente sobre manos y puntas de pies"
 descripcion: "Este es el segundo ejercicio básico del movimiento animal.
 
 Mantenemos los brazos rectos y evitamos que la zona escapular colapse.

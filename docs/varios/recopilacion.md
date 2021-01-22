@@ -1,6 +1,6 @@
 ---
 title: "Recopilación inicial"
-description: "locomocion.es - Una recopilación inicial de ejercicios para el proyecto"
+description: "moverse.net - Una recopilación inicial de ejercicios para el proyecto"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

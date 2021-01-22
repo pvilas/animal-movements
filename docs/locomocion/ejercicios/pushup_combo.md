@@ -1,6 +1,6 @@
 ---
 title: "Combinación de flexiones"
-description: "locomocion.es - Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
+description: "moverse.net - Flexiones, hacemos una mezcla de flexiones sin un orden en concreto"
 descripcion: "A partir de los pushups básicos, aquí empezamos a **desplazarnos**. Se trata de pasar *dinámicamente* de una flexión a otra sin pensar mucho en cuál es la siguiente.
 
 No ir rápido. Concentrarse en la calidad del movimiento, no en la cantidad.

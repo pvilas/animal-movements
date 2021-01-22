@@ -1,6 +1,6 @@
 ---
 title: "Politica de privacidad"
-description: "locomocion.es - Politica de privacidad"
+description: "moverse.net - Politica de privacidad"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}
