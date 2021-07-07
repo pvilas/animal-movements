@@ -1,6 +1,6 @@
 ---
 title: "Estiramiento estático del psoas"
-description: "moverse.net - Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
+description: "movimiento-animal.es - Una forma de estirar este músculo (psoas). Previene el dolor de espalda."
 descripcion: "Estiramiento estático de los flexores de la cadera. Es muy beneficioso para aquellos que trabajan sentados."
 videos: 
     -  name: "psoas"

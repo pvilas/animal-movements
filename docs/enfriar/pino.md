@@ -1,6 +1,6 @@
 ---
 title: "El pino cara a la pared"
-description: "moverse.net - Versión de el pino, cara a la pared"
+description: "movimiento-animal.es - Versión de el pino, cara a la pared"
 descripcion: "En esta versión, sencillamente nos apoyamos en pared para hacer el pino. Una vez estamos arriba, estirar los hombros, relajar la cervical y meter el abdomen."
 denominaciones: "Handstand"
 videos: 

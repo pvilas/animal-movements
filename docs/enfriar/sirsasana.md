@@ -1,6 +1,6 @@
 ---
 title: "Postura sobre la cabeza"
-description: "moverse.net - Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
+description: "movimiento-animal.es - Invertimos el cuerpo, apoyándonos sobre la cabeza y antebrazos"
 descripcion: "Invertimos sobre la cabeza, apoyando la coronilla. Las manos hacen un cuenco detrás de la cabeza pero, en realidad, lo que trabaja son los hombros que presionan hacia abajo para que la cabeza casi no tenga peso."
 denominaciones: "Postura sobre la cabeza"
 videos: 

@@ -1,6 +1,6 @@
 ---
 title: "El caimán"
-description: "moverse.net - Reptación cara arriba y cara abajo"
+description: "movimiento-animal.es - Reptación cara arriba y cara abajo"
 descripcion: "Fantástico ejercicio para movilizar la espina dorsal.
 
 

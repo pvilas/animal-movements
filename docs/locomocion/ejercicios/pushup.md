@@ -1,6 +1,6 @@
 ---
 title: "Flexión"
-description: "moverse.net - Flexiones, ejercicio básico de flexión de brazos"
+description: "movimiento-animal.es - Flexiones, ejercicio básico de flexión de brazos"
 descripcion: "Es un ejercicio complicado en su ejecución ya que intervienen muchas cadenas musculares. Pegar bien los codos a los costados. Los hombros deben estar rotados hacia atrás y en protracción. La zona dorsal se redondea. Las escápulas bajan hacia la lumbar, se abren arriba y se cierran abajo,
 
 Cierre perineal.

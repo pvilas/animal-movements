@@ -1,6 +1,6 @@
 ---
 title: "El grillo"
-description: "moverse.net - En el grillo nos deplazamos sobre nuestro trasero."
+description: "movimiento-animal.es - En el grillo nos deplazamos sobre nuestro trasero."
 
 descripcion: "Muy adecuado para fortalezer la zona lumbar.
 

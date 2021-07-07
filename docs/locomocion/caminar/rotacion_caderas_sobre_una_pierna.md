@@ -1,6 +1,6 @@
 ---
 title: "Rotación de caderas sobre una pierna"
-description: "moverse.net - Rotamos las caderas en equilibrio sobre una pierna"
+description: "movimiento-animal.es - Rotamos las caderas en equilibrio sobre una pierna"
 descripcion: "Ejercicio fantástico para las caderas. Desde equilibrio sobre una pierna rotaremos las caderas con mucha atención a que realmente estemos movimendo sólo estas y no el resto del cuerpo. Empezar apoyados y, cuando la le tengamos la práctica, sin apoyo y dando un paso cada vez que cambiamos de pierna. "
 videos: 
     -  name: "rotacion_caderas_sobre_una_pierna"

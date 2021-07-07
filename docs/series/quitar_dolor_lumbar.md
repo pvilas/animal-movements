@@ -1,6 +1,6 @@
 ---
 title: "Serie para quitar el dolor de espalda (lumbar)"
-description: "moverse.net - Serie de ejercicios para quitar el dolor de espalda (lumbar)"
+description: "movimiento-animal.es - Serie de ejercicios para quitar el dolor de espalda (lumbar)"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

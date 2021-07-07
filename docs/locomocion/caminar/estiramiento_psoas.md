@@ -1,6 +1,6 @@
 ---
 title: "El bailarín - Estiramiento del psoas con zancada"
-description: "moverse.net - El mejor estiramiento del músculo psoas"
+description: "movimiento-animal.es - El mejor estiramiento del músculo psoas"
 descripcion: "Combinación de dos ejercicios. Primero, avanzaremos con una gran zancada para colocar bien el pie de atrás. Desde aquí,
 realizamos un estiramento con torsión que provoca una extensión de este músculo profundo. La figura resultante se parece a una de baile."
 videos: 

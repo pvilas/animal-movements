@@ -1,6 +1,6 @@
 ---
 title: "El oso"
-description: "moverse.net - En el oso, vamos a cuatro patas y pelvis arriba, con versión lateral y contralateral"
+description: "movimiento-animal.es - En el oso, vamos a cuatro patas y pelvis arriba, con versión lateral y contralateral"
 
 descripcion: "Este ejercicio es un clásico de la calistenia.
 

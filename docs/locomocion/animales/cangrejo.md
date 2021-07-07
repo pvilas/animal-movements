@@ -1,6 +1,6 @@
 ---
 title: "El cangrejo"
-description: "moverse.net - En el cangrejo, a cuatro patas supino, avanzamos y retrocedemos."
+description: "movimiento-animal.es - En el cangrejo, a cuatro patas supino, avanzamos y retrocedemos."
 
 descripcion: "Muy buen ejercicio para la espalda.
 

@@ -1,12 +1,12 @@
-site_name: moverse.net
-site_url: https://moverse.net/
+site_name: movimiento-animal.es
+site_url: https://movimiento-animal.es/
 site_description: Sitio web de locomoción y movimiento animal. Detalles de cada ejercicio, rutinas, etc.
 site_author: Pere Vilás (https://github.com/pvilas)
 copyright: Pere Vilás
 extra:
     version: 1.0
     posters: '/img/posters/'
-    # yandex_verification: '188fb3c6f1b37db8'
+    yandex_verification: 'dea5f349dc0d400a'
     # ms_verification: '39CD457F50BFFB380B0EB7C2DDA1B4DE'
     # disqus: movimiento-animal
     social:
@@ -30,7 +30,9 @@ theme:
         - navigation.tabs
         - navigation.sections        
 plugins:
-  - macros    
+  - macros
+  - search:
+      lang: es      
 copyright: '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'
 markdown_extensions:
   - meta

@@ -1,6 +1,6 @@
 ---
 title: "El ruso - Estiramiento del piriforme"
-description: "moverse.net - Estiramos el músculo piriforme haciendo una sillita"
+description: "movimiento-animal.es - Estiramos el músculo piriforme haciendo una sillita"
 descripcion: "En este ejercicio, primero calentaremos dándonos toquecitos en el talón con la mano contraria. Después estiraremos el músculo piriforme, el cuál puede provocar dolor si está muy contraido."
 videos: 
     -  name: "el_ruso"

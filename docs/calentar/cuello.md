@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento del cuello"
-description: "moverse.net - Calentar y descomprimir la zona cervical"
+description: "movimiento-animal.es - Calentar y descomprimir la zona cervical"
 descripcion: "Hacer los movimientos de forma lenta y controlada, vigilar que no haya dolores raros en las vértebras.
 
 

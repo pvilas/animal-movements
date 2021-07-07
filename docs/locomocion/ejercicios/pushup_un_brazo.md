@@ -1,6 +1,6 @@
 ---
 title: "Flexión con un brazo"
-description: "moverse.net - Flexiones, cómo hacer flexiones con un brazo"
+description: "movimiento-animal.es - Flexiones, cómo hacer flexiones con un brazo"
 descripcion: "Es una variación de la flexión. Abrimos más las piernas. Ladeamos ligeramente el cuerpo para que el brazo a flexionar esté en una posición más cómoda. Queremos proteger la articulación.
 
 Pegar el codo mientras bajamos."

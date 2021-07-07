@@ -1,6 +1,6 @@
 ---
 title: "Fuentes de información de locomocion"
-description: "moverse.net - Fuentes de información del sitio"
+description: "movimiento-animal.es - Fuentes de información del sitio"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

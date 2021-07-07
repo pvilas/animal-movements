@@ -1,6 +1,6 @@
 ---
 title: "Aviso legal"
-description: "moverse.net - Aviso legal del sitio"
+description: "movimiento-animal.es - Aviso legal del sitio"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

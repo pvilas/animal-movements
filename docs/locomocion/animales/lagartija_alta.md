@@ -1,6 +1,6 @@
 ---
 title: "Lagartija alta"
-description: "moverse.net - realizamos rotaciones del cuerpo mientras avanzamos."
+description: "movimiento-animal.es - realizamos rotaciones del cuerpo mientras avanzamos."
 descripcion: "Otro ejercicio para entrenar la lagartija. Avanzaremos un pie, apoyando la mano contraria con el brazo estirado en el suelo. La otra mano describirá un gran círculo hacia delante, empezando desde los glúteos. En el momento de pasar sobre la vertical de los hombros, la pierna de atrás se levanta, la pelvis hace una rotación y se avanza un paso después de que la mano lleguw al suelo.
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Test de Burpee"
-description: "moverse.net - Fantástica secuencia para calentar todo el cuerpo y subir pulsasiones"
+description: "movimiento-animal.es - Fantástica secuencia para calentar todo el cuerpo y subir pulsasiones"
 
 descripcion: "Esta secuencia, llamada [Test de Burpee](https://es.wikipedia.org/wiki/Test_de_Burpee), es ideal para calentar todo el cuerpo y subir las pulsaciones antes de iniciar la práctica.
 

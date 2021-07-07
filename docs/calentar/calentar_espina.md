@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de la espina"
-description: "moverse.net - Calentar la espalda mediante suves rotaciones y flexiones"
+description: "movimiento-animal.es - Calentar la espalda mediante suves rotaciones y flexiones"
 descripcion: "Suaves rotaciones de la espina para estirarla a la vez que calentamos la zona lumbar.
 
 Empezar suave, después ir llevando las manos más lejos."

@@ -1,6 +1,6 @@
 ---
 title: "El chimpancé"
-description: "moverse.net - Desplazamiento lateral sobre los brazos, desde cuclillas"
+description: "movimiento-animal.es - Desplazamiento lateral sobre los brazos, desde cuclillas"
 descripcion: "Es uno de los movimientos básicos del movimiento animal, sin embargo, dista mucho de ser sencillo de ejecutar.
 
 Tiene múltiples variantes, pero conviene tener bien controlado este ejercicio antes de empezarlas."

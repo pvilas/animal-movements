@@ -1,6 +1,6 @@
 ---
 title: "Cambio de base lateral"
-description: "moverse.net - Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
+description: "movimiento-animal.es - Desplazamos el cuerpo lateralmente pasando entre un apoyo de mano y pie contrario"
 descripcion: "En este primer cambio de base, haremos un puente entre un brazo y su pierna opuesta. Por el hueco que dejan estas, pasaremos la pierna lateralmente y la estiraremos. Replegándola, avanzaremos adelantando la mano.
 
 Cuando hagamos el movimiento lateral, el brazo y el hombro deben llegar a formar una linea recta.

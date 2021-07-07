@@ -1,6 +1,6 @@
 ---
 title: "Postura sobre los hombros"
-description: "moverse.net - Famosa técnica de inversión de yoga"
+description: "movimiento-animal.es - Famosa técnica de inversión de yoga"
 descripcion: "Invertimos sobre las escápulas. Intentar acercar los codos."
 denominaciones: "La vela"
 videos: 

@@ -1,6 +1,6 @@
 ---
 title: "Politica de privacidad"
-description: "moverse.net - Politica de privacidad"
+description: "movimiento-animal.es - Politica de privacidad"
 ---
 {% extends "pagina.jinja" %}
 {% block descripcion %}

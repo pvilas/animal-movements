@@ -1,6 +1,6 @@
 ---
 title: "Araña lateral"
-description: "moverse.net - Avanzamos lateralmente sobre manos y puntas de pies"
+description: "movimiento-animal.es - Avanzamos lateralmente sobre manos y puntas de pies"
 descripcion: "
 En esta araña, nos deplazaremos lateralmente. 
 

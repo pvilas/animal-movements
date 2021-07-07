@@ -1,6 +1,6 @@
 ---
 title: "Calentamiento de los pies"
-description: "moverse.net - Calentar los pies incluyendo los dedos, la planta, talón y tobillos"
+description: "movimiento-animal.es - Calentar los pies incluyendo los dedos, la planta, talón y tobillos"
 
 descripcion: "Una zona muy importante aunque se lleven zapatillas. Si durante la práctica o al final de ella nos duele en alguna parte de los pies es que hay algo que no hacemos bien.
 

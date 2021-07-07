@@ -1,6 +1,6 @@
 ---
 title: "La lagartija"
-description: "moverse.net - Nos desplazamos reptando sobre manos y pies"
+description: "movimiento-animal.es - Nos desplazamos reptando sobre manos y pies"
 descripcion: "Es un ejercicio más representativo del movimiento animal. Empezamos con el pie adelantado y bajos. Hacemos círculo con la mano y, simultáneamente, el cruze de pelvis."
 calentamiento: "Push up."
 repeticiones: "Series de cuatro son suficientes."

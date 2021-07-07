@@ -14,7 +14,7 @@ descripcion: "El calentamiento es muy importante y nunca debemos obviarlo. El qu
 
 
 Seguidamente, movilizaremos la espina aprovechando para subir un poco las pulsaciones."
-description: "moverse.net - Primer grupo de ejercicios para calentar el cuerpo antes de empezar el entrenamiento"
+description: "movimiento-animal.es - Primer grupo de ejercicios para calentar el cuerpo antes de empezar el entrenamiento"
 is_index: 1
 template: "indice.html"
 ---

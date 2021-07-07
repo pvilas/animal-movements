@@ -1,6 +1,6 @@
 ---
 title: "Estirar los hombres"
-description: "moverse.net - Estiramiento de los hobros antes de realizar los ejercicios que los impliquen, especialmente los cambios de base"
+description: "movimiento-animal.es - Estiramiento de los hobros antes de realizar los ejercicios que los impliquen, especialmente los cambios de base"
 descripcion: "Es imprescindible estirar los hombros antes de realizar los ejercicios boca arriba sobre cuatro patas y los cambios de base.
 
 Mantener la espalda recta. No forzar. Salir de la postura sin brusquedades."

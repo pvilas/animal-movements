@@ -1,6 +1,6 @@
 ---
 title: "El balancín"
-description: "moverse.net - Nos balanceamos de un lado al otro, basculando sobre el trasero"
+description: "movimiento-animal.es - Nos balanceamos de un lado al otro, basculando sobre el trasero"
 descripcion: "Este ejercicio es una versión en solitario de otro que se realiza con un compañero. La persona que está en suelo usa los pies de otra que está de pie para sujetarse con una mano y tomar impulso. En esta versión, tomaremos impulso plegando y estirando el cuerpo; Como si fuera un gusano, pero de lado.
 
 
