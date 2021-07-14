@@ -126,6 +126,8 @@ nav:
     - 'Índice': 'jujutsu/index.md'
     - Escapes:
         - 'Bàsics': 'jujutsu/escapes/index.md'
+        - 'Monta': 'jujutsu/escapes/monta.md'
+        - 'Baralla de peus': 'jujutsu/escapes/peus.md'
 - Varios:    
     - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
