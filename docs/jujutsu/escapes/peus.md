@@ -3,17 +3,24 @@ title: "Baralla de peus"
 description: "movimiento-animal.es - jiu jitsu - baralla de peus"
 descripcion: "Sovint ens traben es peus quan estam montats i ens impedeixen posar-nos de costat per iniciar la sortida. S’ens poden presentar tres escenaris:
 
+
     * No ens traben
+
     * Ens traben amb els peus cap enfora
+
     * Ens traben amb es peus baix nostre cul
+
 
     L’objectiu sempre serà arribar a la situació on una de ses nostres cames està estirada totalment enterra (sa de fora) i per tant no ens la poden tornar a trabar i s’altra amb es peu apoyat enterra. La cama estirada serà per començarem la sortida.
 
+
     És a dir, la situació a la que volem arribar serà 
+
 
     ![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/bp10.png)
 
-    Observar que la cama plegada te es peu molt aferrat a nes cul i l’estirada te es genoll cap enterra, d’aquesta maenra uke no pot recuperar.    
+
+    Observar que la cama plegada te es peu molt aferrat a nes cul i l’estirada te es genoll aferrat enterra, d’aquesta manera, uke no pot recuperar.    
 "
 fuentes:
     - "Pin Escapes: BJJ Fundamentals. John Danaher"

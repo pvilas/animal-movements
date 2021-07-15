@@ -1,10 +1,15 @@
 ---
 title: "Fugides"
 description: "movimiento-animal.es - jiu jitsu - fugides bàsiques"
-descripcion: "Fonaments- Falta posar els fonaments
+descripcion: "Fonaments- Tots les fuguides es basen en dos principis que van en seqüència
 
 
-  Totes les tècniques (menys sortida de monta per captura del braç) es basen en la fuita del colçe o *elbow escape*. Feim servir el colçe com a palanca per introduïr el genoll i fer puesto per retornar a la guàrdia. L’objectiu és no deixar que ens tanquin espai i arribar a un chest-to-chest, però si hi arriba, sempre mantenir els frames i intentar fer distància entre naltros i uke. 
+  1. Desequilibrar a uke (kuzushi)
+
+  2. Tenir la **posició interior**, és a dir, posar ses nostres extremitats **per dins** de les de uke
+
+
+  Quasi totes les tècniques (menys sortida de monta per captura del braç) impliquen la fuita del colçe o *elbow escape*. Feim servir el colçe com a palanca per introduïr el genoll i fer espai per retornar a la guàrdia. L’objectiu és no deixar que ens tanquin espai i arribar a un chest-to-chest, però si hi arriba, sempre mantenir els frames i intentar fer distància entre naltros i uke. 
 
 
   En cap tècnica “agafam” a uke pel gi! El que volem és precisament el contrari: Fer espai entre ell i naltros.

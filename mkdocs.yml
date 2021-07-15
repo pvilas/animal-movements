@@ -128,6 +128,12 @@ nav:
         - 'Bàsics': 'jujutsu/escapes/index.md'
         - 'Monta': 'jujutsu/escapes/monta.md'
         - 'Baralla de peus': 'jujutsu/escapes/peus.md'
+        - 'Side control': 'jujutsu/escapes/side.md'
+        - 'Knee escape': 'jujutsu/escapes/knee.md'
+        - 'Kesa Gatame': 'jujutsu/escapes/kesa.md'
+        - 'Reverse Kesa': 'jujutsu/escapes/reversekesa.md'
+        - 'Knee on belly': 'jujutsu/escapes/belly.md'
+        - 'North/south':  'jujutsu/escapes/ns.md'
 - Varios:    
     - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
