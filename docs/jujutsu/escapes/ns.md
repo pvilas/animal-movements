@@ -1,14 +1,49 @@
 ---
 title: "North/South escape"
 description: "movimiento-animal.es - jiu jitsu - north south escape"
-descripcion: "Veurem com fer aquesta tècnica i com **aprofitar la transició des de side control** per intentar que uke no acabi la presa. Després veurem tres tipus de NS en funció de com quedin els braços de uke.
+descripcion: "Primer veurem com fer aquesta tècnica i com **aprofitar la transició des de side control** per intentar que uke no acabi la presa. Aquesta tècnica s'anomena fuita dinàmica. Després veurem tres tipus d'atacs NS en funció de com quedin els braços de uke, i els seus escapaments.
 
-1. Double over (dos per fora dels braços de tori)
 
-2. Double under (dos per dins aixelles de tori)
+#### 1. Atac double over (dos per sobre dels braços de tori)
 
-3. Over under (un per fora i un per dins)
 
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-do.png)
+
+
+#### 2. Atac double under (dos per dins aixelles de tori)
+
+
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-du.png)
+
+
+#### 3. Atac over under (un per fora i un per dins)
+
+Aquesta és la millor variació ja que agafa el millor del dos anteriors. Ens dona accés a un braç i l’hora ens dona estabilitat sobre l’atra. Ens col.locam lleugerament en diagonal sobre uke per que l’efecte sigui màxim, de hombro a cadera. Tori no pot fer pont perque hi ha massa pes sobre cos.
+
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou.png)
+<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-hc.png)
+
+
+Des d’aquest NS podem fer molts d’atacs. Una possibilitat és trincar es braç over, inmovilitzar en kimura i des d’aquí anar a arm lock.<br>
+
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-1.png)
+<br>
+Notar que apoyam tot es pes sobre hombro de uke i que passam sa ma per baix es seu colçe,<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-2.png)<br>
+Per agafar-li escanell amb s’altra i fer kimura<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-3.png)<br>
+Una vegada controlat, passam cama per sobre es seu cap<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-4.png)<br>
+i feim clau de braç.<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-5.png)<br>
+
+<hr>
+Una altra possibilitat és estrangular,<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-6.png)<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-7.png)<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-8.png)<br>
+![](http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-9.png)
 
 
 "
@@ -39,5 +74,65 @@ tecnicas:
       - ["Seqüència de col.locació i inserció vista de s’altra costat 2", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-tr-13.png"]
       - ["Seqüència de col.locació i inserció vista de s’altra costat 3", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-tr-14.png"]
       - ["Seqüència de col.locació i inserció vista de s’altra costat 4", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-tr-16.png"]
+  - tecnica:
+    titulo: "Escape de double over (dos braços de uke per sobre dels braços de tori)"
+    description: "Pressionam amb es colçes cap endins per no deixar moure a tori." 
+    pasos:
+     - ["Posició inicial. Uke pressiona.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-1.png"]
+     - ["Fort bridge per fer “saltar” a uke. Notar que primer duim peus cap a cos. Es cap de uke ha de pujar i després hem de fer que no baixi, pressionant amb l’avantbraç.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-2.png"]
+     - ["Duim genolls cap a colçes i en connectam un fent que **el genoll entri per dins colçe**", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-3.png"]
+     - ["Rotam i reposam guàrdia. Notar que un genoll queda baix de coll de uke i s’altra per dalt.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-4.png"]
+     - ["Reposam", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-5.png"]
+     - ["Detall del pont: Peus amunt i pont, després, els colçes s’aixecan", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-6.png"]
+     - ["Primer es fa es pont. ", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-7.png"]
+     - ["Després es baixa es cul i simultàneament s’aixequen es colçes.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-8.png"]
+     - ["Es transfereix energia des de es genolls als colçes. Notar com es genoll entra per dins d’un colçe.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-dof-9.png"]
+  - tecnica:
+    titulo: "Escape de double under (dos braços de uke baix aixelles de tori)"
+    description: "Es colçes estan molt clavats baix aixelles d’uke i els braços pressionen cap endins per no deixar que uke es deplaci cap es costats." 
+    pasos:
+      - ["Posició inicial. Sa característica és que uke està tant sobre el nostre cos, que no podem fer un pont.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-1.png"]
+      - ["Agafam cinturó d’uke o posam mans a seva pelvis, tancam colçes", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-2.png"]
+      - ["Estiram cames", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-3.png"]
+      - ["Duim cap un costat (sempre juntes)", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-4.png"]
+      - ["I cap a s’altra fins agafar aprou impuls. També intentam allunyar-nos de uke duguent es cul cap endavant.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-5.png"]
+      - ["Com per aconseguir un angle de 90 amb uke. Intentam arribar a una situació més de perpendicularitat.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-6.png"]
+      - ["Vista frontal. Estiram bé els braços per allunyar-nos de uke.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-7.png"]
+      - ["Clavam es colçe de sa ma de fora cap es nostre pit", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-8.png"]
+      - ["Agafam espinilla de uke per fora", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-9.png"]
+      - ["FEIM ESTISSORES. Aferram orella a pelvis de uke", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-10.png"]
+      - ["Actitud d’aixecar es cap. Orella aferrada a unke.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-11.png"]
+      - ["Ens donam suport amb enterra estirant braç de fora per fer post. Uke no pot derribar-nos.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-12.png"]
+      - ["Agafam taló", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-13.png"]
+      - ["Derribam", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-14.png"]
+      - ["Nota: Si uke bloqueja pelvis amb braç de dins.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-15.png"]
+      - ["Pujam, feim espai", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-16.png"]
+      - ["Cul amunt, genoll avall", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-17.png"]
+      - ["A l'espai que queda, insertam genoll", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-18.png"]
+  - tecnica:
+    titulo: "Escape de over under 1"
+    description: "Tori ens ataca amb un per dins i s'altra per fora. Escape variant 1" 
+    pasos:
+      - ["Extreim braç que està trincat per dalt (over), abans que uke el controli", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-10.png"]
+      - ["Agafam a uke del cinturó amb ses dos mans", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-11.png"]
+      - ["A partir d’aqui feim sa mateixa fugida que en double under, sortint pes costat under.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-12.png"]
+  - tecnica:
+    titulo: "Escape de over under 2"
+    description: "Una altra possibilitat és, una vegada extret es braç, bloquejar amb sa ma baix aixella de uke i amb sa barbeta a s’altra costat. Després, passar es genoll per dins de sa ma de s’aixella. és un elbow escape." 
+    pasos:
+      - ["Feim balancí", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-16.png"]
+      - ["Amb l’espai creat, possam es genoll i es colçe junts (amb es genoll passat)", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-13.png"]
+      - ["Espitjam amb es genoll i uke va endavant. Cream espai.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-14.png"]
+      - ["Passam genoll per dins i reposam guàrdia", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-15.png"]
+  - tecnica:
+    titulo: "Vista posterior escape de over under 2"
+    description: "Vista posterior" 
+    pasos:
+      - ["Vista posterior de over under 2", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-16.png"]      
+      - ["un", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-17.png"]
+      - ["dos", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-18.png"]
+      - ["tres", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-19.png"]
+      - ["quatre", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-20.png"]
+      - ["cinc", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-21.png"]
 ---
 {% extends  "pagina.jinja" %}
