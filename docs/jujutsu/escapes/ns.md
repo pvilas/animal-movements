@@ -111,28 +111,21 @@ tecnicas:
       - ["A l'espai que queda, insertam genoll", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-duf-18.png"]
   - tecnica:
     titulo: "Escape de over under 1"
-    description: "Tori ens ataca amb un per dins i s'altra per fora. Escape variant 1" 
+    description: "Tori ens ataca amb un per dins i s'altra per fora. Tori estira es braç abans de que uke el capturi i surt fent es balancí." 
     pasos:
       - ["Extreim braç que està trincat per dalt (over), abans que uke el controli", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-10.png"]
       - ["Agafam a uke del cinturó amb ses dos mans", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-11.png"]
       - ["A partir d’aqui feim sa mateixa fugida que en double under, sortint pes costat under.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-12.png"]
   - tecnica:
-    titulo: "Escape de over under 2"
-    description: "Una altra possibilitat és, una vegada extret es braç, bloquejar amb sa ma baix aixella de uke i amb sa barbeta a s’altra costat. Després, passar es genoll per dins de sa ma de s’aixella. és un elbow escape." 
+    titulo: "Escape over under 2"
+    description: "Sortim fent un balancí i trincant es braç de uke amb es genoll." 
     pasos:
-      - ["Feim balancí", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-16.png"]
-      - ["Amb l’espai creat, possam es genoll i es colçe junts (amb es genoll passat)", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-13.png"]
-      - ["Espitjam amb es genoll i uke va endavant. Cream espai.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-14.png"]
+      - ["Posició inicial. Uke ens passa un braç per dins i s'altra per fora. Està en lleugera diagonal.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-16.png"]      
+      - ["La nostra ma del braç que uke té per sobre va a aixella", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-17.png"]
+      - ["Feim balancí. El nostre braç fa de tope.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-18.png"]
+      - ["D'un bot, introduïm genoll dins de braç de uke. Seguim agafant es braç amb força.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-19.png"]
+      - ["Fent palanca, sortim cap un costat.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-20.png"]
+      - ["Repossam guàrdia aprofitant l'espai que queda.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-21.png"]
       - ["Passam genoll per dins i reposam guàrdia", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-15.png"]
-  - tecnica:
-    titulo: "Vista posterior escape de over under 2"
-    description: "Vista posterior" 
-    pasos:
-      - ["Vista posterior de over under 2", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-16.png"]      
-      - ["un", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-17.png"]
-      - ["dos", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-18.png"]
-      - ["tres", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-19.png"]
-      - ["quatre", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-20.png"]
-      - ["cinc", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/ns-ou-21.png"]
 ---
 {% extends  "pagina.jinja" %}
