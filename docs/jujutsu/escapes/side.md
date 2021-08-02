@@ -1,7 +1,7 @@
 ---
 title: "Side control"
 description: "movimiento-animal.es - jiu jitsu - side control"
-descripcion: "Aquesta és la tècnica més bàsica de totes i fonament de tota la resta. 
+descripcion: "Aquesta és la tècnica més bàsica de totes i fonament de tota la resta.  
 
 
 La idea bàsica és que uke ha de tenir **sa cadera i es cap a n’es mateix costat** de manera que no pot fer força per mantenir-nos baix. Per aconseguir això, primer haurem de tenir el colçe de dins passat dins la cadera de uke i fer un pont asimètric espitjant el cap de uke. Això ens deixarà lloc per passar el genoll dins la cadera contrària de uke i fer un *frame* que ens permetrà recuperar sa guàrdia.
