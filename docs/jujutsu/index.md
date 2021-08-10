@@ -10,6 +10,8 @@ La sección está estructura en los siguientes apartados:
 
 * [Escapes](/jujutsu/escapes/) de diferentes técnicas de bloqueo.
 
+* [Juji Gatame](/jujutsu/juji/), o llave de brazo
+
 
 Recuerda que es imprescindible calentar adecuadamente antes de ejecutar algún ejercicio. Si tienes lesiones consulta antes a un profesional. 
 
