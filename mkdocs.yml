@@ -134,10 +134,12 @@ nav:
         - 'Reverse Kesa': 'jujutsu/escapes/reversekesa.md'
         - 'Knee on belly': 'jujutsu/escapes/belly.md'
         - 'North/south':  'jujutsu/escapes/ns.md'
+    - Guard Retention:
+        - 'Bàsics': 'jujutsu/retention/index.md' 
     - Juji:
         - 'Bàsics': 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
-        - 'Tancada malic': 'jujutsu/juji/malic.md'
+        - 'Tancada malic': 'jujutsu/juji/malic.md'    
 - Varios:    
     - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'

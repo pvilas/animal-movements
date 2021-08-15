@@ -19,6 +19,7 @@ Recuerda que es imprescindible calentar adecuadamente antes de ejecutar algún e
 Las fuentes son varias, pero sobretodo provienen de los vídeos del profesor John Danaher. Entiendo que tomar una imagen de un vídeo no constituye ninguna violación de los derechos de autor.
 "
 is_index: 1
+base_thumbs: /img/jujutsu/thumbs/
 template: "indice.html"
 ---
 {% extends "pagina.jinja" %}

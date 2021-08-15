@@ -135,7 +135,7 @@
 
 {% block indice %}
 {% if page.meta.is_index %}
-{{render_cards(page.parent.children, page.url)}}
+{{render_cards(page.parent.children, page.url, page.meta.base_thumbs)}}
 {% endif %}
 {% endblock %}
 
