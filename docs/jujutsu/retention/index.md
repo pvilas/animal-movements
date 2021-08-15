@@ -18,7 +18,9 @@ Els cicles ofensius tenen les seguentes característiques:
 
 * Prevenir que uke agafi angle i distància per passar la guàrdia
 
+
 Per la seva banda, els cicles defensious presenten les seguents característiques:
+
 
 * Uke ha romput la connexió dels quatre punts
 
@@ -28,7 +30,7 @@ Per la seva banda, els cicles defensious presenten les seguents característique
 > És crític que tori reconegui quan la baralla està a un cile ofensiu o defensiu.
 
 
-Encara que s'estudiaran moviments per anul.lar els passos de guàrdia més comuns, usarem un mètode heuristic mes aproximar-nos a la retenció de guàrdia que té els seguents components claus.
+Encara que s'estudiaran moviments per anul.lar els passos de guàrdia més comuns, usarem un mètode heuristic aproximar-nos a la retenció de guàrdia que té els seguents components claus.
 
 
 ## Components claus
@@ -39,15 +41,18 @@ Són tres habilitats físiques, tres habilitats tàctiques i prevenir els errors
 
 #### Habilitats posturals
 
+
 1. assegut
 
 2. supí (panxa amunt) 
 
 3. tortuga
 
+
 I la facilitat per passar d'una a l'altra.
 
 #### Habilitats de moviment
+
 
 1. pummeling (rotacions amb cames i pelves des d'enterra)
 
@@ -69,6 +74,7 @@ I la facilitat per passar d'una a l'altra.
 
 10. propping (aixecar-se ajudats per el braç de darrera)
 
+
 #### Habilitats de framing
 
 Es tracta de posar barreres temporals a l'evolució de uke.
@@ -84,6 +90,7 @@ Es tracta de posar barreres temporals a l'evolució de uke.
 ### Tres habilitats tàctiques
 
 #### 1. Evaluació de l'amenaça (via la teoria de les linies de demarcació)
+
 
     * Linia central
 
@@ -119,6 +126,7 @@ Uke necessita cinc requeriments per pasar la guàrdia, tori ha d'intentar que qu
 
 No hem d'estar sempre defesant, sempre hem d'intentar acabar un cicle defensiu amb un ofensiu, possiblement en la possió cchb (collar, cuff, hip, biceps).
 
+
 1. Establir connexió sòlida amb uke
 
 2. Alinear les linies centrals
@@ -146,7 +154,7 @@ Tori ha d'intentar mantenir els quatre punts de contacte. **És especialment dif
 
 * Identificar l'amenaça via la teoria de la demarcació i dels cinc requeriments
 
-* Reaccionar adequadament al nivell d'amenaça usant els moviments del cos i els frames
+* Reaccionar adeqüadament al nivell d'amenaça usant els moviments del cos i els frames
 
 * Recuperar la linia central, les cames i els quatre punts de contacte
 
@@ -155,7 +163,8 @@ Tori ha d'intentar mantenir els quatre punts de contacte. **És especialment dif
 
 ## Sistema específic
 
-Es tracta de tenir alguna tècnica per neutralitzar les sis passades de guàrida més comunes:
+Es tracta de tenir alguna tècnica per neutralitzar les sis passades de guàrdia més comunes:
+
 
 1. Double under
 
@@ -169,6 +178,7 @@ Es tracta de tenir alguna tècnica per neutralitzar les sis passades de guàrida
 
 6. Long setp
 
+
 ## Notes arran de passar la guàrdia
 
 Passar les cames no vol que la guàrida estigui passada. Passar ses cames és senzill per un oponent experimentat. Passar-nos la guàrdia hauria d'esser sempre dificultós. Tenim ses mans i braços i avantbraçs per fer frame.
@@ -177,8 +187,11 @@ Però el frame més important és el Gi. La posició més avantatjosa per a un p
 
 > El cicle defensiu, és a dir, el moment en que hem de posar frames és el moment en que perder els quatre punts de contacte.
 
-Però no hi ha que estar satisfet amb mantenir sa guàrdia, sempre hi ha que acabar un cicle defensiou amb un cicle defensiu, p.e. amb cchp. Sa retenció de sa guàrdia no és un fi en si mateix, és una manera de tornar a un cicle ofensiu.
+
+Però no hi ha que estar satisfet amb mantenir sa guàrdia, sempre hi ha que acabar un cicle defensiu amb un cicle ofensiu, p.e. amb cchp. Sa retenció de sa guàrdia no és un fi en si mateix, és una manera de tornar a un cicle ofensiu.
 
 "
+fuentes:
+    - "Guard Retention: BJJ Fundamentals. John Danaher"
 ---
 {% extends  "pagina.jinja" %}
