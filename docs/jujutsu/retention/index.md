@@ -190,6 +190,37 @@ Però el frame més important és el Gi. La posició més avantatjosa per a un p
 
 Però no hi ha que estar satisfet amb mantenir sa guàrdia, sempre hi ha que acabar un cicle defensiu amb un cicle ofensiu, p.e. amb cchp. Sa retenció de sa guàrdia no és un fi en si mateix, és una manera de tornar a un cicle ofensiu.
 
+
+## Requeriments per retenir la guàrdia
+
+Volem mantenir les linies central alineades. Ho podem fer aconseguint un o, millor, els dos requirements per mantenir la la guàrdia.
+
+### Movimient 
+
+Ens movemnt per mantenir la linea central alineada amb uke.
+
+### Connexió
+
+Si estam connectats a uke i d'esquena enterra, el seguim en els seus intents de desconnectar les linies centrals. Si ho aconsegueix, tenim que fer unes tisores per recuperar la guàrdia.
+
+## Idea central
+
+Si només hem de tenir una idea dins el cap a d'esser aquesta:
+
+> Mai exposar sense lluita el nostre pit a l'oponent
+
+Sempre hem de mantenir el pit de l'oponent lluny del nostre mogent-nos, amb frames o com sigui però mantenint el pit de l'oponent lluny del nostre.
+
+## Posture fonamentals per mantenir la guàrdia
+
+Hem de ser capaços de passar sense cap esforç d'una a altra
+
+* asseguts (escuadrada o amb un braç darrera)
+
+* supina
+
+* tortuga
+
 "
 fuentes:
     - "Guard Retention: BJJ Fundamentals. John Danaher"
