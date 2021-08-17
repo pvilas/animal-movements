@@ -3,9 +3,9 @@ title: "Guard retention"
 description: "movimiento-animal.es - jiu jitsu - retenció de guàrdia"
 descripcion: "Retenció de la guàrdia.
 
-Com a concepte general, la baralla es desenvolupa en una sèria de cicles ofensius i defensius. 
+Com a concepte general, la baralla es desenvolupa en una sèrie de cicles ofensius i defensius. 
 
-Els cicles ofensius tenen les seguentes característiques:
+Els cicles ofensius tenen les seguents característiques:
 
 
 * Forta connexió mecànica entre tori i uke (connexió de quatre punts)
@@ -19,7 +19,7 @@ Els cicles ofensius tenen les seguentes característiques:
 * Prevenir que uke agafi angle i distància per passar la guàrdia
 
 
-Per la seva banda, els cicles defensious presenten les seguents característiques:
+Per la seva banda, els cicles defensius presenten les seguents característiques:
 
 
 * Uke ha romput la connexió dels quatre punts
@@ -98,7 +98,7 @@ Es tracta de posar barreres temporals a l'evolució de uke.
 
     * Linea de peus, genolls, pelvis i espatles
 
-    * Jeopardy points (on escreuen les laterals amb la cadera)
+    * Jeopardy points (on es creuen les laterals amb la cadera)
 
 
 Tori sempre vol que la seva linia de genolls estigui per dins de la linia de la cadera. Uke vol el contrari.
