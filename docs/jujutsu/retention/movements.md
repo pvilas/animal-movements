@@ -1,7 +1,29 @@
 ---
 title: "Moviments per retenir la guàrdia"
 description: "movimiento-animal.es - jiu jitsu - moviments per retenir la guàrdia"
-descripcion: "Estudiam els diferents moviments necessaris per poder retenir la guàrdia
+descripcion: "Estudiam els diferents moviments necessaris per poder retenir la guàrdia.
+
+Notar que a quasi totes les tècniques, treim la cama exterior per fora del braç de uke per reposar la guàrdia. És important que es peu passi per l'exterior per evitar que ens el capturi.
+
+Partirem de les tres posicions bàsiques.
+
+**Asseguts (seated)**
+
+* Scooting
+
+* Rolling
+
+* Hip heisting
+
+**Supina**
+
+* Shrimping
+
+* Pummeling
+
+* Pendulum
+
+
 "
 fuentes:
     - "Guard Retention: BJJ Fundamentals. John Danaher"
@@ -40,12 +62,48 @@ tecnicas:
     description: "Fugam la cadera per crear espai. No volem que es seu cap estigui prop des nostre. Sempre volem que es cap de uke estigui a un braç de distància." 
     pasos:
       - ["Posició inicial. Tori assegut, solapa creuada i ma enterra.", "hh1.png"]
-      - ["Uke agafa costat", "hh2"]
+      - ["Uke agafa costat", "hh2.png"]
       - ["Tori apoya ma enterra i estiram braç per recuperar la distància", "hh3.png"]
       - ["Ajuntam peus", "hh4.png"]
       - ["Aixecam pelvis", "hh5.png"]
       - ["Treim cama de fora", "hh6.png"]
       - ["Treim cama de dins", "hh7.png"]
       - ["En moviment", "hhmov.png"]
+      - ["Vista frontal", "hhmov2.png"]
+  - tecnica:
+    titulo: "Shrimping"
+    arrel_img: "/img/jujutsu/retention/movements/"
+    description: "Defensa fonamental. Augmentam distància entre la nostra pelvis i uke." 
+    pasos:
+      - ["Posició inicial supina. Uke ens agafa dels genolls.", "shr1.png"]
+      - ["Uke agafa costat", "shr2.png"]
+      - ["Postejam amb els braços per què no s'apropi", "shr3.png"]
+      - ["Duim pes a peu exterior i espatla interior", "shr4.png"]
+      - ["Fugam cadera", "shr5.png"]
+      - ["Duim cama de fora cap exterior de braç de uke, describint un cercle.", "shr6.png"]
+      - ["Reposam guàrdia", "shr7.png"]
+      - ["En moviment", "shrmov.png"]
+      - ["Vista frontal solitari", "shrmov2.png"]      
+  - tecnica:
+    titulo: "Pummeling"
+    arrel_img: "/img/jujutsu/retention/movements/"
+    description: "Ens serveix per defensar-nos de preses de cames, tant per dalt com quan uke les creua per baix.
+    
+    És important intentar mantenir la posició interior, per la qual cosa podem passar es peus per dins o per fora dels braços de uke.
+
+    Podem escalfar fer molins, i després ajuntar amb gambes
+    " 
+    pasos:
+      - ["Escalfar amb gamba.", "pummov1.png"]
+      - ["Aplicació quan uke ens agafa dels genolls. Sempre buscam la posició interior.", "pummov2.png"]
+      - ["Aplicació double under. Notar que al final capturam a uke duient el genoll cap a naltros.", "pummov3.png"]
+      - ["Aplicació a one under. Ens anticipant al moviment de uke.", "pummov4.png"]
+  - tecnica:
+    titulo: "Pendulum"
+    arrel_img: "/img/jujutsu/retention/movements/"
+    description: "Feim un pèndul amb una cama. Ens serveix per aixecar-nos ràpidament d'enterra.
+    " 
+    pasos:
+      - ["Una cama per dins i una altra per fora. Estiram cama de dins i feim pèndul pressionant sobre es colçe de uke.", "penmov1.png"]
 ---
 {% extends  "pagina.jinja" %}
