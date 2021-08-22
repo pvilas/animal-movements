@@ -73,7 +73,7 @@ tecnicas:
   - tecnica:
     titulo: "Shrimping"
     arrel_img: "/img/jujutsu/retention/movements/"
-    description: "Defensa fonamental. Augmentam distància entre la nostra pelvis i uke." 
+    description: "Defensa fonamental. Augmentam distància entre la nostra pelvis i uke. Uke vol apropar-se, tori vol tenir distància." 
     pasos:
       - ["Posició inicial supina. Uke ens agafa dels genolls.", "shr1.png"]
       - ["Uke agafa costat", "shr2.png"]
@@ -82,8 +82,8 @@ tecnicas:
       - ["Fugam cadera", "shr5.png"]
       - ["Duim cama de fora cap exterior de braç de uke, describint un cercle.", "shr6.png"]
       - ["Reposam guàrdia", "shr7.png"]
-      - ["En moviment", "shrmov.png"]
-      - ["Vista frontal solitari", "shrmov2.png"]      
+      - ["Detall de lo lluny que queda el peu de la linia central abans de fer la gamba", "shr8.png"]
+      - ["En moviment", "shrmov.png"]      
   - tecnica:
     titulo: "Pummeling"
     arrel_img: "/img/jujutsu/retention/movements/"
@@ -91,7 +91,9 @@ tecnicas:
     
     És important intentar mantenir la posició interior, per la qual cosa podem passar es peus per dins o per fora dels braços de uke.
 
-    Podem escalfar fer molins, i després ajuntar amb gambes
+    Podem escalfar fer molins, i després ajuntar amb gambes.
+
+    Hi ha un moviment que du el genoll cap a l'espatla i mou sa cadera i un altra de rotació de les cames. Notar que els genolls mai se'n van molt lluny de la linia de la pelvis.
     " 
     pasos:
       - ["Escalfar amb gamba.", "pummov1.png"]
