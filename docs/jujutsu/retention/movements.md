@@ -23,6 +23,9 @@ Partirem de les tres posicions bàsiques.
 
 * Pendulum
 
+* Scissoring
+
+
 
 "
 fuentes:
@@ -73,7 +76,7 @@ tecnicas:
   - tecnica:
     titulo: "Shrimping"
     arrel_img: "/img/jujutsu/retention/movements/"
-    description: "Defensa fonamental. Augmentam distància entre la nostra pelvis i uke. Uke vol apropar-se, tori vol tenir distància." 
+    description: "Defensa fonamental. Augmentam distància entre la nostra pelvis i uke per reposar sa guàrdia. Uke vol apropar-se, tori vol tenir distància." 
     pasos:
       - ["Posició inicial supina. Uke ens agafa dels genolls.", "shr1.png"]
       - ["Uke agafa costat", "shr2.png"]
@@ -84,6 +87,7 @@ tecnicas:
       - ["Reposam guàrdia", "shr7.png"]
       - ["Detall de lo lluny que queda el peu de la linia central abans de fer la gamba", "shr8.png"]
       - ["En moviment", "shrmov.png"]      
+      - ["Altra vista", "shrmov3.gif"]      
   - tecnica:
     titulo: "Pummeling"
     arrel_img: "/img/jujutsu/retention/movements/"
@@ -93,19 +97,24 @@ tecnicas:
 
     Podem escalfar fer molins, i després ajuntar amb gambes.
 
-    Hi ha un moviment que du el genoll cap a l'espatla i mou sa cadera i un altra de rotació de les cames. Notar que els genolls mai se'n van molt lluny de la linia de la pelvis.
+    Notar que la linea dels genolls mai se'n van molt lluny de la linia de la pelvis ja que axiò debilita la posició.
+
+    Hi ha un moviment que du el genoll cap a l'espatla i mou sa cadera i un altra de rotació de les cames. 
     " 
     pasos:
+      - ["Observar com és una mescla de endavant i endarrera amb girs. La pelvis sempre acompanya el moviment.", "pummov0.png"]
       - ["Escalfar amb gamba.", "pummov1.png"]
-      - ["Aplicació quan uke ens agafa dels genolls. Sempre buscam la posició interior.", "pummov2.png"]
+      - ["Aplicació quan uke ens agafa dels genolls. Notar que **primer treim la pelvis cap enfora** per fer espai i després giram la cama.Sempre buscam la posició interior.", "pummov2.png"]
       - ["Aplicació double under. Notar que al final capturam a uke duient el genoll cap a naltros.", "pummov3.png"]
-      - ["Aplicació a one under. Ens anticipant al moviment de uke.", "pummov4.png"]
+      - ["Aplicació a one under. Ens anticipam al moviment de uke.", "pummov4.png"]
   - tecnica:
     titulo: "Pendulum"
     arrel_img: "/img/jujutsu/retention/movements/"
-    description: "Feim un pèndul amb una cama. Ens serveix per aixecar-nos ràpidament d'enterra.
+    description: "Feim un pèndul amb una cama. Ens serveix per aixecar-nos ràpidament d'enterra, és a dir, passar de posició supina a asseguda.
     " 
     pasos:
-      - ["Una cama per dins i una altra per fora. Estiram cama de dins i feim pèndul pressionant sobre es colçe de uke.", "penmov1.png"]
+      - ["Detall. Extenem una de ses cames per fer-nos de pèndul.", "penmov0.png"]
+      - ["El moviment lateral ens permet asseure'ns i capturar es colçe de uke.", "penmov2.png"]
+      - ["Uke ens fa docuble under o bé està a punt de passar guàrdia per fora. Una cama per dins i una altra per fora. Estiram cama de dins i feim pèndul pressionant sobre es colçe de uke.", "penmov1.png"]
 ---
 {% extends  "pagina.jinja" %}
