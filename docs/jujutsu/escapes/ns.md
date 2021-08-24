@@ -4,6 +4,9 @@ description: "movimiento-animal.es - jiu jitsu - north south escape"
 descripcion: "Primer veurem com fer aquesta tècnica i com **aprofitar la transició des de side control** per intentar que uke no acabi la presa. Aquesta tècnica s'anomena fuita dinàmica. Després veurem tres tipus d'atacs NS en funció de com quedin els braços de uke, i els seus escapaments.
 
 
+La idea sempre és que uke no ens agafi la pelvis, és a dir, que naltros sempre tinguem es genolls i colçés per dins de les espatles de uke.
+
+
 #### 1. Atac double over (dos per sobre dels braços de tori)
 
 

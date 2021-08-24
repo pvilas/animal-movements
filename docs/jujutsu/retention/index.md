@@ -3,7 +3,23 @@ title: "Guard retention"
 description: "movimiento-animal.es - jiu jitsu - retenció de guàrdia"
 descripcion: "Retenció de la guàrdia.
 
+
+Sempre hem de tenir dins el cap dos idees:
+
+1. Ens hem d'aferrar a uke per seguir-li la guàrdia
+
+
+2. No hem de deixar que ens controli el cap les espatles
+
+
+Aquestes dues idees són fonamentals: Aferrar-se a uke per seguir-li la guàrida i que no pugui treballar i
+
+
+> No deixar que uke ens controli el cap!
+
+
 Com a concepte general, la baralla es desenvolupa en una sèrie de cicles ofensius i defensius. 
+
 
 Els cicles ofensius tenen les seguents característiques:
 

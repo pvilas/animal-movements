@@ -9,6 +9,9 @@ descripcion: "Fonaments- Tots les fuguides es basen en dos principis que van en 
   2. Tenir la **posició interior**, és a dir, posar ses nostres extremitats **per dins** de les de uke
 
 
+> No deixar mai que uke ens controli el cap!. Si uke no ens controla el cap és molt dificil que ens finalitzi 
+
+
   Quasi totes les tècniques (menys sortida de monta per captura del braç) impliquen la fuita del colçe o *elbow escape*. Feim servir el colçe com a palanca per introduïr el genoll i fer espai per retornar a la guàrdia. L’objectiu és no deixar que ens tanquin espai i arribar a un chest-to-chest, però si hi arriba, sempre mantenir els frames i intentar fer distància entre naltros i uke. 
 
 
