@@ -135,8 +135,10 @@ nav:
         - 'Knee on belly': 'jujutsu/escapes/belly.md'
         - 'North/south':  'jujutsu/escapes/ns.md'
     - Guard Retention:
-        - 'Bàsics': 'jujutsu/retention/index.md'
-        - 'Moviments': 'jujutsu/retention/movements.md'
+        - 'Bàsics': 'jujutsu/retention/index.md'        
+        - 'Seated': 'jujutsu/retention/seated.md'
+        - 'Supine':  'jujutsu/retention/supine.md'
+        - 'Turtle':  'jujutsu/retention/turtle.md'
     - Juji:
         - 'Bàsics': 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
