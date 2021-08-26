@@ -3,11 +3,16 @@ title: "Moviments per retenir la guàrdia: assegut"
 description: "movimiento-animal.es - jiu jitsu - moviments per retenir la guàrdia des de assegut"
 descripcion: "Estudiam els diferents moviments necessaris per poder retenir la guàrdia des de assegut.
 
+
 * Scooting
+
 
 * Rolling
 
+
 * Hip heisting
+
+
 "
 fuentes:
     - "Guard Retention: BJJ Fundamentals. John Danaher"

@@ -10,6 +10,17 @@
 </video>
 {%endmacro%}
 
+{% macro render_video_url(url) %}  
+<video width="100%" height="100%" max-width="100%"
+    muted autoplay controls
+    style="object-fit:fill;"
+    {#poster="/img/posters/videos/{{name}}.png.jpg"
+    id="video-{{name}}"#}
+    >
+    <source src="{{url}}" type="video/mp4">  
+    Tu navegador no soporta la etiqueta video.
+</video>
+{%endmacro%}
 
 
 {% macro make_card(p, base_thumbs) %}

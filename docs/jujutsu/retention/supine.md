@@ -6,15 +6,21 @@ descripcion: "Estudiam els diferents moviments necessaris per poder retenir la g
 
 * Shrimping
 
+
 * Pummeling
+
 
 * Pendulum
 
+
 * Scissoring
+
 
 * Spinning inversion
 
+
 * Rollbacks
+
 
 * Back heist
 
@@ -37,8 +43,7 @@ tecnicas:
       - ["Reposam guàrdia", "shr7.png"]
       - ["Detall de lo lluny que queda el peu de la linia central abans de fer la gamba", "shr8.png"]
       - ["En moviment", "shrmov.png"]      
-      - ["Altra vista", "shrmov3.gif"]
-tecnicas:      
+      - ["Altra vista", "shrmov3.gif"]   
   - tecnica:
     titulo: "Pummeling"
     arrel_img: "/img/jujutsu/retention/movements/"

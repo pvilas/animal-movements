@@ -1,4 +1,4 @@
-{% from 'macros.jinja' import render_video, render_cards, pon_fuente %}
+{% from 'macros.jinja' import render_video, render_video_url, render_cards, pon_fuente %}
 
 {# nombre de la pagina (mismo que nombre que video, poster, etc.) #}
 {% set name = page.abs_url.split('/')[-2] %}
@@ -102,7 +102,11 @@
         
 {% for p in t.pasos %}
 <p>{{p[0]}}</p>
+{% if p[1] and p[1].endswith('.mp4')%}
+{{render_video_url(t.arrel_img+p[1])}}
+{% else %}
 ![{{p[0]}}]({{t.arrel_img}}{{p[1]}})
+{% endif %}
 {% endfor %}
         
 {% endfor %}

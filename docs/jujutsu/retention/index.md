@@ -6,6 +6,7 @@ descripcion: "Retenció de la guàrdia.
 
 Sempre hem de tenir dins el cap dos idees:
 
+
 1. Ens hem d'aferrar a uke per seguir-li la guàrdia
 
 
@@ -16,6 +17,9 @@ Aquestes dues idees són fonamentals: Aferrar-se a uke per seguir-li la guàrida
 
 
 > No deixar que uke ens controli el cap!
+
+
+És més, tori el que vol és maximitzar l'espai entre el cap de uke i el seu, interposant si pot ser les cames enmig. Recordar també que sempre hi ha d'haver distància o alguna cosa entre el nostre pit i el de uke.
 
 
 Com a concepte general, la baralla es desenvolupa en una sèrie de cicles ofensius i defensius. 
