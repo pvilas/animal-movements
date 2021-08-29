@@ -19,7 +19,7 @@ fuentes:
 tecnicas:
   - tecnica:
     titulo: "Shoulder roll"
-    arrel_img: "/img/jujutsu/retention/movements/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     description: "Hem de rodar sempre sobre l'espatlla on es dirigeix uke. Si uke va cap a la dreta, hem de rodar sobre l'espatla dreta. Per fer es roll, hi ha que estar ben compactats. Per rodar duim l'espatla molt aprop de les caderes. El cap mira cap amunt. El roll no està complet fins que les cames estan als costats del cap.
 
 
@@ -38,7 +38,7 @@ tecnicas:
       - ["Ús de les mans estant invertits", "shdmov5.mp4"]
   - tecnica:
     titulo: "Sitting"
-    arrel_img: "/img/jujutsu/retention/movements/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     description: "Passam de turtle a sitting. Hi ha que mantenir el cap baix en tot moment, no aixercar-lo!. Aixecam una cama, feim el cos cap un costat sense aixecar el cap i rotam s'altra cama sobre el genoll a fi de quedar asseguts. La clau és allunyar sempre el nostre cap del de uke i possar-hi les cames enmig.
     " 
     pasos:

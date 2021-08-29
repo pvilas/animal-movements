@@ -30,7 +30,7 @@ Hi ha que seguir bé les passes de la seqüència d’inserció del genoll perqu
 2. Angle d’inserció, aixecant el peu més que el genoll i apuntant el genoll cap avall.
 
 
-![](/img/jujutsu/escapes/angle.png)
+![](https://static.movimiento-animal.es/img/jujutsu/escapes/angle.png)
 
 
 Si falla algun dels dos, l’inserció del genoll no serà possible. 
@@ -76,7 +76,7 @@ tecnicas:
   - tecnica:
     titulo: "Knee escape"
     description: "És un escape que es pot fer quan el braç de fora queda en underhook."
-    arrel_img: "/img/jujutsu/escapes/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/escapes/"
     pasos:
       - ["Uke intenta side control. Naltros anticipam posant sa mà de fora al pit", "ke_00.png"]
       - ["Posició inicial", "ke_01.png"]
@@ -100,7 +100,7 @@ tecnicas:
 
     Si quan el pont baixa, encara tenim es coll damunt del braç de uke, és impossible fer la tècnica.
     "
-    arrel_img: "/img/jujutsu/escapes/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/escapes/"
     pasos:
       - ["Posició inicial", "le_01.png"]
       - ["Mà a espatla, passant-la per baix del coll", "le_02.png"]
@@ -117,7 +117,7 @@ tecnicas:
       - ["I expandim el pit cap enfora. Això ens deixa espai per passar la mà.", "le_13.png"]
   - tecnica:
     titulo: "Sortida lateral"
-    arrel_img: "/img/jujutsu/escapes/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/escapes/"
     description: "En aquest cas, feim la gamba cap al costat. Primer movem la cadera lluny de uke i deprés ampliam l'espai fent gamba lateral. Finalment, introduïm el genoll en l'espai que deixa el frame dels braços." 
     pasos:
       - ["Posició inicial", "gl-01.png"]
@@ -137,8 +137,8 @@ tecnicas:
       - ["Quan uke ja està mitj desequilibrat, ens donam sa volta.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/prop6.png"]
       - ["Apoyam colçe i ens anam aixecant", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/prop7.png"]
       - ["Sortim enfora per es forat que ha quedat", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/prop8.png"]
-      - ["Vista frontal 1.", "/img/jujutsu/escapes/do-01.png"]
-      - ["Vista frontal 2. Aixecam pelvis, estiram cama de fora i apuntam genoll enterra.", "/img/jujutsu/escapes/do-02.png"]
-      - ["Vista frontal 3. D'un moviment, duim es pes sobre colçe a la volta que retiram la pelvis cap endins.", "/img/jujutsu/escapes/do-03.png"]
+      - ["Vista frontal 1.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-01.png"]
+      - ["Vista frontal 2. Aixecam pelvis, estiram cama de fora i apuntam genoll enterra.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-02.png"]
+      - ["Vista frontal 3. D'un moviment, duim es pes sobre colçe a la volta que retiram la pelvis cap endins.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-03.png"]
 ---
 {% extends  "pagina.jinja" %}

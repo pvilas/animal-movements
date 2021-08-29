@@ -19,7 +19,7 @@ fuentes:
 tecnicas: 
   - tecnica:
     titulo: "Scooting"
-    arrel_img: "/img/jujutsu/retention/movements/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     description: "És la versió asseguda de la gamba. La idea és augmentar la dstància entre la nostra cadera i els peus de uke." 
     pasos:
       - ["Posició inicial.", "sco1.png"]
@@ -29,10 +29,10 @@ tecnicas:
       - ["Vista lateral 1","sco6.png"]
       - ["Vista lateral 2", "sco7.png"]
       - ["Vista lateral 3", "sco8.png"]
-      - ["En moviment", "scomov.png"]
+      - ["En moviment", "scomov.mp4"]
   - tecnica:
     titulo: "Rolling"
-    arrel_img: "/img/jujutsu/retention/movements/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     description: "Protegim pit amb cames encara que sigui en inversió." 
     pasos:
       - ["Posició inicial. Tori té una cama plegada dins.", "rol1.png"]
@@ -44,10 +44,11 @@ tecnicas:
       - ["Anam a guàrdia tancada.", "rol7.png"]
       - ["Recuperam guàrdia.", "rol8.png"]
       - ["Detall de com apoyar es braç enterra", "rol9.png"]
-      - ["En moviment", "rolmov.png"]
+      - ["En moviment", "rolmov.mp4"]
+      - ["Amb company", "rolmov2.mp4"]
   - tecnica:
     titulo: "Hip heisting"
-    arrel_img: "/img/jujutsu/retention/movements/"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     description: "Fugam la cadera per crear espai. No volem que es seu cap estigui prop des nostre. Sempre volem que es cap de uke estigui a un braç de distància." 
     pasos:
       - ["Posició inicial. Tori assegut, solapa creuada i ma enterra.", "hh1.png"]
@@ -57,7 +58,7 @@ tecnicas:
       - ["Aixecam pelvis", "hh5.png"]
       - ["Treim cama de fora", "hh6.png"]
       - ["Treim cama de dins", "hh7.png"]
-      - ["En moviment", "hhmov.png"]
-      - ["Vista frontal", "hhmov2.png"]
+      - ["En moviment", "hh3mov.mp4"]
+      - ["Solo", "hh2mov.mp4"]
 ---
 {% extends  "pagina.jinja" %}
