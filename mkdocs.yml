@@ -137,8 +137,10 @@ nav:
     - Guard Retention:
         - 'Bàsics': 'jujutsu/retention/index.md'        
         - 'Seated': 'jujutsu/retention/seated.md'
-        - 'Supine':  'jujutsu/retention/supine.md'
-        - 'Turtle':  'jujutsu/retention/turtle.md'
+        - 'Supine': 'jujutsu/retention/supine.md'
+        - 'Turtle': 'jujutsu/retention/turtle.md'
+        - 'Frames': 'jujutsu/retention/frames.md'
+        - 'Demarcation': 'jujutsu/retention/demarcation.md'
     - Juji:
         - 'Bàsics': 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
