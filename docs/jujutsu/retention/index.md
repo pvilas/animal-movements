@@ -142,6 +142,10 @@ Uke necessita cinc requeriments per pasar la guàrdia, tori ha d'intentar que qu
 5. Pin
 
 
+> **Si uke ens ha fet pin, hem d'aconsseguir aixecar ses espatles d'enterra!!!**
+
+
+
 #### 3. Acabar cada cicle defensiu en un cicle ofensiu
 
 No hem d'estar sempre defesant, sempre hem d'intentar acabar un cicle defensiu amb un ofensiu, possiblement en la possió cchb (collar, cuff, hip, biceps).
