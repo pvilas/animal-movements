@@ -82,6 +82,48 @@ tecnicas:
       - ["Pin. Hem d'aixecar les espatles d'enterra. Fugam cadera", "cnnpin.mp4"]
       - ["Pin. exemple 2. Alternativament, rodam cap a uke", "cnnpin2.mp4"]
       - ["Vista de les dues alternatives.", "cnnpin3.mp4"]
-
+  - tecnica:
+    titulo: "Guàrdia tisora"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/demarcation/"
+    description: "Es la ferramenta de retenció de guàrdia més important, desde posició supina, de tot el jiu jitsu. En general, tenim la cama dreta a l'esquerra de uke i la cama esquerra a la dreta. En les tisores canvia, tenin la cama a la mateixa cadera. Hi ha diferents tisores i usarem cada una en funció del nivell de risc." 
+    pasos:
+      - ["Cama dreta de tori a cadera dreta de uke", "cnntis1.png"]
+      - ["Cama esquerra de tori a cadera esquerra de uke", "cnntis2.png"]
+      - ["Si ens creuen la cama és un perill", "cnntis3.png"]
+      - ["Però la simple acció de fer tisores, ens torna a connectar", "cnntis4.png"]
+      - ["Baix risc: petita tisora", "cnntis5.mp4"]
+      - ["Alt ris: tisora alta (gran cercle) aixecant la pelvis", "cnntis6.mp4"]
+      - ["Pas cap al cap: feim tisora amb inversió, fent frame amb els coçes i insertant el genoll", "cnntis7.mp4"]
+      - ["Resum", "cnntis8.mp4"]
+  - tecnica:
+    titulo: "Fuga de cadera"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/demarcation/"
+    description: "És la segona ferramenta bàsica de retenció de guàrdia. Es fa des de posició asseguda. Parteix de cross grip." 
+    pasos:
+      - ["Posició de cross grip. Controlam distància", "cnnhh1.png"]
+      - ["Execució del hip heisting", "cnnhh2.mp4"]      
+  - tecnica:
+    titulo: "Amagar esquena"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/demarcation/"
+    description: "Mentre que el hip heist el feim des de la posició d'assegut, el back heist el feim des de supí. La clau és buscar l'esgrima del braç de fora de uke, mentre evitam que ens agafin el cap. Observar també la tisora que es fa enterra. La clau és **no exposar el nostre pit a uke**. Hem de fer el possible per evitar l'exposició del pit." 
+    pasos:
+      - ["Demostració", "cnnbh1.mp4"]
+      - ["Detall de la tisora per posar-nos panxa avall", "cnnbh2.mp4"]      
+      - ["Altra vista de l'esgrima dins la guàrdia de uke mentre està atancant", "cnnbh3.mp4"]
+      - ["Comparativa entre exposar o ocultar el pit", "cnnbh4.mp4"]
+      - ["Observar com el pit va cap enterra, l'amagam", "cnnbh5.mp4"]
+      - ["Seqüència", "cnnbh6.mp4"]
+      - ["Vista diagonal amb final mitja profunda", "cnnbh7.mp4"]
+  - tecnica:
+    titulo: "Power prop"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/demarcation/"
+    description: "És un moviment d'emergència quan ens han passat la linia de la cadera i pujen cap al pit. El moviment té un cert risc en l'execució però en general els beneficis són superiors als inconvenients. Notar que la mà de dins ens queda fent framing a coll, solapa o cross però no queda per dins del braç de uke. Hem de propulsar-nos amb les cames per incorporar-nos, apoyar el colçe i finalment estirar el braç de darrera. aprofitam que tenim les cames lliures per crear un efecte de pèndul que usarem per incorporar-nos. Hem d'estar el menor temps possible amb el braç del coll estirat per evitar un arm lock. No ens hem de quedar sobre el colçe, hem de fer-ho tot en un sol moviment." 
+    pasos:
+      - ["Tori soporta fàcilment el pes quan està sobre el colçe, però el cap està prop de terra", "cnnpp1.mp4"]
+      - ["Amb el braç extès, la posició no és tan forta però el cap està lluny d'enterra", "cnnpp2.png"]
+      - ["Prop solo", "cnnpp3.mp4"]
+      - ["Vista posterior", "cnnpp4.mp4"]
+      - ["Vista lateral", "cnnpp5.mp4"]
+      - ["versió a solapa. Uke no pot posar a tori amb una espatla enterra.", "cnnpp6.mp4"]
 ---
 {% extends  "pagina.jinja" %}            
