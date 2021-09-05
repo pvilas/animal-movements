@@ -126,4 +126,4 @@ tecnicas:
       - ["Vista lateral", "cnnpp5.mp4"]
       - ["versió a solapa. Uke no pot posar a tori amb una espatla enterra.", "cnnpp6.mp4"]
 ---
-{% extends  "pagina.jinja" %}            
+{% extends  "pagina.jinja" %}
