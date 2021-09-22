@@ -1,6 +1,6 @@
 {% macro make_slide(name, text)%}
 <div class="mySlides fade">      
-    <img src="/img/carousel/{{name}}.jpg" style="width:100%" alt="{{text}}" class="retrato" preload="lazy">
+    <img src="{{config.arrel_img}}img/carousel/{{name}}.jpg" style="width:100%" alt="{{text}}" class="retrato" preload="lazy">
     <div class="text">{{text}}</div>
   </div>
 {% endmacro %}
