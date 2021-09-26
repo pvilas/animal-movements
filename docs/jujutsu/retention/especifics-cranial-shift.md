@@ -39,7 +39,7 @@ tecnicas:
     description: "
     "
     pasos:
-      - ["Detall de com uke amolla cames per controlar cadera i cap", "cs1.png"]
+      - ["Detall de com uke amolla cames per controlar cadera i cap", "cs1.mp4"]
       - ["Toreando, control de la mà", "cs2.mp4"]
       - ["Qualsevol tècnica de les estudiades serveix", "cs3.mp4"]
   - tecnica:
@@ -58,7 +58,7 @@ tecnicas:
     "
     pasos:
       - ["El problema real és que uke pressiona la nostra barra amb la seva espatlla. La barra de palanca sobre el cap.", "he1.png"]
-      - ["Si ens van a controlar, el que feim es protegir la barra del control de uke", "he2.mp4"]
+      - ["Si ens van a controlar, el que feim es protegir la barra del control de uke", "he2.png"]
       - ["Protegim barra i feim spinning", "be3.mp4"]
 
 ---
