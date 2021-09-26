@@ -2,10 +2,10 @@
 <video width="100%" height="100%" max-width="100%"
     muted preload="none" controls allowfullscreen
     style="object-fit:fill;"
-    poster="/img/posters/videos/{{name}}.png.jpg"
+    poster="https://static.movimiento-animal.es/img/posters/videos/{{name}}.png.jpg"
     id="video-{{name}}"
     >
-    <source src="/video/{{name}}.mp4" type="video/mp4">  
+    <source src="https://static.movimiento-animal.es/video/{{name}}.mp4" type="video/mp4">  
     Tu navegador no soporta la etiqueta video.
 </video>
 {%endmacro%}
@@ -31,7 +31,7 @@
   <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4" onclick="window.location.href ='{{p.abs_url}}'">
       <div class="mdc-card">         
           <div class="mdc-card__primary-action demo-card__primary-action" tabindex="0">              
-              <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: {%if base_thumbs%}url(&quot;{{base_thumbs}}{{nom_pag}}.png&quot;);{%else%}url(&quot;/img/posters/thumbs/{{nom_pag}}.png.jpg&quot;);{%endif%}"></div>
+              <div class="mdc-card__media mdc-card__media--16-9 demo-card__media" style="background-image: {%if base_thumbs%}url(&quot;https://static.movimiento-animal.es{{base_thumbs}}{{nom_pag}}.png&quot;);{%else%}url(&quot;https://static.movimiento-animal.es/img/posters/thumbs/{{nom_pag}}.png.jpg&quot;);{%endif%}"></div>
               <div class="demo-card__primary">
                   <h3 class="demo-card__title mdc-typography mdc-typography--headline6">{{p.title}}</h3>
               </div>                      

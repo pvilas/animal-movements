@@ -47,7 +47,7 @@ fuentes:
 <div class="flex-container">
 <figure>
   <a href="#buenos-dias-con-talon-en-el-suelo-var1">
-    <img src="/img/burpee.png" />
+    <img src="{{config.arrel_img}}img/burpee.png" />
   </a>
   <figcaption>Test de Burpee (Raymond, 1944)</figcaption>  
 </figure>
