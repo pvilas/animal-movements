@@ -1,7 +1,8 @@
 ---
 title: "Kesa Gatame"
 description: "movimiento-animal.es - jiu jitsu - kesa gatame"
-descripcion: "Examinarem dos situacions:
+descripcion: "Examinarem tres situacions:
+
 
 * Quan uke ens esgrima el braç de fora
 
@@ -34,18 +35,20 @@ tecnicas:
   - tecnica:
     titulo: "Kesa Gatame. Agafada de cap amb la cama."
     description: "Podem intentar passar-li la cama pel cap. Notar com al final li fa una kimura mentre li estira el gi de l'espatlla contrària. Notar que uke té el cap alt, circumstància que podem aprofitar per passar-li la cama." 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració", "kesa1.mp4"]
   - tecnica:
     titulo: "Kesa Gatame. Rodada per sobre el cap (flip over)."
-    description: "Versió de <a href="https://www.youtube.com/watch?v=lpaXl1gO3_E">Peter Mettler</a>. Observam que no podem passar-li la cama perquè té el cap baix o està molt amunt. Feim pont amb posterior rotació, la projecció és molt senzilla.
+    description: "Versió de <a href=\"https://www.youtube.com/watch?v=lpaXl1gO3_E\">Peter Mettler</a>. Observam que no podem passar-li la cama perquè té el cap baix o està molt amunt. Feim pont amb posterior rotació, la projecció és molt senzilla.
     
     Notar posició de les mans per poar-lo millor. L'estrenym per les costelles flotants. Apropan pelvis cap a ell. Fent pont, l'espitjam cap a la mateixa banda que ens agafa per pujar-lo cap el nostre cap, quan ell intenta recuperar, feim un pont fort per dur-li l'espatlla enterra per després fer-lo rodar del tot per sobre naltros.
     
-    " 
+    "
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa2.mp4"]
-      - ["Versió de <a href="https://www.youtube.com/watch?v=Gszdlw8IzyM">Kurt Osiander</a>. Notar que uke està bastant amunt sobre el nostre cap. Rota el cap cap a uke per alleugerir presió. L'agafa per darrera per`en aquest cas per baix del braç de fora i, fent un bot, apropa tot el possible els peus cap el cul. Fa un bridge darrera el seu cap i, quan uke toca enterra, el fa rodar a l'laltra costat. Notar que abans de fer el pont, mira cap endarrera.", "kesa3.mp4"]
+      - ["Versió de <a href=\"https://www.youtube.com/watch?v=Gszdlw8IzyM\">Kurt Osiander</a>. Notar que uke està bastant amunt sobre el nostre cap. Rota el cap cap a uke per alleugerir presió. L'agafa per darrera per`en aquest cas per baix del braç de fora i, fent un bot, apropa tot el possible els peus cap el cul. Fa un bridge darrera el seu cap i, quan uke toca enterra, el fa rodar a l'laltra costat. Notar que abans de fer el pont, mira cap endarrera.", "kesa3.mp4"]
 
   - tecnica:
     titulo: "Kesa Gatame. Fugida de colçe des de cap."
@@ -53,6 +56,7 @@ tecnicas:
 
     Quan tori té el colçe enterra, agafa el gi de uke per fer aprou espai com per treure el cap i agar-li l'esquena.
     " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa5.mp4"]
       - ["Detall de com usa el genoll per fer palanca i poder treue el cap. Notar que per treure el cap hi ha cap ficar-lo cap endins, la barbeta cap al pit. És molt comú fer l'error d'espitjar amb el clotell cap endarrera", "kesa6.mp4"]
@@ -61,6 +65,7 @@ tecnicas:
     titulo: "Kesa Gatame. Fugida quan ens estrenyen el cap."
     description: "Pot passar que uke ens estigui estrenynt el cap amb ses mans agafades, sense agafar-nos es braç. El que feim és sencillament agafar-lo pel gi i fer-li la rodada. Serà més senzil encara ja que estarà més aprop del nostre cap. Notar que tori té el colçe enterra abans de començar la tècnica.
     " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa6.mp4"]
 
@@ -68,6 +73,7 @@ tecnicas:
     titulo: "Kesa Gatame. Colçe enterra però uke ens controla es braç."
     description: "Uke té el pes molt cap a les cames i ens controla el braç encara que tinguem el colçe enterra. El que feim és aprofitar que té el pes cap a les cames per donar-li la volta.  Quan més espitja uke amb la pelvis i més ens puja el cap, més senzilla ens resultarà aquesta tècnica.
     " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa7.mp4"]
 
@@ -75,6 +81,7 @@ tecnicas:
     titulo: "Kesa Gatame. Agafada de cama per darrera."
     description: "És dificil perquè uke sap que li agafarem, però sempre hi ha sa possibilitat si ens podem apropar.
     " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa9.mp4"]
 
@@ -83,6 +90,7 @@ tecnicas:
     titulo: "Kesa Gatame. Finalitzacions."
     description: "Com a extra bonus, deixam dos finalitzacions de ses tècniques: una clau de braç i una kimura.
     " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
     pasos:
       - ["Demostració. ", "kesa4.mp4"]
       
