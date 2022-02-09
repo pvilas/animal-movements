@@ -10,7 +10,7 @@ Sempre hem de tenir dins el cap dos idees:
 1. Ens hem d'aferrar a uke per seguir-li la guàrdia
 
 
-2. No hem de deixar que ens controli el cap les espatles
+2. No hem de deixar que ens controli el cap 
 
 
 Aquestes dues idees són fonamentals: Aferrar-se a uke per seguir-li la guàrida i que no pugui treballar i

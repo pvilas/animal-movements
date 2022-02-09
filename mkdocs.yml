@@ -154,7 +154,10 @@ nav:
     - Juji:
         - 'Bàsics': 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
-        - 'Tancada malic': 'jujutsu/juji/malic.md'    
+        - 'Tancada malic': 'jujutsu/juji/malic.md'
+    - Blau:
+        - 'Programa': 'jujutsu/blau/index.md'
+        - 'Derribs': 'jujutsu/blau/derribs.md'
 - Varios:    
     - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
