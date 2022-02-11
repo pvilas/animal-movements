@@ -31,6 +31,13 @@ tecnicas:
         - ["Variació amb cama enfora", "blau-single-leg-2.mp4"]
         - ["Variació amb cama endins", "blau-single-leg-3.mp4"]
 
+  - tecnica:
+    titulo: "Derrib endarrera"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
+    description: "Obrim espai. Cama de més aprop genoll enterra. Ens aixecam espitjant i abraçant. Posam peu per dins com a pivot. Espitjam endarrera mentre posam s'ltra cama com a bloqueix. Quan acaban, treim es braç de baix ràpidament.
+    "
+    pasos:
+        - ["Variació amb cama endins", "blau-take-back.mp4"]
 
 ---
 {% extends  "pagina.jinja" %}
