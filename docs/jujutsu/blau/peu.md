@@ -17,7 +17,7 @@ tecnicas:
   - tecnica:
     titulo: "Ashi garami"
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
-    description: "Calu de peu recta.
+    description: "Clau de peu recta.
     "
     pasos:
         - ["Video de la tècnica ", "blau-peu-recta.mp4"]

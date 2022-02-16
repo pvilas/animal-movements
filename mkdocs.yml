@@ -157,6 +157,8 @@ nav:
         - 'Tancada malic': 'jujutsu/juji/malic.md'
     - Blau:
         - 'Programa': 'jujutsu/blau/index.md'
+        - 'Cent': 'jujutsu/blau/cent.md'
+        - 'Peus': 'jujutsu/blau/peu.md'
         - 'Derribs': 'jujutsu/blau/derribs.md'
 - Varios:    
     - 'Índice': 'varios/index.md'

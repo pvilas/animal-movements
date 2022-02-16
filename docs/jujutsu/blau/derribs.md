@@ -20,6 +20,8 @@ tecnicas:
         - ["BF. Notar com agafa la distància i posa el peu el més endins possible entre les cames de uke. També com protegeix ses solapes amb ses mans.", "blau-double-leg-bf.mp4"]
         - ["RD. Quan uke ens espitja, li agafam les màneges i li estiram els braços cap amunt, fent espai avall. Posam peu ben enimg de ses seves cames i feim sa tècnica. Quan es fa es pas per dalt, tori deixa tot el seu pes sobre l'espatlla apoyada amb uke perquè no pugui fugir.", "blau-double-leg-rd.mp4"]
         - ["RD. Variació quan uke fa sprawl. Amb les seves cames agafades, anam fent pases cap es costat fins que cau.", "blau-double-leg-sprawl-rd.mp4"]
+        - ["Anam directament a les cames. Trincam amb força per l'exterior i apoyam fortament el cap a nel seu costat. Una vegada establitzats, espitjam amb la cama de fora cap es costat mentre bloquejam la cama de uke cap endins.", "double-leg-agustin-prod.mp4"]
+        - ["Altra vista.", "double-leg-vista-2.mp4"]
 
   - tecnica:
     titulo: "Single Leg"
@@ -38,6 +40,5 @@ tecnicas:
     "
     pasos:
         - ["Variació amb cama endins", "blau-take-back.mp4"]
-
 ---
 {% extends  "pagina.jinja" %}
