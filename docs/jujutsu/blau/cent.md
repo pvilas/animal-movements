@@ -5,8 +5,28 @@ descripcion: "En atacs des de 100Kg farem la clau de braç rodant i una estrangu
 "
 fuentes:    
     - "Fundamentals of BJJ: Bernardo Faria"
+    - "Armbars: Jhon Danaher"
 
 tecnicas: 
+
+  - tecnica:
+    titulo: "Atac braç llunyà"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
+    description: "Amb braç de uke per fora, és molt important que usem sa barbeta molt prop del canell perquè uke no pugui treure el braç. Poam a uke posant la nostra mà cap a dalt i el colçe clavat a la seva boca de l'estòmag. Extenem el braç d'enterra per equilibrar i **apoyam orella a cadera** de uke mentre feim un trípod. Acabam amb clau de braç.
+    "
+    pasos:
+        - ["Video de la tècnica ", "juji-far-arm.mp4"]
+
+
+  - tecnica:
+    titulo: "Atac braç proper"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
+    description: "De 100kg I, passam a 100kg II i passam el braç per sobre del proper de uke per enganxar el tríceps. Passam la cama per dalt del cap de uke. Duim es cap cap enterra i la cama de dins la possam paral.lela a uke. Feim clau de braç.
+    "
+    pasos:
+        - ["Video de la tècnica ", "juji-overwrap-near.mp4"]
+
+
   - tecnica:
     titulo: "Spinning or turning armbar"
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
