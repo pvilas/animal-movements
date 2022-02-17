@@ -157,10 +157,16 @@ nav:
         - 'Tancada malic': 'jujutsu/juji/malic.md'
     - Blau:
         - 'Programa': 'jujutsu/blau/index.md'
-        - 'Cent': 'jujutsu/blau/cent.md'
-        - 'Peus': 'jujutsu/blau/peu.md'
+        - 'Atacs guàrdia': 'jujutsu/blau/atacs_guardia.md'
         - 'Monta': 'jujutsu/blau/monta.md'
+        - '100kg': 'jujutsu/blau/cent.md'
+        - 'Peus': 'jujutsu/blau/peu.md'        
+        - "Esquena": 'jujutsu/blau/esquena.md'
+        - "Raspats guàrdia": 'jujutsu/blau/raspats_guardia.md'
+        - 'Mitja': 'jujutsu/blau/media.md'
+        - "Passatges": 'jujutsu/blau/passatges.md'
         - 'Derribs': 'jujutsu/blau/derribs.md'
+        - 'Punts': 'jujutsu/blau/punts.md'
 - Varios:    
     - 'Índice': 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'

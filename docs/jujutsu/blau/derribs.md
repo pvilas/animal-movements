@@ -5,6 +5,7 @@ descripcion: "Dur a uke enterra"
 fuentes:
     - "Blue belt requirements 2.0: Roy Dean"
     - "BJJ Fundamentals: Bernardo Faria"
+    - "Sambo. Entrada a piernas para mma Cómo hacer derribos doble pierna Academia de sambo. Ivan Vasylchuk"
 tecnicas: 
   - tecnica:
     titulo: "Double Leg"
@@ -17,9 +18,10 @@ tecnicas:
     RD la fa com a defensa personal d'algú que ens espitja, li agafam les màneges i les utilitzam per deixar-li es braços estirats.
     "
     pasos:
-        - ["BF. Notar com agafa la distància i posa el peu el més endins possible entre les cames de uke. També com protegeix ses solapes amb ses mans.", "blau-double-leg-bf.mp4"]
-        - ["RD. Quan uke ens espitja, li agafam les màneges i li estiram els braços cap amunt, fent espai avall. Posam peu ben enimg de ses seves cames i feim sa tècnica. Quan es fa es pas per dalt, tori deixa tot el seu pes sobre l'espatlla apoyada amb uke perquè no pugui fugir.", "blau-double-leg-rd.mp4"]
-        - ["RD. Variació quan uke fa sprawl. Amb les seves cames agafades, anam fent pases cap es costat fins que cau.", "blau-double-leg-sprawl-rd.mp4"]
+        - ["Sambo", "sambo-double-leg.mp4"]
+        #- ["BF. Notar com agafa la distància i posa el peu el més endins possible entre les cames de uke. També com protegeix ses solapes amb ses mans.", "blau-double-leg-bf.mp4"]
+        - ["Si ens queden es dos genolls enterra o uke obri ses cames.", "blau-double-leg-rd.mp4"]
+        - ["Si uke fa sprawl. Amb les seves cames agafades, anam fent pases cap es costat fins que cau.", "blau-double-leg-sprawl-rd.mp4"]
         - ["Anam directament a les cames. Trincam amb força per l'exterior i apoyam fortament el cap a nel seu costat. Una vegada establitzats, espitjam amb la cama de fora cap es costat mentre bloquejam la cama de uke cap endins.", "double-leg-agustin-prod.mp4"]
         - ["Altra vista.", "double-leg-vista-2.mp4"]
 

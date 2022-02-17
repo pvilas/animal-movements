@@ -7,32 +7,81 @@ descripcion: "Documents de preparació per a l'exàmen de blau.
 
 ### Atacs
 
-#### 4 atacs des de guàrdia
+#### [Atacs des de guàrdia (4)](atacs_guardia/)
 
-#### 3 atacs des de montada
+- Clau de braç
 
-#### 2 atacs des de 100Kg
+- Triangle
 
-#### 2 atacs al peu (recta)
+- Kimura
 
-#### 3 atacs a esquena
+- Omoplata
+
+
+#### [Atacs des de montada (3)](monta/)
+
+- Ezequiel
+
+- Americana
+
+- Armbar
+
+#### [Atacs des de 100Kg (2)](cent/)
+
+- Kimura al braç de fora (braç de uke per fora es nostre coll)
+
+- Armbar braç de dins (braç de uke per dins es nostre coll)
+
+#### [Atacs al peu (recta) (2)](peu/)
+
+- Des de dalt
+
+- Des de enterra, posición interior
+
+#### [Atacs a esquena (3)](esquena/)
+
+- Mataleón
+
+- Solapes
+
+- Armbar
 
 ### Defensa
 
-#### 3 raspats des de la guàrdia
+#### [Raspats des de la guàrdia (3)](raspats_guardia/)
 
-#### 2 raspats des de mitja guàrdia
+- Tisores
 
-### Passatges de guàrdia (4)
+- Lasso
 
+- Aranya
+
+
+#### [Raspats des de mitja guàrdia (2)](media/)
+
+- Directe quan uke té es dos genolls enterra
+
+- Quan uke aixeca una cama per defensar barrido
+
+### [Passatges de guàrdia (4)](passatges/)
 
 - Toreando
 
 - Double under
 
-### Derribs (3)
+- Knee slice
 
+- Leg drag
 
+### [Derribs (3)](derribs/)
+
+- One leg
+
+- Double leg
+
+- Atac al peu
+
+### Qüestionari de punts
 
 "
 ---
