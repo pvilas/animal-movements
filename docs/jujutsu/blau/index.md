@@ -81,7 +81,23 @@ descripcion: "Documents de preparació per a l'exàmen de blau.
 
 - Atac al peu
 
-### Qüestionari de punts
+### [Qüestionari de punts](punts/)
+
+#### 4 puntos
+
+* Montada
+
+* Espalda
+
+#### 3 puntos
+
+* Paso de guardia
+
+#### 2 puntos
+
+* Knee on belly
+
+* Raspado
 
 "
 ---
