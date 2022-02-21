@@ -155,6 +155,8 @@ nav:
         - 'Bàsics': 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
         - 'Tancada malic': 'jujutsu/juji/malic.md'
+    - Open:
+        - 'Open': 'jujutsu/open/index.md'        
     - Blau:
         - 'Programa': 'jujutsu/blau/index.md'
         - 'Atacs guàrdia': 'jujutsu/blau/atacs_guardia.md'

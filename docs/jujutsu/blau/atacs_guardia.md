@@ -16,7 +16,7 @@ tecnicas:
     pasos:
         - ["Video de la tècnica. Agafada per la solapa.", "guard-armbar-jd.mp4"]
         - ["Preferida. Agafant pel coll perquè no s'en vagi.", "armbar-jd-3.mp4"]
-
+        - ["Altra vista capturant el coll. Notar com, una vegada capturat el coll, feim una petita gunyada amb la cadera perquè el colçe quedi perfectament encaixat, fent pressió amb la pelvis sobre ell. Després, pujam a la captura de l'espatlla i tancam guàrdia sobre espatla. Amollam coll i agafam per baix de cama mentre posam les avant-cames parale.les a espatla i pressionam amb les cames cap enfora i cap endins.", "clau-brac.mp4"]
   - tecnica:
     titulo: "Kimura"
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/"
