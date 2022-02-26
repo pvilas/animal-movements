@@ -29,6 +29,8 @@ theme:
     features:
         - navigation.tabs
         - navigation.sections        
+        - navigation.expand
+        - navigation.indexes
 plugins:
   - macros
   - search:
@@ -126,7 +128,7 @@ nav:
 - Jiu-jitsu:
     - 'Índice': 'jujutsu/index.md'
     - Escapes:
-        - 'Bàsics': 'jujutsu/escapes/index.md'
+        - 'jujutsu/escapes/index.md'
         - 'Monta': 'jujutsu/escapes/monta.md'
         - 'Baralla de peus': 'jujutsu/escapes/peus.md'
         - 'Side control': 'jujutsu/escapes/side.md'
@@ -136,7 +138,7 @@ nav:
         - 'Knee on belly': 'jujutsu/escapes/belly.md'
         - 'North/south':  'jujutsu/escapes/ns.md'
     - Guard Retention:
-        - 'Bàsics': 'jujutsu/retention/index.md'        
+        - 'jujutsu/retention/index.md'        
         - 'Seated': 'jujutsu/retention/seated.md'
         - 'Supine': 'jujutsu/retention/supine.md'
         - 'Turtle': 'jujutsu/retention/turtle.md'
@@ -152,13 +154,15 @@ nav:
         - 'Long step': 'jujutsu/retention/especifics-long-step.md'
         - 'Shift': 'jujutsu/retention/especifics-cranial-shift.md'
     - Juji:
-        - 'Bàsics': 'jujutsu/juji/index.md'
+        - 'jujutsu/juji/index.md'
         - 'Tancada': 'jujutsu/juji/tancada.md'
         - 'Tancada malic': 'jujutsu/juji/malic.md'
     - Open:
-        - 'Open': 'jujutsu/open/index.md'        
+        - 'jujutsu/open/index.md'       
+    - Mitja:
+        - 'jujutsu/mitja/index.md'
     - Blau:
-        - 'Programa': 'jujutsu/blau/index.md'
+        - 'jujutsu/blau/index.md'
         - 'Atacs guàrdia': 'jujutsu/blau/atacs_guardia.md'
         - 'Monta': 'jujutsu/blau/monta.md'
         - '100kg': 'jujutsu/blau/cent.md'
@@ -170,7 +174,7 @@ nav:
         - 'Derribs': 'jujutsu/blau/derribs.md'
         - 'Punts': 'jujutsu/blau/punts.md'
 - Varios:    
-    - 'Índice': 'varios/index.md'
+    - 'varios/index.md'
     - 'Recopilación inicial': 'varios/recopilacion.md'
     - 'Mis videos de Pilates': 'varios/pilates.md'
     # - 'Mkdocs': 'varios/mkdocs.md'
