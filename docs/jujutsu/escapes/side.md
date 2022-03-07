@@ -41,7 +41,7 @@ fuentes:
 tecnicas: 
   - tecnica:
     titulo: "Col.locacions del braç de fora"
-    description: "Hi ha **tres** possibles col.locacions del braç de fora. " 
+    description: "Hi ha **tres** possibles col.locacions del braç de fora. "     
     pasos:
      - ["Un colçe a hombro i mà a l altra hombro. Pressionam coll de uke.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/sc-501.png"]
      - ["Underhook, possiblement des de defensa amb mà aferrada a pit.", "http://pvilas.com/images/jujutsu/2019-12-27-pin2/sc-502.png"]
@@ -140,5 +140,13 @@ tecnicas:
       - ["Vista frontal 1.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-01.png"]
       - ["Vista frontal 2. Aixecam pelvis, estiram cama de fora i apuntam genoll enterra.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-02.png"]
       - ["Vista frontal 3. D'un moviment, duim es pes sobre colçe a la volta que retiram la pelvis cap endins.", "https://static.movimiento-animal.es/img/jujutsu/escapes/do-03.png"]
+
+  - tecnica:
+    titulo: "Escape de Gary Tonon."
+    description: "És l'únic a qui l'hi he vist fer aquesta escapada. Primer bloqueija amb els braços i després agafa el canell del braç del cap de uke amb la mà de fora i li du cap es costat mentre reposa sa guàrdia."
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/escapes/"
+    pasos:
+      - ["Video. Notar com sempre acaba en mariposa i que intenta capturar el peu de uke per fora", "side-control-escape-gary-tonon.mp4"]
+      - ["Extra bonus. Sortida tècnica des de mariposa. Apoyam braç de darrera mentre l'agafam per es coll, extreim mateixa cama que sa mà de darera.", "levantada-tecnica-mariposa.mp4"]
 ---
 {% extends  "pagina.jinja" %}

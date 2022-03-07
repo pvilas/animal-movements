@@ -105,7 +105,7 @@
 {% if p[1] and p[1].endswith('.mp4')%}
 {{render_video_url(t.arrel_img+p[1])}}
 {% else %}
-![{{p[0]}}]({{t.arrel_img}}{{p[1]}})
+![{{p[0]}}]({%if t.arrel_img%}{{t.arrel_img}}{%endif%}{{p[1]}})
 {% endif %}
 {% endfor %}
         
