@@ -10,9 +10,9 @@ tecnicas:
   - tecnica:
     titulo: "Flotar y coger pierna contraria"
     description: "Hacemos flotar la pierna de la espinilla y cuando uke está en el aire, cogemos la pierna contrária, lo ponemos en suelo y le pasamos la guárdia. Para llevarlo al suelo ponemos el pie capturado entre nuestra piernas."
-    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/blau/" 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
     pasos:
-      - ["Vista 1.", "https://pvilas.com/images/jujutsu/open/chin1.mp4"]
-      - ["Vista 2", "https://pvilas.com/images/jujutsu/open/chin2.mp4"]
+      - ["Vista 1.", "chin1.mp4"]
+      - ["Vista 2", "chin2.mp4"]
 ---
 {% extends  "pagina.jinja" %}
