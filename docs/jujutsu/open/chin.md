@@ -14,5 +14,14 @@ tecnicas:
     pasos:
       - ["Vista 1", "chin1.mp4"]
       - ["Vista 2", "chin2.mp4"]
+
+  - tecnica:
+    titulo: "Escuadrar al oponente para hacerle kouchi gari doble"
+    description: "Para poder hacerle el kouchi gari doble, el oponente debe estar escuadrado. Si está con una pierna adelantada, le hacemos espinilla contra espinilla y, apoyando la otra mano en el suelo en diagonal, aproximamos la rodilla de uke hacia esta. Uke hará un paso y quedará escuadrado ante nosotros. En este momento, le hacemos el doble."
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
+    pasos:
+      - ["Vista 1", "chin-jd-1.mp4"]
+      - ["Vista 2", "chin-jd-2.mp4"]
+
 ---
 {% extends  "pagina.jinja" %}
