@@ -86,6 +86,27 @@ tecnicas:
       - ["Demostració. ", "kesa9.mp4"]
 
 
+
+  - tecnica:
+    titulo: "Kesa Gatame. Llevar-li sa base."
+    description: "Feim semicircle amb ses cames fins que tenim angle per espitjar-lo enterra
+    " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
+    pasos:
+      - ["Demostració. ", "kesa-gatame-escape-2.mp4"]
+
+
+  - tecnica:
+    titulo: "Kesa Gatame. Pujar a uke damunt una cama."
+    description: "Podem fer-la sense necesitat de passar completament es colçe dins sa cadera de uke.
+    " 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/retention/movements/"
+    pasos:
+      - ["Demostració. ", "kesa-gatame-escape-1.mp4"]
+
+
+
+
   - tecnica:
     titulo: "Kesa Gatame. Finalitzacions."
     description: "Com a extra bonus, deixam dos finalitzacions de ses tècniques: una clau de braç i una kimura.
