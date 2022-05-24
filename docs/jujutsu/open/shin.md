@@ -1,5 +1,5 @@
 ---
-title: "Chin to chin"
+title: "Shin to shin"
 description: "movimiento-animal.es - jiu jitsu - espinilla a espinilla"
 descripcion: "Situación que se da cuando juntamos las espinillas de la misma pierna. Atrapamos la rodilla de uke siempre con la misma mano con la que tenemos la espinilla puesto que de lo contrario le es muy fácil rotar para tomarnos la espalda. Pegamos nuestro rostro sobre su pierna. Pendiente Jd i passar darrera.
 "
