@@ -1,74 +1,59 @@
 ---
 title: "Open guard"
 description: "movimiento-animal.es - jiu jitsu - open guard"
-descripcion: """Serien totes les guàrdies que feim des de enterra i que no són guàrdia tancada ni mitja. Inclou la posició asseguda, mariposa, etc.
+descripcion: |
+    Serien totes les guàrdies que feim des de enterra i que no són guàrdia tancada ni mitja. Inclou la posició asseguda, mariposa, etc.
+    
+    Estam més baixos que uke, però hem de poder lluitar de manera tant efectiva com si estiguessim dalt. No es tracta de sobreviure sino de sotmetre a uke des de baix.
+    
+    La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria podr usar ses cames contra la part superior des cos de uke.
 
-Estam més baixos que uke, però hem de poder lluitar de manera tant efectiva com si estiguessim dalt. No es tracta de sobreviure sino de sotmetre a uke des de baix.
+    D'altra banda, des de sa guàrdia tancada hi ha un conjunt limitat d'accions que poden fer ja que ses cames fan de barrera entre naltros i uke.
 
-La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria podr usar ses cames contra la part superior des cos de uke.
+    Els principis bàsics per treballar desde baix, són:
 
-D'altra banda, des de sa guàrdia tancada hi ha un conjunt limitat d'accions que poden fer ja que ses cames fan de barrera entre naltros i uke.
+    1. If you can get up, get up
+    2. If you can shoot, shoot
+    3. If you can turtle, turtle
 
-## Agafades al Gi
+    Podem aproximar-nos a la guàrdia oberta desde diferents prespectives:
 
-Hi ha **tres** cinturons en el Gi: 
+    1. Situació 
+    2. Col.locació dels peus
 
+    ## Situació
 
-* ses solapes.
+    Segons Craig Jones, existeixen tres distàncies de treball: long, mid i close. He afeixit tres "situacions" més, corresponents a que uke avança, retrocedeix o ens posa un peu al mitj. Per tant, el llistat complet quedaria com:
 
-* es cinturó.
+    1. Uke avança
+        * Curta 
+        * Mitjana
+        * Llarga
+    2. Curta distància
+    3. Mitjana distància amb cap alt
+    4. Mitjana distància amb cap baix
+    4. Llarga distància
+    5. Uke fuig
+    6. Uke posa peu entre nostres cames
 
-* sa costura de baix es braç.
+    ## Col.locació dels peus
 
-### Solapes
+    Tenint en compta que volem **esquadrar**, és a dir, posar a uke amb els peus paral.lels i perpendicular a naltros (*Shizentai*) per **exposar la seva linia central**, ens trobarem amb les seguents situacions:
+    
+    * Gyaku hanmi (peus contraris devant, p.e. tori esquerra devant i uke el dret)
+        1. Peu per fora del de uke (exterior)
+        2. Peu per dins del de uke  (interior)
+    * Ai hanmi (mateix peu devant)
+        1. Peu per fora
+        2. Peu a canella
+        3. Peu per dins (no!)
+    
+    Podem veure les diferents posicions del peus al seguent gràfic,
 
-Ses solapes es pareixen a un cinturó que donàs sa volta per sobre del coll de uke i ens ajuden a **controlar el cap de uke**.
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/tori-sedent.svg)
 
-![](https://static.movimiento-animal.es/img/jujutsu/open/solapes.png)
-
-#### Agafada recta
-
-Mà i solapa del mateix costat
-
-![](https://static.movimiento-animal.es/img/jujutsu/open/recta.png)
-
-### Cinturó
-
-Ens dona molt de **control sobre el centre de gravetat** de uke a través de ses caderes.
-
-![](https://static.movimiento-animal.es/img/jujutsu/open/cinturo.png)
-
-
-### Costura
-
-Ens ajuda a controlar sa mà i s'espatlla
-
-![](https://static.movimiento-animal.es/img/jujutsu/open/costura-1.png)
-
-
-Podem agafar sa costura per baix per controlar sa mà.
-
-
-<video width="100%" height="100%" max-width="100%"
-    muted autoplay controls
-    style="object-fit:fill;"
-    >
-    <source src="https://static.movimiento-animal.es/img/jujutsu/open/costura-video-1.mp4" type="video/mp4">  
-    Tu navegador no soporta la etiqueta video.
-</video>
-
-O podem agafar per es triceps per a controlar s'espatla.
-
-<video width="100%" height="100%" max-width="100%"
-    muted autoplay controls
-    style="object-fit:fill;"
-    >
-    <source src="https://static.movimiento-animal.es/img/jujutsu/open/costura-video-2.mp4" type="video/mp4">  
-    Tu navegador no soporta la etiqueta video.
-</video>
-
-
-
-"""
+fuentes:
+    - "The open guard. John Danaher"    
+    - "Power bottom. Craig Jones"
 ---
 {% extends  "pagina.jinja" %}

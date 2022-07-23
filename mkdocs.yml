@@ -159,8 +159,11 @@ nav:
         - 'Tancada malic': 'jujutsu/juji/malic.md'
     - Open:
         - 'jujutsu/open/index.md'
+        - 'jujutsu/open/gyaku.md'
+        - 'jujutsu/open/ai.md'
         - 'jujutsu/open/shin.md'
         - 'jujutsu/open/pendejo.md'       
+        - 'jujutsu/open/gi.md'
     - GuardiaX:
         - 'jujutsu/guardiax/index.md'
     - Mitja:
