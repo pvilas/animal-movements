@@ -20,7 +20,7 @@ descripcion: |
         * Solapa creuada
         * Solapa recta
 
-    Recordar que sempre podem passar d'una posició interior a una exterior o a l'inrevés, mogent el nostre peu.
+    No estar estàtic, recordar que sempre podem passar d'una posició interior a una exterior o a l'inrevés, mogent el nostre peu.
 
 
 fuentes:

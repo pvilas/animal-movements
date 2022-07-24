@@ -6,7 +6,7 @@ descripcion: |
     
     Estam més baixos que uke, però hem de poder lluitar de manera tant efectiva com si estiguessim dalt. No es tracta de sobreviure sino de sotmetre a uke des de baix.
     
-    La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria podr usar ses cames contra la part superior des cos de uke.
+    La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria poder usar ses cames contra la part superior des cos de uke.
 
     D'altra banda, des de sa guàrdia tancada hi ha un conjunt limitat d'accions que poden fer ja que ses cames fan de barrera entre naltros i uke.
 
@@ -51,6 +51,24 @@ descripcion: |
     Podem veure les diferents posicions del peus al seguent gràfic,
 
     ![](https://static.movimiento-animal.es/img/jujutsu/open/tori-sedent.svg)
+
+
+    ### Situació no desitjada
+
+    La situació que **mai volem** és naltros en mariposa i uke amb un peu devant.
+
+
+    ## Actitud desitjada
+
+    1. Hem d'atacar constantment a uke, per baix si defensa dalt i per dalt si defensa baix.
+    2. Crear pressió constantment: hiza guruma, elevacions, sumi gaeshi, ashi waza, arm drag, etc. Llevar-li sa base i, si s'aixeca, atacar-lo per baix.
+    3. utilitzar kusuzi per crear extensions de les extremitats.
+    4. Tancar espaix entre atacs al cos i a les cames.
+    5. Analitzar sempre anant a casa perquè ens ha sortit malament alguna cosa: ens han pasat sa guàrdia, ens ha fallat un atac, etc.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/intro-dalt-baix.mp4)
+
+
 
 fuentes:
     - "The open guard. John Danaher"    
