@@ -6,15 +6,73 @@ descripcion: |
     
     Estam més baixos que uke, però hem de poder lluitar de manera tant efectiva com si estiguessim dalt. No es tracta de sobreviure sino de sotmetre a uke des de baix.
     
-    La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria poder usar ses cames contra la part superior des cos de uke.
-
-    D'altra banda, des de sa guàrdia tancada hi ha un conjunt limitat d'accions que poden fer ja que ses cames fan de barrera entre naltros i uke.
+    La part de baix del cos és la mes forta. Ses cames poden fer més força i durant més temps que els braços. El millor seria poder usar ses cames contra la part superior des cos de uke. D'altra banda, des de sa guàrdia tancada hi ha un conjunt limitat d'accions que poden fer ja que ses cames fan de barrera entre naltros i uke.
 
     Els principis bàsics per treballar desde baix, són:
 
     1. If you can get up, get up
     2. If you can shoot, shoot
     3. If you can turtle, turtle
+
+
+    ## Posicions de uke quan tori està sedent
+
+    Uke pot estar en quatre posicions davant naltros:
+    
+    1. Esquadrat
+    2. Un peu devant
+    3. Sobre els genolls
+    4. Sobre una cama
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/quatre-posicions.png)
+
+    Quan uke està esquadrat, té la seva linia central exposada. Quan està un peu devant, la linia central està oculta i hem d'intentar esquadar-lo per exposar-la. Quan està sobre els genolls, podem atacar amb grips al cos, aconsegir un desequilibri i que hagi de posar un peu enterra. Amb un peu enterra, li passam baix sa cama per atacar.
+
+    ## Objectius
+
+    1. Exposar la línia central o exposar l'esquena
+    2. Buscar desequilibri constant (kusushi) per mantenir el cicle ofensiu el més temps possible. En algún moment conseguirem extendre un membre.
+    3. Tancar espai entre els atacs a la part superior i l'inferior del cos. Sempre que atacam una, si unke defensa, l'altra queda exposada d'alguna manera.
+
+    Sempre estudiar, de camí a casa, el errors o possibles millores de la tarda.
+
+    ## Posició desitjada i no desitjada de uke
+
+    La posició desitjada és amb uke esquadrat davant la nostra mariposa, donat que exposa la seva línia central.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/posicio-desitjada.png)
+
+    La posició no desitjada és la de uke amb un peu devant mentree naltros estam en mariposa, donat que passarà ràpidamente la nostra guàrdia.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/posicio-no-desitjada.png)
+
+    La posició de combat sería la de ai hanmi. Si uke canvia el peu de devant, naltros també canviam.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/posicio-combat.png)
+
+
+    ## Maneig de la distància quan uke està amb un peu devant
+
+    En la distància llarga, uke ha de donar una o més passes per arribar a naltros. Controlarem aquesta distància amb el peu a la seva canya.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/distancia-llarga.png)
+
+    Una vegada controlada la distància, podem atacar.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/control-distancia-atac.mp4)
+
+
+    En la distància curta, podem aferrar-nos a uke per crear situacions de desequilibri o esquadrar-lo.
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/distancia-curta.png)
+
+
+    La distància gris és aquella en la que no podem atacar perquè no tenim agafada però uke ens pot atacar per ser més mòbil. **Hem d'evitar estar en aquesta distància i en mariposa**
+
+    ![](https://static.movimiento-animal.es/img/jujutsu/open/mala-distancia.mp4)
+
+
+
 
     Podem aproximar-nos a la guàrdia oberta desde diferents prespectives:
 
@@ -53,17 +111,24 @@ descripcion: |
     ![](https://static.movimiento-animal.es/img/jujutsu/open/tori-sedent.svg)
 
 
+    ### Situació desitjada
+
+    La situació que volem és la de uke amb els peus paral.lels devant la nostra mariposa, que pot ser enmig, ai o gyaku hanmi.
+
+
     ### Situació no desitjada
 
     La situació que **mai volem** és naltros en mariposa i uke amb un peu devant.
 
 
+
+
     ## Actitud desitjada
 
     1. Hem d'atacar constantment a uke, per baix si defensa dalt i per dalt si defensa baix.
-    2. Crear pressió constantment: hiza guruma, elevacions, sumi gaeshi, ashi waza, arm drag, etc. Llevar-li sa base i, si s'aixeca, atacar-lo per baix.
+    2. Crear pressió constantment: hiza guruma, elevacions, sumi gaeshi, ashi waza, arm drag, etc. Llevar-li sa base i, si s'aixeca, atacar-lo per baix amb ashi garami.
     3. utilitzar kusuzi per crear extensions de les extremitats.
-    4. Tancar espaix entre atacs al cos i a les cames.
+    4. Tancar espai entre atacs al cos i a les cames.
     5. Analitzar sempre anant a casa perquè ens ha sortit malament alguna cosa: ens han pasat sa guàrdia, ens ha fallat un atac, etc.
 
     ![](https://static.movimiento-animal.es/img/jujutsu/open/intro-dalt-baix.mp4)

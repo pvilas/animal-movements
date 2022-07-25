@@ -166,6 +166,10 @@ nav:
         - 'jujutsu/open/gi.md'
     - GuardiaX:
         - 'jujutsu/guardiax/index.md'
+        - 'jujutsu/guardiax/entradas.md'
+        - 'jujutsu/guardiax/transiciones.md'
+        - 'jujutsu/guardiax/retenciones.md'
+        - 'jujutsu/guardiax/barridos.md'
     - Mitja:
         - 'jujutsu/mitja/index.md'
     - Blau:
