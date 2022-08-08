@@ -76,12 +76,12 @@ descripcion: |
 
     Podem aproximar-nos a la guàrdia oberta desde diferents prespectives:
 
-    1. Situació 
+    1. Distància i sentit del moviment de uke 
     2. Col.locació dels peus
 
-    ## Situació
+    ## Distància i sentit del movimient de uke
 
-    Segons Craig Jones, existeixen tres distàncies de treball: long, mid i close. He afeixit tres "situacions" més, corresponents a que uke avança, retrocedeix o ens posa un peu al mitj. Per tant, el llistat complet quedaria com:
+    Segons Craig Jones, existeixen tres distàncies de treball: long, mid i close. A més a més, uke pot avançar, retrocedir o ens posar-nos un peu al mitj. A la mitja distància uke pot estar amb el cap alt o baix. Per tant, el llistat complet quedaria com:
 
     1. Uke avança
         * Curta 
@@ -111,18 +111,6 @@ descripcion: |
     ![](https://static.movimiento-animal.es/img/jujutsu/open/tori-sedent.svg)
 
 
-    ### Situació desitjada
-
-    La situació que volem és la de uke amb els peus paral.lels devant la nostra mariposa, que pot ser enmig, ai o gyaku hanmi.
-
-
-    ### Situació no desitjada
-
-    La situació que **mai volem** és naltros en mariposa i uke amb un peu devant.
-
-
-
-
     ## Actitud desitjada
 
     1. Hem d'atacar constantment a uke, per baix si defensa dalt i per dalt si defensa baix.
@@ -138,5 +126,6 @@ descripcion: |
 fuentes:
     - "The open guard. John Danaher"    
     - "Power bottom. Craig Jones"
+    - "Gordon Ryan"
 ---
 {% extends  "pagina.jinja" %}
