@@ -104,7 +104,7 @@ descripcion: |
     * Ai hanmi (mateix peu devant)
         1. Peu per fora
         2. Peu a canella
-        3. Peu per dins (no!)
+        3. Peu per dins (no convenient, ens saltarà a monta)
     
     Podem veure les diferents posicions del peus al seguent gràfic,
 

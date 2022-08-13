@@ -1,27 +1,23 @@
 ---
-title: "Gyaku hanmi"
-description: "movimiento-animal.es - jiu jitsu - Gyaku hanmi"
+title: "Esquadrar"
+description: "movimiento-animal.es - jiu jitsu - Esquadrar"
 descripcion: |
-    Com hem dit a la introducció, en aquesta posició estam amb els peus contraris devant, p.e. tori té el peu esquerra devant i uke el dret.
+    A n'aquest apartat, estudiarem **com esquadrar** a uke devant la nostra mariposa per exposar-li la línia central. Per completr, també posam atacs en altres configuracions.
 
-    Així mateix, les posicions del peu de tori respecte del d'uke poden ser:
+    ### Atacs per esquadrar
 
-    1. Peu per fora del de uke (exterior)
-        * Distància de peu - One leg
-        * Peu entre cames - Pendejo
-    2. Peu per dins del de uke (interior)
-        * Peu 
-        * Genoll
-            1. Amb mà interior
-            2. Amb braç interior (shin-to-shin)
-            2. Amb mà exterior
-        * Braç de fora
-        * Braç de dins
-        * Solapa creuada
-            - Generalitats
-            - Uke fuig; atacam taló
-        * Solapa recta
-        * espatlla creuada - aixecar-se
+    * Peu 
+    * Genoll
+        1. Amb mà interior
+        2. Amb braç interior
+        3. Amb mà exterior
+    * Braç de fora
+    * Braç de dins
+    * Solapa creuada
+        - Generalitats
+        - Uke fuig; atacam taló
+    * Solapa recta
+    * espatlla creuada - aixecar-se
 
     No estar estàtic, recordar que sempre podem passar d'una posició interior a una exterior o a l'inrevés, mogent el nostre peu.
 
@@ -32,13 +28,36 @@ descripcion: |
 
 
 tecnicas: 
+
+#
+  # Peu interior. Atacs
   #
-  # Peu exterior
-  #
-  # atac a mà interior de uke amb mà exterior 
+  # atac a peu
   - tecnica:
-    titulo: "Peu exterior - Atac a braç interior - One leg"
-    description: "Atacam mà perquè, al llevar-la ens deixi capturar la cama adelantada. Per més informació, veure l'apartat de shooting"
+    titulo: "Peu"
+    description: "En es moment en que sentim que uke aixeca es peu, el seguim amb es nostre i li agafam."
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
+    pasos:
+      - ["Detall", "gyaku-peuperdins-unpeu.mp4"]
+
+  # genoll
+  - tecnica:
+    titulo: "Genoll amb mà interior"
+    description: "Atacam genoll amb mà de dins."
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
+    pasos:
+      - ["Amb mà interior", "gyaku-peuperdins-esquadrar-genoll-madedins.mp4"]
+
+  - tecnica:
+    titulo: "Genoll amb braç interior"
+    description: "Atacam genoll passant tot el braç."
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
+    pasos:
+      - ["Amb braç interior", "gyaku-peuperdins-esquadrar-genoll-bracdedins.mp4"]
+
+  - tecnica:
+    titulo: "Genoll amb mà exterior, distància mitja"
+    description: "Amb el peu per fora, atacam mà perquè, al llevar-la ens deixi capturar la cama adelantada. Per més informació, veure l'apartat de shooting"
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
     pasos:
       - ["Preliminars: Forma d'aixecar-se desde enterra, un peu", "gyaku-aixecarse-unpeu.mp4"]
@@ -47,42 +66,30 @@ tecnicas:
       #  - ["Preliminars: Forma d'aixecar-se desde enterra, de costat", "guaku-aixecarse-decostat.mp4"]
       # - ["Preliminars: Forma d'aixecar-se desde enterra, endavant", "gyaku-aixecarse-endavant.mp4"]
       # - ["Prerequeriments: Uke ha de tenir es cap aixecat. Sempre que uke aixequi es cap, atacar-li amb shots. Castigar-lo.", "gyaku-aixecarse-capalt.mp4"]
-  # atac a genoll a mà interior - guàrdia pendejo
+
   - tecnica:
-    titulo: "Exterior - Peu entre cames - Atac a genoll - Pendejo"
+    titulo: "Genoll amb mà exterior, distància curta - Pendejo"
     description: "Aprofitam que tenim es peu de uke entre ses cames per fer-li la guàrdia pendejo. Molta més informació de la [guàrdia pendejo](/jujutsu/open/pendejo/)."
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
     pasos:
       - ["Detalle", "pendejo-detalle.mp4"]
-  
-  #
-  # Peu interior. Atacs
-  #
-  # atac a peu
-  - tecnica:
-    titulo: "Interior - Atac a peu"
-    description: "En es moment en que sentim que uke aixeca es peu, el seguim amb es nostre i li agafam."
-    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
-    pasos:
-      - ["Detall", "gyaku-peuperdins-unpeu.mp4"]
 
-  # genoll
-  - tecnica:
-    titulo: "Interior - Atac a genoll"
-    description: "Atacam genoll amb mà de dins, passant tot el braç o amb la mà de fora."
-    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
-    pasos:
-      - ["Amb mà interior", "gyaku-peuperdins-esquadrar-genoll-madedins.mp4"]
-      - ["Amb braç interior", "gyaku-peuperdins-esquadrar-genoll-bracdedins.mp4"]
-      - ["Amb mà exterior. Treim es peu per fora del de uke i li feim one leg", "gyaku-oneleg-2.mp4"]
 
   # braç de fora
   - tecnica:
-    titulo: "Interior - Atac a braç de fora"
+    titulo: "Braç de fora"
     description: "Agafam el braç de fora i obligam a uke a donar una pasa"
     arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
     pasos:
       - ["Visió general", "gyaku-peuperdins-esquadrar-brac-fora-passeta.mp4"]
+
+  # braç de dins
+  - tecnica:
+    titulo: "Braç de dins"
+    description: "Veure genoll amb mà exterior, distància mitja"
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
+    pasos:
+      - ["Visió general", "gyaku-oneleg.mp4"]
 
   # solapa creuada
   - tecnica:
@@ -103,14 +110,6 @@ tecnicas:
       - ["Vista lateral.", "gyaku-peuperdins-esquadrar-solapa-creuada-fuig-talo-3.mp4"]
       - ["Molt important! Amollar a uke quan està caigent per evitar sa clau de braç.", "gyaku-peuperdins-esquadrar-solapa-creuada-fuig-talo-4.mp4"]
   
-  # solapa recta
-  - tecnica:
-    titulo: "Interior - solapa recta"
-    description: "Atacam genoll amb mà de dins"
-    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/open/" 
-    pasos:
-      - ["Detalle", "pendejo-detalle.mp4"]
-
   # espatlla creuada - aixecar-se
   - tecnica:
     titulo: "Interior - espatlla creuada"

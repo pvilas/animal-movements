@@ -6,11 +6,13 @@ descripcion: |
 
     1. Peu per fora - barrido
     2. Peu a canella - control distància
-    3. Peu per dins (no!)
+    3. Peu per dins (no convenient, ens saltarà a la monta)
 
 
 fuentes:
     - "The open guard. John Danaher"    
+    - "Attack from seated. Gordon Ryan"
+    - "Power Bottom. Craig Jones"
 
 ---
 {% extends  "pagina.jinja" %}
