@@ -1,0 +1,4744 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="movimiento-animal.es - Variables de generación del sitio web">
+      
+      
+        <meta name="author" content="Pere Vilás (https://github.com/pvilas)">
+      
+      
+        <link rel="canonical" href="https://movimiento-animal.es/varios/variables/">
+      
+      
+        <link rel="prev" href="../cookies/">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.16">
+    
+    
+      
+        <title>Variables de generación del sitio web - movimiento-animal.es</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/fonts.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  
+  <meta name="yandex-verification" content="dea5f349dc0d400a" />
+  
+  
+
+
+  
+
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+
+{
+  "@type": "ListItem",
+  "position": 1,
+  "name": "Home",
+  "item": "https://movimiento-animal.es/"
+  } ,      
+
+
+{
+"@type": "ListItem",
+"position": 2,
+"name": "Varios",
+"item": "https://movimiento-animal.es/varios/"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"name": "Entorno",
+"item": "https://movimiento-animal.es/varios/variables/"
+} 
+
+]}
+</script>
+
+
+
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#macros-plugin-environment" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="movimiento-animal.es" class="md-header__button md-logo" aria-label="movimiento-animal.es" data-md-component="logo">
+      
+  <img src="https://static.movimiento-animal.es/img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            movimiento-animal.es
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Variables de generación del sitio web
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../calentar/" class="md-tabs__link">
+        Calentar
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../locomocion/" class="md-tabs__link">
+        Locomoción
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../enfriar/" class="md-tabs__link">
+        Enfriar
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../series/quitar_dolor_lumbar/" class="md-tabs__link">
+        Series
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../jujutsu/" class="md-tabs__link">
+        Jiu-jitsu
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link md-tabs__link--active">
+        Varios
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="movimiento-animal.es" class="md-nav__button md-logo" aria-label="movimiento-animal.es" data-md-component="logo">
+      
+  <img src="https://static.movimiento-animal.es/img/logo.png" alt="logo">
+
+    </a>
+    movimiento-animal.es
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../calentar/">Calentar</a>
+          
+            <label for="__nav_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Calentar
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/pies/" class="md-nav__link">
+        Pies y tobillos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/rodillas/" class="md-nav__link">
+        Rodillas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/caderas/" class="md-nav__link">
+        Caderas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/brazos/" class="md-nav__link">
+        Brazos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/cuello/" class="md-nav__link">
+        Cuello
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/calentar_espina/" class="md-nav__link">
+        Espina
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/estirar_hombros/" class="md-nav__link">
+        Estirar hombros
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calentar/burpees/" class="md-nav__link">
+        Burpees
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/">Locomoción</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Locomoción
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/animales/">Animales</a>
+          
+            <label for="__nav_3_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          Animales
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/gato/" class="md-nav__link">
+        El gato
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/aranya_frontal/" class="md-nav__link">
+        Araña frontal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/aranya_lateral/" class="md-nav__link">
+        Araña lateral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/oso/" class="md-nav__link">
+        El oso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/cangrejo/" class="md-nav__link">
+        El cangrejo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/esfinge/" class="md-nav__link">
+        La esfinge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/grillo/" class="md-nav__link">
+        El grillo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/perro-perezoso/" class="md-nav__link">
+        Perro perezoso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/caiman/" class="md-nav__link">
+        El caimán
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/chimpance/" class="md-nav__link">
+        El chimpancé
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/lagartija_alta/" class="md-nav__link">
+        Lagartija alta
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/lagartija/" class="md-nav__link">
+        La lagartija
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/triangulo/" class="md-nav__link">
+        El triángulo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/animales/balancin/" class="md-nav__link">
+        El balancín
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/caminar/">Caminar</a>
+          
+            <label for="__nav_3_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Caminar
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/arquero_de_pie/" class="md-nav__link">
+        Arquero de pie
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/recoger_del_suelo/" class="md-nav__link">
+        Recoger del suelo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/buenos_dias/" class="md-nav__link">
+        Buenos días
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/el_ruso/" class="md-nav__link">
+        El ruso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/estiramiento_psoas/" class="md-nav__link">
+        El bailarín
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/punyetazo_en_el_pie/" class="md-nav__link">
+        Puñetazo en pie
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/caminar/rotacion_caderas_sobre_una_pierna/" class="md-nav__link">
+        Rotación caderas 1p.
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/gambas/">Gambas</a>
+          
+            <label for="__nav_3_4">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Gambas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/gambas/gamba_atras/" class="md-nav__link">
+        Gamba hacia atrás
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/gambas/gamba_adelante/" class="md-nav__link">
+        Gamba hacia adelante
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/gambas/gamba_de_lado/" class="md-nav__link">
+        Gamba lateral
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/base/">Cambios de base</a>
+          
+            <label for="__nav_3_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Cambios de base
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/base/cambio_base_lateral/" class="md-nav__link">
+        Cambio de base lateral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/base/cambio_base_frontal/" class="md-nav__link">
+        Cambio de base frontal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/base/levantada_tecnica/" class="md-nav__link">
+        Levantada técnica
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../locomocion/ejercicios/">Tecnificación</a>
+          
+            <label for="__nav_3_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Tecnificación
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/pushup/" class="md-nav__link">
+        Push Up
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/arquero/" class="md-nav__link">
+        El arquero
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/arquero_bajo/" class="md-nav__link">
+        El arquero bajo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/pushup_pie_adelantado/" class="md-nav__link">
+        Hanuman Dand
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/drill_para_lizard/" class="md-nav__link">
+        Prep. Lagartija
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/pushup_un_brazo/" class="md-nav__link">
+        Pushup un brazo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/pushup_combo/" class="md-nav__link">
+        Pushup combo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/flexion_hindu/" class="md-nav__link">
+        Flexión hindú
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/pica/" class="md-nav__link">
+        La pica
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locomocion/ejercicios/levantamiento/" class="md-nav__link">
+        Levantamiento de pies
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../enfriar/">Enfriar</a>
+          
+            <label for="__nav_4">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Enfriar
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../enfriar/pino/" class="md-nav__link">
+        El pino
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../enfriar/psoas/" class="md-nav__link">
+        Psoas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../enfriar/sarvangasana/" class="md-nav__link">
+        Sarvangasana
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../enfriar/sirsasana/" class="md-nav__link">
+        Sirsasana
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+      
+      
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Series
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Series
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../series/quitar_dolor_lumbar/" class="md-nav__link">
+        Dolor lumbar
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/">Jiu-jitsu</a>
+          
+            <label for="__nav_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Jiu-jitsu
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/escapes/">Escapes</a>
+          
+            <label for="__nav_6_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Escapes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/monta/" class="md-nav__link">
+        Monta
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/peus/" class="md-nav__link">
+        Baralla de peus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/side/" class="md-nav__link">
+        Side control
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/knee/" class="md-nav__link">
+        Knee escape
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/kesa/" class="md-nav__link">
+        Kesa Gatame
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/reversekesa/" class="md-nav__link">
+        Reverse Kesa
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/belly/" class="md-nav__link">
+        Knee on belly
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/ns/" class="md-nav__link">
+        North/south
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/escapes/tancada/" class="md-nav__link">
+        Tancada
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/retention/">Guard Retention</a>
+          
+            <label for="__nav_6_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Guard Retention
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/seated/" class="md-nav__link">
+        Seated
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/supine/" class="md-nav__link">
+        Supine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/turtle/" class="md-nav__link">
+        Turtle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/frames/" class="md-nav__link">
+        Frames
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/demarcation/" class="md-nav__link">
+        Demarcation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/connection/" class="md-nav__link">
+        Connection
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/filosofia/" class="md-nav__link">
+        Filosofia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-double-under/" class="md-nav__link">
+        Double under
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-over-under/" class="md-nav__link">
+        Over under
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-toreando/" class="md-nav__link">
+        Toreando
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-knee/" class="md-nav__link">
+        Knee slice
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-leg-drag/" class="md-nav__link">
+        Leg drag
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-long-step/" class="md-nav__link">
+        Long step
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/retention/especifics-cranial-shift/" class="md-nav__link">
+        Shift
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_4" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/juji/">Juji</a>
+          
+            <label for="__nav_6_4">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Juji
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/juji/tancada/" class="md-nav__link">
+        Tancada
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/juji/malic/" class="md-nav__link">
+        Tancada malic
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_5" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/open/">Open</a>
+          
+            <label for="__nav_6_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Open
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/seated/" class="md-nav__link">
+        Seated
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/esquadrar/" class="md-nav__link">
+        Esquadrar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/ashi/" class="md-nav__link">
+        Ashi Garami - Single leg
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/shin/" class="md-nav__link">
+        Shin to shin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/pendejo/" class="md-nav__link">
+        Pendejo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/open/gi/" class="md-nav__link">
+        Gi
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_6" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/guardiax/">GuardiaX</a>
+          
+            <label for="__nav_6_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_6">
+          <span class="md-nav__icon md-icon"></span>
+          GuardiaX
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/guardiax/entradas/" class="md-nav__link">
+        Entradas a Guardia X
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/guardiax/transiciones/" class="md-nav__link">
+        Transiciones
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/guardiax/retenciones/" class="md-nav__link">
+        Retenciones
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/guardiax/barridos/" class="md-nav__link">
+        Barridos desde Guardia X
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_7" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/mitja/">Mitja</a>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_7">
+          <span class="md-nav__icon md-icon"></span>
+          Mitja
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_8" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../jujutsu/blau/">Blau</a>
+          
+            <label for="__nav_6_8">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_8">
+          <span class="md-nav__icon md-icon"></span>
+          Blau
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/atacs_guardia/" class="md-nav__link">
+        Atacs guàrdia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/monta/" class="md-nav__link">
+        Monta
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/cent/" class="md-nav__link">
+        100kg
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/peu/" class="md-nav__link">
+        Peus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/esquena/" class="md-nav__link">
+        Esquena
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/raspats_guardia/" class="md-nav__link">
+        Raspats guàrdia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/media/" class="md-nav__link">
+        Mitja
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/passatges/" class="md-nav__link">
+        Passatges
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/derribs/" class="md-nav__link">
+        Derribs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jujutsu/blau/punts/" class="md-nav__link">
+        Punts
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../">Varios</a>
+          
+            <label for="__nav_7">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Varios
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../recopilacion/" class="md-nav__link">
+        Recopilación inicial
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pilates/" class="md-nav__link">
+        Mis videos de Pilates
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fuentes/" class="md-nav__link">
+        Fuentes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../proximamente/" class="md-nav__link">
+        Próximamente
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plantilla/" class="md-nav__link">
+        Plantilla
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../legal/" class="md-nav__link">
+        Legal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../privacidad/" class="md-nav__link">
+        Privacidad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cookies/" class="md-nav__link">
+        Cookies
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Entorno
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Entorno
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#macros-plugin-environment" class="md-nav__link">
+    Macros Plugin Environment
+  </a>
+  
+    <nav class="md-nav" aria-label="Macros Plugin Environment">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-list" class="md-nav__link">
+    General List
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#config-information" class="md-nav__link">
+    Config Information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#macros" class="md-nav__link">
+    Macros
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git-information" class="md-nav__link">
+    Git Information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#page-attributes" class="md-nav__link">
+    Page Attributes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plugin-filters" class="md-nav__link">
+    Plugin Filters
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#builtin-jinja2-filters" class="md-nav__link">
+    Builtin Jinja2 Filters
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#macros-plugin-environment" class="md-nav__link">
+    Macros Plugin Environment
+  </a>
+  
+    <nav class="md-nav" aria-label="Macros Plugin Environment">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-list" class="md-nav__link">
+    General List
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#config-information" class="md-nav__link">
+    Config Information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#macros" class="md-nav__link">
+    Macros
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#git-information" class="md-nav__link">
+    Git Information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#page-attributes" class="md-nav__link">
+    Page Attributes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plugin-filters" class="md-nav__link">
+    Plugin Filters
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#builtin-jinja2-filters" class="md-nav__link">
+    Builtin Jinja2 Filters
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Entorno</h1>
+
+<nav style="margin-top: -2.25em;">
+    <div class="nav-wrapper">
+      <div class="col s12">
+<a href="/#navegacion-del-sitio" class="breadcrumb">Home</a> &raquo;      
+
+
+<a href="/varios/" class="breadcrumb">Varios</a> &raquo;
+
+Entorno
+      </div>
+    </div>
+</nav>
+
+<h2 id="macros-plugin-environment">Macros Plugin Environment</h2>
+<h3 id="general-list">General List</h3>
+<p>All available variables and filters within the macros plugin:</p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>extra</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">version = 1.0, posters = '/img/posters/', yandex_verification = 'dea5f349dc0d400a', social = [{'icon': 'fontawesome/brands/github', 'link': 'https://github.com/pvilas'}, {'icon': 'fontawesome/brands/linkedin', 'link': 'https://www.linkedin.com/in/pvilas/'}, {'icon': 'fontawesome/brands/twitter', 'link': 'https://twitter.com/movimientoanim4'}]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>config</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>MkDocsConfig</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">{'config_file_path': '/home/runner/work/animal-movements/animal-movements/mkdocs.yml', 'site_name': 'movimiento-animal.es', 'nav': [{'Home': 'index.md'}, {'Calentar': [{'El calentamiento': 'calentar/index.md'}, {'Pies y tobillos': 'calentar/pies.md'}, {'Rodillas': 'calentar/rodillas.md'}, {'Caderas': 'calentar/caderas.md'}, {'Brazos': 'calentar/brazos.md'}, {'Cuello': 'calentar/cuello.md'}, {'Espina': 'calentar/calentar_espina.md'}, {'Estirar hombros': 'calentar/estirar_hombros.md'}, {'Burpees': 'calentar/burpees.md'}]}, {'Locomoción': [{'Índice': 'locomocion/index.md'}, {'Animales': [{'Los animales': 'locomocion/animales/index.md'}, {'El gato': 'locomocion/animales/gato.md'}, {'Araña frontal': 'locomocion/animales/aranya_frontal.md'}, {'Araña lateral': 'locomocion/animales/aranya_lateral.md'}, {'El oso': 'locomocion/animales/oso.md'}, {'El cangrejo': 'locomocion/animales/cangrejo.md'}, {'La esfinge': 'locomocion/animales/esfinge.md'}, {'El grillo': 'locomocion/animales/grillo.md'}, {'Perro perezoso': 'locomocion/animales/perro-perezoso.md'}, {'El caimán': 'locomocion/animales/caiman.md'}, {'El chimpancé': 'locomocion/animales/chimpance.md'}, {'Lagartija alta': 'locomocion/animales/lagartija_alta.md'}, {'La lagartija': 'locomocion/animales/lagartija.md'}, {'El triángulo': 'locomocion/animales/triangulo.md'}, {'El balancín': 'locomocion/animales/balancin.md'}]}, {'Caminar': [{'Caminar': 'locomocion/caminar/index.md'}, {'Arquero de pie': 'locomocion/caminar/arquero_de_pie.md'}, {'Recoger del suelo': 'locomocion/caminar/recoger_del_suelo.md'}, {'Buenos días': 'locomocion/caminar/buenos_dias.md'}, {'El ruso': 'locomocion/caminar/el_ruso.md'}, {'El bailarín': 'locomocion/caminar/estiramiento_psoas.md'}, {'Puñetazo en pie': 'locomocion/caminar/punyetazo_en_el_pie.md'}, {'Rotación caderas 1p.': 'locomocion/caminar/rotacion_caderas_sobre_una_pierna.md'}]}, {'Gambas': [{'Las gambas': 'locomocion/gambas/index.md'}, {'Gamba hacia atrás': 'locomocion/gambas/gamba_atras.md'}, {'Gamba hacia adelante': 'locomocion/gambas/gamba_adelante.md'}, {'Gamba lateral': 'locomocion/gambas/gamba_de_lado.md'}]}, {'Cambios de base': [{'Los cambios de base': 'locomocion/base/index.md'}, {'Cambio de base lateral': 'locomocion/base/cambio_base_lateral.md'}, {'Cambio de base frontal': 'locomocion/base/cambio_base_frontal.md'}, {'Levantada técnica': 'locomocion/base/levantada_tecnica.md'}]}, {'Tecnificación': [{'Los ejercicios': 'locomocion/ejercicios/index.md'}, {'Push Up': 'locomocion/ejercicios/pushup.md'}, {'El arquero': 'locomocion/ejercicios/arquero.md'}, {'El arquero bajo': 'locomocion/ejercicios/arquero_bajo.md'}, {'Hanuman Dand': 'locomocion/ejercicios/pushup_pie_adelantado.md'}, {'Prep. Lagartija': 'locomocion/ejercicios/drill_para_lizard.md'}, {'Pushup un brazo': 'locomocion/ejercicios/pushup_un_brazo.md'}, {'Pushup combo': 'locomocion/ejercicios/pushup_combo.md'}, {'Flexión hindú': 'locomocion/ejercicios/flexion_hindu.md'}, {'La pica': 'locomocion/ejercicios/pica.md'}, {'Levantamiento de pies': 'locomocion/ejercicios/levantamiento.md'}]}]}, {'Enfriar': [{'El enfriamiento': 'enfriar/index.md'}, {'El pino': 'enfriar/pino.md'}, {'Psoas': 'enfriar/psoas.md'}, {'Sarvangasana': 'enfriar/sarvangasana.md'}, {'Sirsasana': 'enfriar/sirsasana.md'}]}, {'Series': [{'Dolor lumbar': 'series/quitar_dolor_lumbar.md'}]}, {'Jiu-jitsu': [{'Índice': 'jujutsu/index.md'}, {'Escapes': ['jujutsu/escapes/index.md', {'Monta': 'jujutsu/escapes/monta.md'}, {'Baralla de peus': 'jujutsu/escapes/peus.md'}, {'Side control': 'jujutsu/escapes/side.md'}, {'Knee escape': 'jujutsu/escapes/knee.md'}, {'Kesa Gatame': 'jujutsu/escapes/kesa.md'}, {'Reverse Kesa': 'jujutsu/escapes/reversekesa.md'}, {'Knee on belly': 'jujutsu/escapes/belly.md'}, {'North/south': 'jujutsu/escapes/ns.md'}, {'Tancada': 'jujutsu/escapes/tancada.md'}]}, {'Guard Retention': ['jujutsu/retention/index.md', {'Seated': 'jujutsu/retention/seated.md'}, {'Supine': 'jujutsu/retention/supine.md'}, {'Turtle': 'jujutsu/retention/turtle.md'}, {'Frames': 'jujutsu/retention/frames.md'}, {'Demarcation': 'jujutsu/retention/demarcation.md'}, {'Connection': 'jujutsu/retention/connection.md'}, {'Filosofia': 'jujutsu/retention/filosofia.md'}, {'Double under': 'jujutsu/retention/especifics-double-under.md'}, {'Over under': 'jujutsu/retention/especifics-over-under.md'}, {'Toreando': 'jujutsu/retention/especifics-toreando.md'}, {'Knee slice': 'jujutsu/retention/especifics-knee.md'}, {'Leg drag': 'jujutsu/retention/especifics-leg-drag.md'}, {'Long step': 'jujutsu/retention/especifics-long-step.md'}, {'Shift': 'jujutsu/retention/especifics-cranial-shift.md'}]}, {'Juji': ['jujutsu/juji/index.md', {'Tancada': 'jujutsu/juji/tancada.md'}, {'Tancada malic': 'jujutsu/juji/malic.md'}]}, {'Open': ['jujutsu/open/index.md', 'jujutsu/open/seated.md', 'jujutsu/open/esquadrar.md', 'jujutsu/open/ashi.md', 'jujutsu/open/shin.md', 'jujutsu/open/pendejo.md', 'jujutsu/open/gi.md']}, {'GuardiaX': ['jujutsu/guardiax/index.md', 'jujutsu/guardiax/entradas.md', 'jujutsu/guardiax/transiciones.md', 'jujutsu/guardiax/retenciones.md', 'jujutsu/guardiax/barridos.md']}, {'Mitja': ['jujutsu/mitja/index.md']}, {'Blau': ['jujutsu/blau/index.md', {'Atacs guàrdia': 'jujutsu/blau/atacs_guardia.md'}, {'Monta': 'jujutsu/blau/monta.md'}, {'100kg': 'jujutsu/blau/cent.md'}, {'Peus': 'jujutsu/blau/peu.md'}, {'Esquena': 'jujutsu/blau/esquena.md'}, {'Raspats guàrdia': 'jujutsu/blau/raspats_guardia.md'}, {'Mitja': 'jujutsu/blau/media.md'}, {'Passatges': 'jujutsu/blau/passatges.md'}, {'Derribs': 'jujutsu/blau/derribs.md'}, {'Punts': 'jujutsu/blau/punts.md'}]}]}, {'Varios': ['varios/index.md', {'Recopilación inicial': 'varios/recopilacion.md'}, {'Mis videos de Pilates': 'varios/pilates.md'}, {'Fuentes': 'varios/fuentes.md'}, {'Próximamente': 'varios/proximamente.md'}, {'Plantilla': 'varios/plantilla.md'}, {'Legal': 'varios/legal.md'}, {'Privacidad': 'varios/privacidad.md'}, {'Cookies': 'varios/cookies.md'}, {'Entorno': 'varios/variables.md'}]}], 'pages': None, 'site_url': 'https://movimiento-animal.es/', 'site_description': 'Sitio web de locomoción y movimiento animal. Detalles de cada ejercicio, rutinas, etc.', 'site_author': 'Pere Vilás (https://github.com/pvilas)', 'theme': Theme(name='material', dirs=['/home/runner/work/animal-movements/animal-movements/overrides', '/opt/hostedtoolcache/Python/3.11.4/x64/lib/python3.11/site-packages/material', '/opt/hostedtoolcache/Python/3.11.4/x64/lib/python3.11/site-packages/mkdocs/templates'], static_templates=['sitemap.xml', '404.html'], name='material', locale=Locale(language='en', territory=''), language='es', direction=None, features=['navigation.tabs', 'navigation.sections', 'navigation.expand', 'navigation.indexes'], font={'text': 'Roboto', 'code': 'Roboto Mono'}, icon=None, favicon='favicon.ico', logo='https://static.movimiento-animal.es/img/logo.png', palette={'scheme': 'default'}), 'docs_dir': '/home/runner/work/animal-movements/animal-movements/docs', 'site_dir': '/home/runner/work/animal-movements/animal-movements/site', 'copyright': '@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)', 'google_analytics': None, 'dev_addr': _IpAddressValue(host='127.0.0.1', port=8000), 'use_directory_urls': True, 'repo_url': None, 'repo_name': None, 'edit_uri_template': None, 'edit_uri': None, 'extra_css': ['stylesheets/fonts.css'], 'extra_javascript': [], 'extra_templates': [], 'markdown_extensions': ['toc', 'tables', 'fenced_code', 'meta', 'attr_list', 'pymdownx.emoji'], 'mdx_configs': {'pymdownx.emoji': {'emoji_generator': <function to_svg at 0x7f01d7a87920>}}, 'strict': False, 'remote_branch': 'gh-pages', 'remote_name': 'origin', 'extra': {'version': 1.0, 'posters': '/img/posters/', 'yandex_verification': 'dea5f349dc0d400a', 'social': [{'icon': 'fontawesome/brands/github', 'link': 'https://github.com/pvilas'}, {'icon': 'fontawesome/brands/linkedin', 'link': 'https://www.linkedin.com/in/pvilas/'}, {'icon': 'fontawesome/brands/twitter', 'link': 'https://twitter.com/movimientoanim4'}]}, 'plugins': {'macros': <mkdocs_macros.plugin.MacrosPlugin object at 0x7f01d76e1a10>, 'material/search': <material.plugins.search.plugin.SearchPlugin object at 0x7f01d772ef10>}, 'hooks': {}, 'watch': [], 'arrel_img': 'https://static.movimiento-animal.es/'}</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>environment</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">system = 'Linux', system_version = '5.15.0-1039-azure', python_version = '3.11.4', mkdocs_version = '1.4.3', macros_plugin_version = '1.0.1', jinja2_version = '3.1.2'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>plugin</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>LegacyConfig</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">{'module_name': 'main', 'modules': [], 'render_by_default': True, 'include_dir': '', 'include_yaml': [], 'j2_block_start_string': '', 'j2_block_end_string': '', 'j2_variable_start_string': '', 'j2_variable_end_string': '', 'on_undefined': 'keep', 'on_error_fail': False, 'verbose': False}</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>git</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">status = True, <b>date</b> [<i>datetime</i>], short_commit = '374ff34', commit = '374ff34bf7f87ec70e94d0dfbefa8600ba09cb2f', tag = '', author = 'Pere Vilás', author_email = 'pvilas@gmail.com', committer = 'Pere Vilás', committer_email = 'pvilas@gmail.com', date_ISO = 'Fri Jun 16 14:22:20 2023 +0200', message = 'actualitzat jmm escapes side control', raw = 'commit 374ff34bf7f87ec70e94d0dfbefa8600ba09cb2f\nAuthor: Pere Vilás <pvilas@gmail.com>\nDate:   Fri Jun 16 14:22:20 2023 +0200\n\n    actualitzat jmm escapes side control', root_dir = '/home/runner/work/animal-movements/animal-movements'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>version</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>float</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">1.0</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>posters</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/img/posters/'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>yandex_verification</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'dea5f349dc0d400a'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>social</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[{'icon': 'fontawesome/brands/github', 'link': 'https://github.com/pvilas'}, {'icon': 'fontawesome/brands/linkedin', 'link': 'https://www.linkedin.com/in/pvilas/'}, {'icon': 'fontawesome/brands/twitter', 'link': 'https://twitter.com/movimientoanim4'}]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>macros</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>SuperDict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>context</b> [<i>function</i>], <b>macros_info</b> [<i>function</i>], <b>now</b> [<i>function</i>], <b>fix_url</b> [<i>function</i>]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>filters</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>pretty</b> [<i>function</i>]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>filters_builtin</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>abs</b> [<i>builtin_function_or_method</i>], <b>attr</b> [<i>function</i>], <b>batch</b> [<i>function</i>], <b>capitalize</b> [<i>function</i>], <b>center</b> [<i>function</i>], <b>count</b> [<i>builtin_function_or_method</i>], <b>d</b> [<i>function</i>], <b>default</b> [<i>function</i>], <b>dictsort</b> [<i>function</i>], <b>e</b> [<i>builtin_function_or_method</i>], <b>escape</b> [<i>builtin_function_or_method</i>], <b>filesizeformat</b> [<i>function</i>], <b>first</b> [<i>function</i>], <b>float</b> [<i>function</i>], <b>forceescape</b> [<i>function</i>], <b>format</b> [<i>function</i>], <b>groupby</b> [<i>function</i>], <b>indent</b> [<i>function</i>], <b>int</b> [<i>function</i>], <b>join</b> [<i>function</i>], <b>last</b> [<i>function</i>], <b>length</b> [<i>builtin_function_or_method</i>], <b>list</b> [<i>function</i>], <b>lower</b> [<i>function</i>], <b>items</b> [<i>function</i>], <b>map</b> [<i>function</i>], <b>min</b> [<i>function</i>], <b>max</b> [<i>function</i>], <b>pprint</b> [<i>function</i>], <b>random</b> [<i>function</i>], <b>reject</b> [<i>function</i>], <b>rejectattr</b> [<i>function</i>], <b>replace</b> [<i>function</i>], <b>reverse</b> [<i>function</i>], <b>round</b> [<i>function</i>], <b>safe</b> [<i>function</i>], <b>select</b> [<i>function</i>], <b>selectattr</b> [<i>function</i>], <b>slice</b> [<i>function</i>], <b>sort</b> [<i>function</i>], <b>string</b> [<i>builtin_function_or_method</i>], <b>striptags</b> [<i>function</i>], <b>sum</b> [<i>function</i>], <b>title</b> [<i>function</i>], <b>trim</b> [<i>function</i>], <b>truncate</b> [<i>function</i>], <b>unique</b> [<i>function</i>], <b>upper</b> [<i>function</i>], <b>urlencode</b> [<i>function</i>], <b>urlize</b> [<i>function</i>], <b>wordcount</b> [<i>function</i>], <b>wordwrap</b> [<i>function</i>], <b>xmlattr</b> [<i>function</i>], <b>tojson</b> [<i>function</i>]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>navigation</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Navigation</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">Page(title='Home', url='/')<br/>Section(title='Calentar')<br/>    Page(title='El calentamiento', url='/calentar/')<br/>    Page(title='Pies y tobillos', url='/calentar/pies/')<br/>    Page(title='Rodillas', url='/calentar/rodillas/')<br/>    Page(title='Caderas', url='/calentar/caderas/')<br/>    Page(title='Brazos', url='/calentar/brazos/')<br/>    Page(title='Cuello', url='/calentar/cuello/')<br/>    Page(title='Espina', url='/calentar/calentar_espina/')<br/>    Page(title='Estirar hombros', url='/calentar/estirar_hombros/')<br/>    Page(title='Burpees', url='/calentar/burpees/')<br/>Section(title='Locomoción')<br/>    Page(title='Índice', url='/locomocion/')<br/>    Section(title='Animales')<br/>        Page(title='Los animales', url='/locomocion/animales/')<br/>        Page(title='El gato', url='/locomocion/animales/gato/')<br/>        Page(title='Araña frontal', url='/locomocion/animales/aranya_frontal/')<br/>        Page(title='Araña lateral', url='/locomocion/animales/aranya_lateral/')<br/>        Page(title='El oso', url='/locomocion/animales/oso/')<br/>        Page(title='El cangrejo', url='/locomocion/animales/cangrejo/')<br/>        Page(title='La esfinge', url='/locomocion/animales/esfinge/')<br/>        Page(title='El grillo', url='/locomocion/animales/grillo/')<br/>        Page(title='Perro perezoso', url='/locomocion/animales/perro-perezoso/')<br/>        Page(title='El caimán', url='/locomocion/animales/caiman/')<br/>        Page(title='El chimpancé', url='/locomocion/animales/chimpance/')<br/>        Page(title='Lagartija alta', url='/locomocion/animales/lagartija_alta/')<br/>        Page(title='La lagartija', url='/locomocion/animales/lagartija/')<br/>        Page(title='El triángulo', url='/locomocion/animales/triangulo/')<br/>        Page(title='El balancín', url='/locomocion/animales/balancin/')<br/>    Section(title='Caminar')<br/>        Page(title='Caminar', url='/locomocion/caminar/')<br/>        Page(title='Arquero de pie', url='/locomocion/caminar/arquero_de_pie/')<br/>        Page(title='Recoger del suelo', url='/locomocion/caminar/recoger_del_suelo/')<br/>        Page(title='Buenos días', url='/locomocion/caminar/buenos_dias/')<br/>        Page(title='El ruso', url='/locomocion/caminar/el_ruso/')<br/>        Page(title='El bailarín', url='/locomocion/caminar/estiramiento_psoas/')<br/>        Page(title='Puñetazo en pie', url='/locomocion/caminar/punyetazo_en_el_pie/')<br/>        Page(title='Rotación caderas 1p.', url='/locomocion/caminar/rotacion_caderas_sobre_una_pierna/')<br/>    Section(title='Gambas')<br/>        Page(title='Las gambas', url='/locomocion/gambas/')<br/>        Page(title='Gamba hacia atrás', url='/locomocion/gambas/gamba_atras/')<br/>        Page(title='Gamba hacia adelante', url='/locomocion/gambas/gamba_adelante/')<br/>        Page(title='Gamba lateral', url='/locomocion/gambas/gamba_de_lado/')<br/>    Section(title='Cambios de base')<br/>        Page(title='Los cambios de base', url='/locomocion/base/')<br/>        Page(title='Cambio de base lateral', url='/locomocion/base/cambio_base_lateral/')<br/>        Page(title='Cambio de base frontal', url='/locomocion/base/cambio_base_frontal/')<br/>        Page(title='Levantada técnica', url='/locomocion/base/levantada_tecnica/')<br/>    Section(title='Tecnificación')<br/>        Page(title='Los ejercicios', url='/locomocion/ejercicios/')<br/>        Page(title='Push Up', url='/locomocion/ejercicios/pushup/')<br/>        Page(title='El arquero', url='/locomocion/ejercicios/arquero/')<br/>        Page(title='El arquero bajo', url='/locomocion/ejercicios/arquero_bajo/')<br/>        Page(title='Hanuman Dand', url='/locomocion/ejercicios/pushup_pie_adelantado/')<br/>        Page(title='Prep. Lagartija', url='/locomocion/ejercicios/drill_para_lizard/')<br/>        Page(title='Pushup un brazo', url='/locomocion/ejercicios/pushup_un_brazo/')<br/>        Page(title='Pushup combo', url='/locomocion/ejercicios/pushup_combo/')<br/>        Page(title='Flexión hindú', url='/locomocion/ejercicios/flexion_hindu/')<br/>        Page(title='La pica', url='/locomocion/ejercicios/pica/')<br/>        Page(title='Levantamiento de pies', url='/locomocion/ejercicios/levantamiento/')<br/>Section(title='Enfriar')<br/>    Page(title='El enfriamiento', url='/enfriar/')<br/>    Page(title='El pino', url='/enfriar/pino/')<br/>    Page(title='Psoas', url='/enfriar/psoas/')<br/>    Page(title='Sarvangasana', url='/enfriar/sarvangasana/')<br/>    Page(title='Sirsasana', url='/enfriar/sirsasana/')<br/>Section(title='Series')<br/>    Page(title='Dolor lumbar', url='/series/quitar_dolor_lumbar/')<br/>Section(title='Jiu-jitsu')<br/>    Page(title='Índice', url='/jujutsu/')<br/>    Section(title='Escapes')<br/>        Page(title='Fugides', url='/jujutsu/escapes/')<br/>        Page(title='Monta', url='/jujutsu/escapes/monta/')<br/>        Page(title='Baralla de peus', url='/jujutsu/escapes/peus/')<br/>        Page(title='Side control', url='/jujutsu/escapes/side/')<br/>        Page(title='Knee escape', url='/jujutsu/escapes/knee/')<br/>        Page(title='Kesa Gatame', url='/jujutsu/escapes/kesa/')<br/>        Page(title='Reverse Kesa', url='/jujutsu/escapes/reversekesa/')<br/>        Page(title='Knee on belly', url='/jujutsu/escapes/belly/')<br/>        Page(title='North/south', url='/jujutsu/escapes/ns/')<br/>        Page(title='Tancada', url='/jujutsu/escapes/tancada/')<br/>    Section(title='Guard Retention')<br/>        Page(title='Guard retention', url='/jujutsu/retention/')<br/>        Page(title='Seated', url='/jujutsu/retention/seated/')<br/>        Page(title='Supine', url='/jujutsu/retention/supine/')<br/>        Page(title='Turtle', url='/jujutsu/retention/turtle/')<br/>        Page(title='Frames', url='/jujutsu/retention/frames/')<br/>        Page(title='Demarcation', url='/jujutsu/retention/demarcation/')<br/>        Page(title='Connection', url='/jujutsu/retention/connection/')<br/>        Page(title='Filosofia', url='/jujutsu/retention/filosofia/')<br/>        Page(title='Double under', url='/jujutsu/retention/especifics-double-under/')<br/>        Page(title='Over under', url='/jujutsu/retention/especifics-over-under/')<br/>        Page(title='Toreando', url='/jujutsu/retention/especifics-toreando/')<br/>        Page(title='Knee slice', url='/jujutsu/retention/especifics-knee/')<br/>        Page(title='Leg drag', url='/jujutsu/retention/especifics-leg-drag/')<br/>        Page(title='Long step', url='/jujutsu/retention/especifics-long-step/')<br/>        Page(title='Shift', url='/jujutsu/retention/especifics-cranial-shift/')<br/>    Section(title='Juji')<br/>        Page(title='Juji Gatame', url='/jujutsu/juji/')<br/>        Page(title='Tancada', url='/jujutsu/juji/tancada/')<br/>        Page(title='Tancada malic', url='/jujutsu/juji/malic/')<br/>    Section(title='Open')<br/>        Page(title='Open guard', url='/jujutsu/open/')<br/>        Page(title='Seated', url='/jujutsu/open/seated/')<br/>        Page(title='Esquadrar', url='/jujutsu/open/esquadrar/')<br/>        Page(title='Ashi Garami - Single leg', url='/jujutsu/open/ashi/')<br/>        Page(title='Shin to shin', url='/jujutsu/open/shin/')<br/>        Page(title='Pendejo', url='/jujutsu/open/pendejo/')<br/>        Page(title='Gi', url='/jujutsu/open/gi/')<br/>    Section(title='GuardiaX')<br/>        Page(title='Guardia X', url='/jujutsu/guardiax/')<br/>        Page(title='Entradas a Guardia X', url='/jujutsu/guardiax/entradas/')<br/>        Page(title='Transiciones', url='/jujutsu/guardiax/transiciones/')<br/>        Page(title='Retenciones', url='/jujutsu/guardiax/retenciones/')<br/>        Page(title='Barridos desde Guardia X', url='/jujutsu/guardiax/barridos/')<br/>    Section(title='Mitja')<br/>        Page(title='Mitja guàrdia', url='/jujutsu/mitja/')<br/>    Section(title='Blau')<br/>        Page(title='Exàmen de blau', url='/jujutsu/blau/')<br/>        Page(title='Atacs guàrdia', url='/jujutsu/blau/atacs_guardia/')<br/>        Page(title='Monta', url='/jujutsu/blau/monta/')<br/>        Page(title='100kg', url='/jujutsu/blau/cent/')<br/>        Page(title='Peus', url='/jujutsu/blau/peu/')<br/>        Page(title='Esquena', url='/jujutsu/blau/esquena/')<br/>        Page(title='Raspats guàrdia', url='/jujutsu/blau/raspats_guardia/')<br/>        Page(title='Mitja', url='/jujutsu/blau/media/')<br/>        Page(title='Passatges', url='/jujutsu/blau/passatges/')<br/>        Page(title='Derribs', url='/jujutsu/blau/derribs/')<br/>        Page(title='Punts', url='/jujutsu/blau/punts/')<br/>Section(title='Varios')<br/>    Page(title='Índice de varios', url='/varios/')<br/>    Page(title='Recopilación inicial', url='/varios/recopilacion/')<br/>    Page(title='Mis videos de Pilates', url='/varios/pilates/')<br/>    Page(title='Fuentes', url='/varios/fuentes/')<br/>    Page(title='Próximamente', url='/varios/proximamente/')<br/>    Page(title='Plantilla', url='/varios/plantilla/')<br/>    Page(title='Legal', url='/varios/legal/')<br/>    Page(title='Privacidad', url='/varios/privacidad/')<br/>    Page(title='Cookies', url='/varios/cookies/')<br/>    Page(title='Entorno', url='/varios/variables/')</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>files</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Files</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><mkdocs.structure.files.Files object at 0x7f01d73eee90></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>page</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Page</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">Page(title='Entorno', url='/varios/variables/')</td>
+
+        </tr>
+
+</table>
+
+<h3 id="config-information">Config Information</h3>
+<p>Standard MkDocs configuration information. Do not try to modify.</p>
+<p>e.g. <code>{{ config.docs_dir }}</code></p>
+<p>See also the <a href="https://www.MkDocs.org/user-guide/custom-themes/#config">MkDocs documentation on the config object</a>.</p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>config_file_path</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/home/runner/work/animal-movements/animal-movements/mkdocs.yml'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>site_name</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'movimiento-animal.es'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>nav</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[{'Home': 'index.md'}, {'Calentar': [{'El calentamiento': 'calentar/index.md'}, {'Pies y tobillos': 'calentar/pies.md'}, {'Rodillas': 'calentar/rodillas.md'}, {'Caderas': 'calentar/caderas.md'}, {'Brazos': 'calentar/brazos.md'}, {'Cuello': 'calentar/cuello.md'}, {'Espina': 'calentar/calentar_espina.md'}, {'Estirar hombros': 'calentar/estirar_hombros.md'}, {'Burpees': 'calentar/burpees.md'}]}, {'Locomoción': [{'Índice': 'locomocion/index.md'}, {'Animales': [{'Los animales': 'locomocion/animales/index.md'}, {'El gato': 'locomocion/animales/gato.md'}, {'Araña frontal': 'locomocion/animales/aranya_frontal.md'}, {'Araña lateral': 'locomocion/animales/aranya_lateral.md'}, {'El oso': 'locomocion/animales/oso.md'}, {'El cangrejo': 'locomocion/animales/cangrejo.md'}, {'La esfinge': 'locomocion/animales/esfinge.md'}, {'El grillo': 'locomocion/animales/grillo.md'}, {'Perro perezoso': 'locomocion/animales/perro-perezoso.md'}, {'El caimán': 'locomocion/animales/caiman.md'}, {'El chimpancé': 'locomocion/animales/chimpance.md'}, {'Lagartija alta': 'locomocion/animales/lagartija_alta.md'}, {'La lagartija': 'locomocion/animales/lagartija.md'}, {'El triángulo': 'locomocion/animales/triangulo.md'}, {'El balancín': 'locomocion/animales/balancin.md'}]}, {'Caminar': [{'Caminar': 'locomocion/caminar/index.md'}, {'Arquero de pie': 'locomocion/caminar/arquero_de_pie.md'}, {'Recoger del suelo': 'locomocion/caminar/recoger_del_suelo.md'}, {'Buenos días': 'locomocion/caminar/buenos_dias.md'}, {'El ruso': 'locomocion/caminar/el_ruso.md'}, {'El bailarín': 'locomocion/caminar/estiramiento_psoas.md'}, {'Puñetazo en pie': 'locomocion/caminar/punyetazo_en_el_pie.md'}, {'Rotación caderas 1p.': 'locomocion/caminar/rotacion_caderas_sobre_una_pierna.md'}]}, {'Gambas': [{'Las gambas': 'locomocion/gambas/index.md'}, {'Gamba hacia atrás': 'locomocion/gambas/gamba_atras.md'}, {'Gamba hacia adelante': 'locomocion/gambas/gamba_adelante.md'}, {'Gamba lateral': 'locomocion/gambas/gamba_de_lado.md'}]}, {'Cambios de base': [{'Los cambios de base': 'locomocion/base/index.md'}, {'Cambio de base lateral': 'locomocion/base/cambio_base_lateral.md'}, {'Cambio de base frontal': 'locomocion/base/cambio_base_frontal.md'}, {'Levantada técnica': 'locomocion/base/levantada_tecnica.md'}]}, {'Tecnificación': [{'Los ejercicios': 'locomocion/ejercicios/index.md'}, {'Push Up': 'locomocion/ejercicios/pushup.md'}, {'El arquero': 'locomocion/ejercicios/arquero.md'}, {'El arquero bajo': 'locomocion/ejercicios/arquero_bajo.md'}, {'Hanuman Dand': 'locomocion/ejercicios/pushup_pie_adelantado.md'}, {'Prep. Lagartija': 'locomocion/ejercicios/drill_para_lizard.md'}, {'Pushup un brazo': 'locomocion/ejercicios/pushup_un_brazo.md'}, {'Pushup combo': 'locomocion/ejercicios/pushup_combo.md'}, {'Flexión hindú': 'locomocion/ejercicios/flexion_hindu.md'}, {'La pica': 'locomocion/ejercicios/pica.md'}, {'Levantamiento de pies': 'locomocion/ejercicios/levantamiento.md'}]}]}, {'Enfriar': [{'El enfriamiento': 'enfriar/index.md'}, {'El pino': 'enfriar/pino.md'}, {'Psoas': 'enfriar/psoas.md'}, {'Sarvangasana': 'enfriar/sarvangasana.md'}, {'Sirsasana': 'enfriar/sirsasana.md'}]}, {'Series': [{'Dolor lumbar': 'series/quitar_dolor_lumbar.md'}]}, {'Jiu-jitsu': [{'Índice': 'jujutsu/index.md'}, {'Escapes': ['jujutsu/escapes/index.md', {'Monta': 'jujutsu/escapes/monta.md'}, {'Baralla de peus': 'jujutsu/escapes/peus.md'}, {'Side control': 'jujutsu/escapes/side.md'}, {'Knee escape': 'jujutsu/escapes/knee.md'}, {'Kesa Gatame': 'jujutsu/escapes/kesa.md'}, {'Reverse Kesa': 'jujutsu/escapes/reversekesa.md'}, {'Knee on belly': 'jujutsu/escapes/belly.md'}, {'North/south': 'jujutsu/escapes/ns.md'}, {'Tancada': 'jujutsu/escapes/tancada.md'}]}, {'Guard Retention': ['jujutsu/retention/index.md', {'Seated': 'jujutsu/retention/seated.md'}, {'Supine': 'jujutsu/retention/supine.md'}, {'Turtle': 'jujutsu/retention/turtle.md'}, {'Frames': 'jujutsu/retention/frames.md'}, {'Demarcation': 'jujutsu/retention/demarcation.md'}, {'Connection': 'jujutsu/retention/connection.md'}, {'Filosofia': 'jujutsu/retention/filosofia.md'}, {'Double under': 'jujutsu/retention/especifics-double-under.md'}, {'Over under': 'jujutsu/retention/especifics-over-under.md'}, {'Toreando': 'jujutsu/retention/especifics-toreando.md'}, {'Knee slice': 'jujutsu/retention/especifics-knee.md'}, {'Leg drag': 'jujutsu/retention/especifics-leg-drag.md'}, {'Long step': 'jujutsu/retention/especifics-long-step.md'}, {'Shift': 'jujutsu/retention/especifics-cranial-shift.md'}]}, {'Juji': ['jujutsu/juji/index.md', {'Tancada': 'jujutsu/juji/tancada.md'}, {'Tancada malic': 'jujutsu/juji/malic.md'}]}, {'Open': ['jujutsu/open/index.md', 'jujutsu/open/seated.md', 'jujutsu/open/esquadrar.md', 'jujutsu/open/ashi.md', 'jujutsu/open/shin.md', 'jujutsu/open/pendejo.md', 'jujutsu/open/gi.md']}, {'GuardiaX': ['jujutsu/guardiax/index.md', 'jujutsu/guardiax/entradas.md', 'jujutsu/guardiax/transiciones.md', 'jujutsu/guardiax/retenciones.md', 'jujutsu/guardiax/barridos.md']}, {'Mitja': ['jujutsu/mitja/index.md']}, {'Blau': ['jujutsu/blau/index.md', {'Atacs guàrdia': 'jujutsu/blau/atacs_guardia.md'}, {'Monta': 'jujutsu/blau/monta.md'}, {'100kg': 'jujutsu/blau/cent.md'}, {'Peus': 'jujutsu/blau/peu.md'}, {'Esquena': 'jujutsu/blau/esquena.md'}, {'Raspats guàrdia': 'jujutsu/blau/raspats_guardia.md'}, {'Mitja': 'jujutsu/blau/media.md'}, {'Passatges': 'jujutsu/blau/passatges.md'}, {'Derribs': 'jujutsu/blau/derribs.md'}, {'Punts': 'jujutsu/blau/punts.md'}]}]}, {'Varios': ['varios/index.md', {'Recopilación inicial': 'varios/recopilacion.md'}, {'Mis videos de Pilates': 'varios/pilates.md'}, {'Fuentes': 'varios/fuentes.md'}, {'Próximamente': 'varios/proximamente.md'}, {'Plantilla': 'varios/plantilla.md'}, {'Legal': 'varios/legal.md'}, {'Privacidad': 'varios/privacidad.md'}, {'Cookies': 'varios/cookies.md'}, {'Entorno': 'varios/variables.md'}]}]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>pages</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>site_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'https://movimiento-animal.es/'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>site_description</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Sitio web de locomoción y movimiento animal. Detalles de cada ejercicio, rutinas, etc.'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>site_author</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Pere Vilás (https://github.com/pvilas)'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>theme</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Theme</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">Theme(name='material', dirs=['/home/runner/work/animal-movements/animal-movements/overrides', '/opt/hostedtoolcache/Python/3.11.4/x64/lib/python3.11/site-packages/material', '/opt/hostedtoolcache/Python/3.11.4/x64/lib/python3.11/site-packages/mkdocs/templates'], static_templates=['sitemap.xml', '404.html'], name='material', locale=Locale(language='en', territory=''), language='es', direction=None, features=['navigation.tabs', 'navigation.sections', 'navigation.expand', 'navigation.indexes'], font={'text': 'Roboto', 'code': 'Roboto Mono'}, icon=None, favicon='favicon.ico', logo='https://static.movimiento-animal.es/img/logo.png', palette={'scheme': 'default'})</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>docs_dir</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/home/runner/work/animal-movements/animal-movements/docs'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>site_dir</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/home/runner/work/animal-movements/animal-movements/site'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>copyright</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'@Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>google_analytics</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>dev_addr</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>_IpAddressValue</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">_IpAddressValue(host='127.0.0.1', port=8000)</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>use_directory_urls</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>bool</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">True</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>repo_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>repo_name</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>edit_uri_template</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>edit_uri</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>extra_css</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">['stylesheets/fonts.css']</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>extra_javascript</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>extra_templates</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>markdown_extensions</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">['toc', 'tables', 'fenced_code', 'meta', 'attr_list', 'pymdownx.emoji']</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>mdx_configs</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>pymdownx.emoji</b> [<i>dict</i>]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>strict</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>bool</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">False</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>remote_branch</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'gh-pages'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>remote_name</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'origin'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>extra</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>LegacyConfig</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">{'version': 1.0, 'posters': '/img/posters/', 'yandex_verification': 'dea5f349dc0d400a', 'social': [{'icon': 'fontawesome/brands/github', 'link': 'https://github.com/pvilas'}, {'icon': 'fontawesome/brands/linkedin', 'link': 'https://www.linkedin.com/in/pvilas/'}, {'icon': 'fontawesome/brands/twitter', 'link': 'https://twitter.com/movimientoanim4'}]}</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>plugins</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>PluginCollection</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>macros</b> [<i>MacrosPlugin</i>], <b>material/search</b> [<i>SearchPlugin</i>]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>hooks</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>watch</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>arrel_img</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'https://static.movimiento-animal.es/'</td>
+
+        </tr>
+
+</table>
+
+<h3 id="macros">Macros</h3>
+<p>These macros have been defined programmatically for this environment
+(module or pluglets). </p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>context</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>obj, e</i>)<br/> <p><em>Default mkdocs_macro</em> List the defined variables</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>macros_info</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i></i>)<br/> <p>Test/debug function:         list useful documentation on the mkdocs_macro environment.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>now</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i></i>)<br/> <p>Get the current time (returns a datetime object).          Used alone, it provides a timestamp.         To get the year use <code>now().year</code>, for the month number          <code>now().month</code>, etc.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>fix_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>url, r</i>)<br/> <p>If url is relative, fix it so that it points to the docs diretory.     This is necessary because relative links in markdown must be adapted     in html ('img/foo.png' =&gt; '../img/img.png').</p></td>
+
+        </tr>
+
+</table>
+
+<h3 id="git-information">Git Information</h3>
+<p>Information available on the last commit and the git repository containing the
+documentation project:</p>
+<p>e.g. <code>{{ git.message }}</code></p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>status</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>bool</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">True</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>date</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>datetime</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">datetime.datetime(2023, 6, 16, 14, 22, 20, tzinfo=tzoffset(None, 7200))</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>short_commit</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'374ff34'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>commit</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'374ff34bf7f87ec70e94d0dfbefa8600ba09cb2f'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>tag</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">''</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>author</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Pere Vilás'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>author_email</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'pvilas@gmail.com'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>committer</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Pere Vilás'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>committer_email</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'pvilas@gmail.com'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>date_ISO</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Fri Jun 16 14:22:20 2023 +0200'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>message</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'actualitzat jmm escapes side control'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>raw</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'commit 374ff34bf7f87ec70e94d0dfbefa8600ba09cb2f\nAuthor: Pere Vilás <pvilas@gmail.com>\nDate:   Fri Jun 16 14:22:20 2023 +0200\n\n    actualitzat jmm escapes side control'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>root_dir</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/home/runner/work/animal-movements/animal-movements'</td>
+
+        </tr>
+
+</table>
+
+<h3 id="page-attributes">Page Attributes</h3>
+<p>Provided by MkDocs. These attributes change for every page
+(the attributes shown are for this page).</p>
+<p>e.g. <code>{{ page.title }}</code></p>
+<p>See also the <a href="https://www.MkDocs.org/user-guide/custom-themes/#page">MkDocs documentation on the page object</a>.</p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>file</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>File</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>page</b> [<i>Page</i>], src_uri = 'varios/variables.md', abs_src_path = '/home/runner/work/animal-movements/animal-movements/docs/varios/variables.md', name = 'variables', dest_uri = 'varios/variables/index.html', abs_dest_path = '/home/runner/work/animal-movements/animal-movements/site/varios/variables/index.html', url = 'varios/variables/'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>title</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'Entorno'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>parent</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Section</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">title = 'Varios', children = [Page(title='Índice de varios', url='/varios/'), Page(title='Recopilación inicial', url='/varios/recopilacion/'), Page(title='Mis videos de Pilates', url='/varios/pilates/'), Page(title='Fuentes', url='/varios/fuentes/'), Page(title='Próximamente', url='/varios/proximamente/'), Page(title='Plantilla', url='/varios/plantilla/'), Page(title='Legal', url='/varios/legal/'), Page(title='Privacidad', url='/varios/privacidad/'), Page(title='Cookies', url='/varios/cookies/'), Page(title='Entorno', url='/varios/variables/')], <b>parent</b> [<i>NoneType</i>], _Section__active = False</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>children</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>previous_page</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>Page</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">Page(title='Cookies', url='/varios/cookies/')</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>next_page</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>_Page__active</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>bool</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">False</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>update_date</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'2023-06-16'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>canonical_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'https://movimiento-animal.es/varios/variables/'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>abs_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'/varios/variables/'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>edit_url</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>markdown</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>str</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">'{% extends "pagina.jinja" %}\n{% block descripcion %}\n{{ macros_info() }}\n{% endblock %}\n'</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>content</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>NoneType</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">None</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>toc</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>list</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">[]</td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>meta</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>dict</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">title = 'Variables de generación del sitio web', description = 'movimiento-animal.es - Variables de generación del sitio web'</td>
+
+        </tr>
+
+</table>
+
+<p>To have all titles of all pages, use:</p>
+<pre><code>
+{% for page in navigation.pages %}
+- {{ page.title }}
+{% endfor %}
+
+</code></pre>
+<h3 id="plugin-filters">Plugin Filters</h3>
+<p>These filters are provided as a standard by the macros plugin.</p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>pretty</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>var_list, rows, header, e</i>)<br/> <p><em>Default mkdocs_macro</em> Prettify a dictionary or object          (used for environment documentation, or debugging).</p></td>
+
+        </tr>
+
+</table>
+
+<h3 id="builtin-jinja2-filters">Builtin Jinja2 Filters</h3>
+<p>These filters are provided by Jinja2 as a standard.</p>
+<p>See also the <a href="https://jinja.palletsprojects.com/en/2.11.x/templates/#builtin-filters">Jinja2 documentation on builtin filters</a>).</p>
+<table class="pretty" style="background-color: #F0FFFF; border:1px solid #DCDCDC; padding: 5px">
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Variable</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Type</th>
+
+    <th style="border:1px solid #DCDCDC; padding: 5px">Content</th>
+
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>abs</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Return the absolute value of the argument.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>attr</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, obj, name, value</i>)<br/> <p>Get an attribute of an object.  <code>foo|attr("bar")</code> works like     <code>foo.bar</code> just that always an attribute is returned and items are not     looked up.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>batch</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, linecount, fill_with, tmp, item</i>)<br/> <p>A filter that batches items. It works pretty much like <code>slice</code>     just the other way round. It returns a list of lists with the     given number of items. If you provide a second parameter this     is used to fill up missing items. See this example.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>capitalize</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s</i>)<br/> <p>Capitalize a value. The first character will be uppercase, all others     lowercase.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>center</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, width</i>)<br/> <p>Centers the value in a field of a given width.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>count</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Return the number of items in a container.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>d</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, default_value, boolean</i>)<br/> <p>If the value is undefined it will return the passed default value,     otherwise the value of the variable.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>default</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, default_value, boolean</i>)<br/> <p>If the value is undefined it will return the passed default value,     otherwise the value of the variable.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>dictsort</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, case_sensitive, by, reverse, sort_func</i>)<br/> <p>Sort a dict and yield (key, value) pairs. Python dicts may not     be in the order you want to display them in, so sort them first.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>e</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Replace the characters <code>&amp;</code>, <code>&lt;</code>, <code>&gt;</code>, <code>'</code>, and <code>"</code> in the string with HTML-safe sequences. Use this if you need to display text that might contain such characters in HTML.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>escape</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Replace the characters <code>&amp;</code>, <code>&lt;</code>, <code>&gt;</code>, <code>'</code>, and <code>"</code> in the string with HTML-safe sequences. Use this if you need to display text that might contain such characters in HTML.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>filesizeformat</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, binary, bytes, base, prefixes, i, prefix, unit</i>)<br/> <p>Format the value like a 'human-readable' file size (i.e. 13 kB,     4.1 MB, 102 Bytes, etc).  Per default decimal prefixes are used (Mega,     Giga, etc.), if the second parameter is set to <code>True</code> the binary     prefixes are used (Mebi, Gibi).</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>first</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Return the first item of a sequence.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>float</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, default</i>)<br/> <p>Convert the value into a floating point number. If the     conversion doesn't work it will return <code>0.0</code>. You can     override this default using the first parameter.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>forceescape</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value</i>)<br/> <p>Enforce HTML escaping.  This will probably double escape variables.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>format</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, args, kwargs</i>)<br/> <p>Apply the given values to a <code>printf-style</code>_ format string, like     <code>string % values</code>.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>groupby</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Group a sequence of objects by an attribute using Python's     :func:<code>itertools.groupby</code>. The attribute can use dot notation for     nested access, like <code>"address.city"</code>. Unlike Python's <code>groupby</code>,     the values are sorted first so only one group is returned for each     unique value.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>indent</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s, width, first, blank, newline, rv, lines</i>)<br/> <p>Return a copy of the string with each line indented by 4 spaces. The     first line and blank lines are not indented by default.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>int</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, default, base</i>)<br/> <p>Convert the value into an integer. If the     conversion doesn't work it will return <code>0</code>. You can     override this default using the first parameter. You     can also override the default base (10) in the second     parameter, which handles input with prefixes such as     0b, 0o and 0x for bases 2, 8 and 16 respectively.     The base is ignored for decimal numbers and non-string values.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>join</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Return a string which is the concatenation of the strings in the     sequence. The separator between elements is an empty string per     default, you can define it with the optional parameter.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>last</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, seq</i>)<br/> <p>Return the last item of a sequence.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>length</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Return the number of items in a container.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>list</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Convert the value into a list.  If it was a string the returned list     will be a list of characters.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>lower</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s</i>)<br/> <p>Convert a value to lowercase.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>items</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value</i>)<br/> <p>Return an iterator over the <code>(key, value)</code> items of a mapping.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>map</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Applies a filter on a sequence of objects or looks up an attribute.     This is useful when dealing with lists of objects but you are really     only interested in a certain value of it.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>min</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, value, case_sensitive, attribute</i>)<br/> <p>Return the smallest item from the sequence.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>max</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, value, case_sensitive, attribute</i>)<br/> <p>Return the largest item from the sequence.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>pprint</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value</i>)<br/> <p>Pretty print a variable. Useful for debugging.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>random</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>context, seq</i>)<br/> <p>Return a random item from the sequence.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>reject</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Filters a sequence of objects by applying a test to each object,     and rejecting the objects with the test succeeding.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>rejectattr</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Filters a sequence of objects by applying a test to the specified     attribute of each object, and rejecting the objects with the test     succeeding.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>replace</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>eval_ctx, s, old, new, count</i>)<br/> <p>Return a copy of the value with all occurrences of a substring     replaced with a new one. The first argument is the substring     that should be replaced, the second is the replacement string.     If the optional third argument <code>count</code> is given, only the first     <code>count</code> occurrences are replaced.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>reverse</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, rv, e</i>)<br/> <p>Reverse the object or return an iterator that iterates over it the other     way round.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>round</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, precision, method, func</i>)<br/> <p>Round the number to a given precision. The first     parameter specifies the precision (default is <code>0</code>), the     second the rounding method.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>safe</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value</i>)<br/> <p>Mark the value as safe which means that in an environment with automatic     escaping enabled this variable will not be escaped.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>select</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Filters a sequence of objects by applying a test to each object,     and only selecting the objects with the test succeeding.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>selectattr</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Filters a sequence of objects by applying a test to the specified     attribute of each object, and only selecting the objects with the     test succeeding.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>slice</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Slice an iterator and return a list of lists containing     those items. Useful if you want to create a div containing     three ul tags that represent columns.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>sort</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, value, reverse, case_sensitive, attribute, key_func</i>)<br/> <p>Sort an iterable using Python's :func:<code>sorted</code>.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>string</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>builtin_function_or_method</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><p>Convert an object to a string if it isn't already. This preserves a :class:<code>Markup</code> string rather than converting it back to a basic string, so it will still be marked as safe and won't be escaped again.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>striptags</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value</i>)<br/> <p>Strip SGML/XML tags and replace adjacent whitespace by one space.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>sum</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>args, kwargs, b</i>)<br/> <p>Returns the sum of a sequence of numbers plus the value of parameter     'start' (which defaults to 0).  When the sequence is empty it returns     start.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>title</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s</i>)<br/> <p>Return a titlecased version of the value. I.e. words will start with     uppercase letters, all remaining characters are lowercase.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>trim</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, chars</i>)<br/> <p>Strip leading and trailing characters, by default whitespace.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>truncate</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>env, s, length, killwords, end, leeway, result</i>)<br/> <p>Return a truncated copy of the string. The length is specified     with the first parameter which defaults to <code>255</code>. If the second     parameter is <code>true</code> the filter will cut the text at length. Otherwise     it will discard the last word. If the text was in fact     truncated it will append an ellipsis sign (<code>"..."</code>). If you want a     different ellipsis sign than <code>"..."</code> you can specify it using the     third parameter. Strings that only exceed the length by the tolerance     margin given in the fourth parameter will not be truncated.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>unique</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, value, case_sensitive, attribute, getter, seen, item, key</i>)<br/> <p>Returns a list of unique items from the given iterable.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>upper</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s</i>)<br/> <p>Convert a value to uppercase.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>urlencode</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>value, items</i>)<br/> <p>Quote data for use in a URL path or query using UTF-8.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>urlize</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>eval_ctx, value, trim_url_limit, nofollow, target, rel, extra_schemes, policies, rel_parts, scheme, rv</i>)<br/> <p>Convert URLs in text into clickable links.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>wordcount</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>s</i>)<br/> <p>Count the words in that string.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>wordwrap</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>environment, s, width, break_long_words, wrapstring, break_on_hyphens</i>)<br/> <p>Wrap a string to the given width. Existing newlines are treated     as paragraphs to be wrapped separately.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>xmlattr</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>eval_ctx, d, autospace, rv</i>)<br/> <p>Create an SGML/XML attribute string based on the items in a dict.     All values that are neither <code>none</code> nor <code>undefined</code> are automatically     escaped.</p></td>
+
+        </tr>
+
+        <tr>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><b>tojson</b></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px"><i>function</i></td>
+
+            <td style="vertical-align:top; border:1px solid #DCDCDC; padding: 5px">(<i>eval_ctx, value, indent, policies, dumps, kwargs</i>)<br/> <p>Serialize an object to a string of JSON, and mark it safe to     render in HTML. This filter is only for use in HTML documents.</p></td>
+
+        </tr>
+
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        
+  <footer class="md-footer">
+    
+      <div class="md-footer-nav">
+        <nav class="md-footer-nav__inner md-grid" aria-label="">
+          
+            <a href="../cookies/" title="Cookies" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+              <div class="md-footer-nav__button md-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+              </div>
+              <div class="md-footer-nav__title">
+                <div class="md-ellipsis">
+                  <span class="md-footer-nav__direction">
+                    Anterior
+                  </span>
+                  Cookies
+                </div>
+              </div>
+            </a>
+          
+          
+        </nav>
+      </div>
+    
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <div class="md-footer-copyright">
+          
+            <div class="md-footer-copyright__highlight">
+              @Pere Vilás (<a href="http://pvilas.com" target="_blank">pvilas.com</a>)
+            </div>
+                   
+        </div>
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/pvilas" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/pvilas/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/movimientoanim4" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+</div>
+      </div>
+    </div>
+  </footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+  <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.expand", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": 1.0}</script>
+    
+
+  <link rel="prefetch" href="/assets/stylesheets/fonts.css"  as="style">
+  <link rel="stylesheet" href="/assets/stylesheets/fonts.css">
+
+  <link rel="stylesheet" href="/assets/stylesheets/bes.css">
+  
+  <!-- Extra color palette -->
+  
+    
+    <link
+      rel="prefetch"
+      href="/assets/stylesheets/palette.css"
+      as="style"
+    />
+    <link
+      rel="stylesheet"
+      href="/assets/stylesheets/palette.css"      
+    />
+
+    <!-- Theme-color meta tag for Android -->
+    
+  
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+
+    
+      <script src="../../assets/javascripts/bundle.a51614de.min.js"></script>
+      
+    
+  </body>
+</html>

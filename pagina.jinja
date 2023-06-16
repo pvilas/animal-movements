@@ -1,0 +1,146 @@
+{% from 'macros.jinja' import render_video, render_video_url, render_cards, pon_fuente %}
+
+{# nombre de la pagina (mismo que nombre que video, poster, etc.) #}
+{% set name = page.abs_url.split('/')[-2] %}
+
+{% block breadcrumb %}
+
+<nav style="margin-top: -2.25em;">
+    <div class="nav-wrapper">
+      <div class="col s12">
+<a href="/#navegacion-del-sitio" class="breadcrumb">Home</a> &raquo;      
+{% if page.parent.parent %}
+<a href="/{{page.parent.parent.children[0].url}}" class="breadcrumb">{{page.parent.parent.title}}</a> &raquo;
+{% endif %}
+{% if page.parent %}
+<a href="/{{page.parent.children[0].url}}" class="breadcrumb">{{page.parent.title}}</a> &raquo;
+{% endif %}
+{{page.title}}
+      </div>
+    </div>
+</nav>
+
+{% endblock %}
+
+
+{% block descripcion %}
+{% if page and page.meta and page.meta.descripcion %}
+{% if is_index and not is_index==1 %}
+## Descripción
+{% endif %}
+{{page.meta.descripcion}}
+{% endif %}
+{% endblock %}
+
+{% block denominaciones %}
+{% if page.meta.denominaciones %}
+## Otras denominaciones
+{{page.meta.denominaciones}}
+{% endif %}
+{% endblock %}
+
+{% block calentamiento %}
+{% if page.meta.calentamiento %}
+## Calentamiento
+{{page.meta.calentamiento}}
+{% endif %}
+{% endblock %}
+
+{% block prerequisitos %}
+{% if page.meta.prerequisitos %}
+## Prerequisitos
+{{page.meta.prerequisitos}}
+{% endif %}
+{% endblock %}
+
+{% block repeticiones %}
+{% if page.meta.repeticiones %}
+## Repeticiones
+{{page.meta.repeticiones}}
+{% endif %}
+{% endblock %}
+
+{% block pasos %}
+{% if page.meta.pasos %}
+## Pasos
+<ol>
+{% for p in page.meta.pasos %}
+    <li>{{p|safe}}</li>
+{% endfor %}
+</ol>
+{% endif %}
+{% endblock %}
+
+{% if page.meta.videos %}
+{%for v in page.meta.videos%}
+{%if page.meta.videos|length>1%}## {{v.description}}{% endif %}
+### Pasos
+<ol>
+{% for p in v.pasos %}
+    <li>{{p[0]|safe}} 
+        {%if p[1]%}
+            <a onclick="document.getElementById('video-{{v.name}}').currentTime={{p[1]}}">({{p[1]}}s)</a>
+        {%endif%}
+    </li>
+{% endfor %}
+</ol>
+
+### Video
+{{render_video(v.name)}}
+
+{% if v.fuente %}
+{{pon_fuente(v.fuente.nombre, v.fuente.titulo, v.fuente.url)}}
+{% endif %}
+
+{%endfor%}
+{%endif%}
+
+{% block tecnicas %}
+{% if page.meta.tecnicas %}
+    {% for t in page.meta.tecnicas %}
+## {{t.titulo}}
+{{t.description}}
+        
+{% for p in t.pasos %}
+<p>{{p[0]}}</p>
+{% if p[1] and p[1].endswith('.mp4')%}
+{{render_video_url(t.arrel_img+p[1])}}
+{% else %}
+![{{p[0]}}]({%if t.arrel_img%}{{t.arrel_img}}{%endif%}{{p[1]}})
+{% endif %}
+{% endfor %}
+        
+{% endfor %}
+
+{% endif %}
+{% endblock tecnicas %}
+
+
+
+
+{% block fuentes %}
+{% if page.meta.fuentes %}
+## Fuentes
+<p>
+    {% for f in page.meta.fuentes%}
+        {% if f=="propia"%}
+            <a href="{{config.site_url}}">Producción propia</a>.
+        {%else%}
+            <a href="/varios/fuentes/#{{f}}">{{f}}</a>{% if not loop.last%}, {%else%}.{% endif %}
+        {%endif%}
+    {%endfor%}
+</p>
+{% endif %}
+{% endblock %}
+
+
+{% block mascosas %}
+{% endblock %}
+
+
+{% block indice %}
+{% if page.meta.is_index %}
+{{render_cards(page.parent.children, page.url, page.meta.base_thumbs)}}
+{% endif %}
+{% endblock %}
+
