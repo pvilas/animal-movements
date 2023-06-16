@@ -40,6 +40,14 @@ fuentes:
     - "Pin Escapes: BJJ Fundamentals. John Danaher"
 tecnicas: 
   - tecnica:
+    titulo: "Detalls de Jean Jaques Machado"
+    description: "Bloquejar amb genoll per negar la monta. Primer cap, després genoll. Altra vista." 
+    arrel_img: "https://static.movimiento-animal.es/img/jujutsu/escapes/"
+    pasos:
+     - ["Sempre hem de bloquejar amb el genoll per negar la monta i, a més a més, el tenim colocat per reposar la guàrdia.", "jmm-side-control-2.mp4"]
+     - ["Primer el cap!! Després el genoll.", "jmm-side-control-1.mp4"]
+     - ["Altra vista, notar que no espitjam amb la mà si no que allunyam el cap fent servir la mà de puntal.", "jmm-side-control-3.mp4"]
+- tecnica:
     titulo: "Col.locacions del braç de fora"
     description: "Hi ha **tres** possibles col.locacions del braç de fora. "     
     pasos:
